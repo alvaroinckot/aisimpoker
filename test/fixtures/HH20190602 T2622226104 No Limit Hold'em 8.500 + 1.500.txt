@@ -1,0 +1,304 @@
+﻿PokerStars Hand #201020344724: Tournament #2622226104, 8500+1500 Hold'em No Limit - Level I (10/20) - 2019/06/02 21:11:58 ET
+Table '2622226104 1' 9-max Seat #1 is the button
+Seat 1: Aljicax (500 in chips) 
+Seat 2: kingruber (500 in chips) 
+Seat 3: Valdo812 (500 in chips) 
+Seat 4: droklove (500 in chips) 
+Seat 5: 278739 (500 in chips) 
+Seat 6: Taargeett (500 in chips) 
+Seat 7: USRGGAM (500 in chips) 
+Seat 8: mmcjang99 (500 in chips) 
+Seat 9: cheffmichel (500 in chips) 
+Aljicax: posts the ante 2
+kingruber: posts the ante 2
+Valdo812: posts the ante 2
+droklove: posts the ante 2
+278739: posts the ante 2
+Taargeett: posts the ante 2
+USRGGAM: posts the ante 2
+mmcjang99: posts the ante 2
+cheffmichel: posts the ante 2
+kingruber: posts small blind 10
+Valdo812: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [5d Tc]
+droklove: folds 
+278739: calls 20
+Taargeett: folds 
+USRGGAM has timed out
+USRGGAM: folds 
+mmcjang99: calls 20
+cheffmichel: folds 
+Aljicax: raises 20 to 40
+kingruber: calls 30
+Valdo812: calls 20
+278739: calls 20
+mmcjang99: calls 20
+*** FLOP *** [As Qd 3s]
+kingruber: checks 
+Valdo812: checks 
+278739: checks 
+mmcjang99: bets 458 and is all-in
+Aljicax: calls 458 and is all-in
+kingruber: folds 
+Valdo812: folds 
+278739: folds 
+*** TURN *** [As Qd 3s] [7s]
+*** RIVER *** [As Qd 3s 7s] [6h]
+*** SHOW DOWN ***
+mmcjang99: shows [Ah 4d] (a pair of Aces)
+Aljicax: shows [Qs Qh] (three of a kind, Queens)
+Aljicax collected 1134 from pot
+mmcjang99 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 1134 | Rake 0 
+Board [As Qd 3s 7s 6h]
+Seat 1: Aljicax (button) showed [Qs Qh] and won (1134) with three of a kind, Queens
+Seat 2: kingruber (small blind) folded on the Flop
+Seat 3: Valdo812 (big blind) folded on the Flop
+Seat 4: droklove folded before Flop (didn't bet)
+Seat 5: 278739 folded on the Flop
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: USRGGAM folded before Flop (didn't bet)
+Seat 8: mmcjang99 showed [Ah 4d] and lost with a pair of Aces
+Seat 9: cheffmichel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201020368885: Tournament #2622226104, 8500+1500 Hold'em No Limit - Level I (10/20) - 2019/06/02 21:13:25 ET
+Table '2622226104 1' 9-max Seat #2 is the button
+Seat 1: Aljicax (1134 in chips) 
+Seat 2: kingruber (458 in chips) 
+Seat 3: Valdo812 (458 in chips) 
+Seat 4: droklove (498 in chips) 
+Seat 5: 278739 (458 in chips) 
+Seat 6: Taargeett (498 in chips) 
+Seat 7: USRGGAM (498 in chips) 
+Seat 9: cheffmichel (498 in chips) 
+Aljicax: posts the ante 2
+kingruber: posts the ante 2
+Valdo812: posts the ante 2
+droklove: posts the ante 2
+278739: posts the ante 2
+Taargeett: posts the ante 2
+USRGGAM: posts the ante 2
+cheffmichel: posts the ante 2
+Valdo812: posts small blind 10
+droklove: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Ah 2d]
+278739: folds 
+Taargeett: raises 20 to 40
+USRGGAM has timed out
+USRGGAM: folds 
+cheffmichel: folds 
+Aljicax: folds 
+kingruber: folds 
+Valdo812: folds 
+droklove: calls 20
+*** FLOP *** [3c Ks 5d]
+droklove: bets 20
+Taargeett: folds 
+Uncalled bet (20) returned to droklove
+droklove collected 106 from pot
+droklove: doesn't show hand 
+*** SUMMARY ***
+Total pot 106 | Rake 0 
+Board [3c Ks 5d]
+Seat 1: Aljicax folded before Flop (didn't bet)
+Seat 2: kingruber (button) folded before Flop (didn't bet)
+Seat 3: Valdo812 (small blind) folded before Flop
+Seat 4: droklove (big blind) collected (106)
+Seat 5: 278739 folded before Flop (didn't bet)
+Seat 6: Taargeett folded on the Flop
+Seat 7: USRGGAM folded before Flop (didn't bet)
+Seat 9: cheffmichel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201020381798: Tournament #2622226104, 8500+1500 Hold'em No Limit - Level II (15/30) - 2019/06/02 21:14:12 ET
+Table '2622226104 1' 9-max Seat #3 is the button
+Seat 1: Aljicax (1132 in chips) 
+Seat 2: kingruber (456 in chips) 
+Seat 3: Valdo812 (446 in chips) 
+Seat 4: droklove (562 in chips) 
+Seat 5: 278739 (456 in chips) 
+Seat 6: Taargeett (456 in chips) 
+Seat 7: USRGGAM (496 in chips) 
+Seat 9: cheffmichel (496 in chips) 
+Aljicax: posts the ante 3
+kingruber: posts the ante 3
+Valdo812: posts the ante 3
+droklove: posts the ante 3
+278739: posts the ante 3
+Taargeett: posts the ante 3
+USRGGAM: posts the ante 3
+cheffmichel: posts the ante 3
+droklove: posts small blind 15
+278739: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [8h Kc]
+Taargeett: folds 
+USRGGAM: calls 30
+cheffmichel: calls 30
+Aljicax: calls 30
+kingruber: folds 
+Valdo812: folds 
+droklove: calls 15
+278739: checks 
+*** FLOP *** [Jd Qc 6h]
+droklove: checks 
+278739: checks 
+USRGGAM: checks 
+cheffmichel: checks 
+Aljicax: bets 60
+droklove: folds 
+278739: folds 
+USRGGAM: calls 60
+cheffmichel: calls 60
+*** TURN *** [Jd Qc 6h] [8s]
+USRGGAM: checks 
+cheffmichel: checks 
+Aljicax: checks 
+*** RIVER *** [Jd Qc 6h 8s] [Td]
+USRGGAM has timed out
+USRGGAM: checks 
+cheffmichel: bets 177
+Aljicax: calls 177
+USRGGAM: raises 177 to 354
+cheffmichel: calls 177
+Aljicax: folds 
+*** SHOW DOWN ***
+USRGGAM: shows [7s 9h] (a straight, Eight to Queen)
+cheffmichel: shows [Tc 9c] (a straight, Eight to Queen)
+USRGGAM collected 620 from pot
+cheffmichel collected 619 from pot
+*** SUMMARY ***
+Total pot 1239 | Rake 0 
+Board [Jd Qc 6h 8s Td]
+Seat 1: Aljicax folded on the River
+Seat 2: kingruber folded before Flop (didn't bet)
+Seat 3: Valdo812 (button) folded before Flop (didn't bet)
+Seat 4: droklove (small blind) folded on the Flop
+Seat 5: 278739 (big blind) folded on the Flop
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: USRGGAM showed [7s 9h] and won (620) with a straight, Eight to Queen
+Seat 9: cheffmichel showed [Tc 9c] and won (619) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #201020414907: Tournament #2622226104, 8500+1500 Hold'em No Limit - Level III (20/40) - 2019/06/02 21:16:13 ET
+Table '2622226104 1' 9-max Seat #4 is the button
+Seat 1: Aljicax (862 in chips) 
+Seat 2: kingruber (453 in chips) 
+Seat 3: Valdo812 (443 in chips) 
+Seat 4: droklove (529 in chips) 
+Seat 5: 278739 (423 in chips) 
+Seat 6: Taargeett (453 in chips) 
+Seat 7: USRGGAM (669 in chips) 
+Seat 9: cheffmichel (668 in chips) 
+Aljicax: posts the ante 4
+kingruber: posts the ante 4
+Valdo812: posts the ante 4
+droklove: posts the ante 4
+278739: posts the ante 4
+Taargeett: posts the ante 4
+USRGGAM: posts the ante 4
+cheffmichel: posts the ante 4
+278739: posts small blind 20
+Taargeett: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Taargeett [Jd 4h]
+USRGGAM: calls 40
+cheffmichel: folds 
+Aljicax: calls 40
+kingruber: folds 
+Valdo812: raises 120 to 160
+droklove: calls 160
+278739 has timed out
+278739: folds 
+Taargeett: folds 
+USRGGAM has timed out
+USRGGAM: folds 
+Aljicax: folds 
+*** FLOP *** [Qd Js 6h]
+Valdo812: bets 246
+droklove: calls 246
+*** TURN *** [Qd Js 6h] [5c]
+Valdo812: bets 33 and is all-in
+droklove: calls 33
+*** RIVER *** [Qd Js 6h 5c] [Qs]
+*** SHOW DOWN ***
+Valdo812: shows [2d 4d] (a pair of Queens)
+droklove: shows [9h 9s] (two pair, Queens and Nines)
+droklove collected 1050 from pot
+Valdo812 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Qd Js 6h 5c Qs]
+Seat 1: Aljicax folded before Flop
+Seat 2: kingruber folded before Flop (didn't bet)
+Seat 3: Valdo812 showed [2d 4d] and lost with a pair of Queens
+Seat 4: droklove (button) showed [9h 9s] and won (1050) with two pair, Queens and Nines
+Seat 5: 278739 (small blind) folded before Flop
+Seat 6: Taargeett (big blind) folded before Flop
+Seat 7: USRGGAM folded before Flop
+Seat 9: cheffmichel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201020438935: Tournament #2622226104, 8500+1500 Hold'em No Limit - Level III (20/40) - 2019/06/02 21:17:41 ET
+Table '2622226104 1' 9-max Seat #5 is the button
+Seat 1: Aljicax (818 in chips) 
+Seat 2: kingruber (449 in chips) 
+Seat 4: droklove (1136 in chips) 
+Seat 5: 278739 (399 in chips) is sitting out
+Seat 6: Taargeett (409 in chips) 
+Seat 7: USRGGAM (625 in chips) is sitting out
+Seat 9: cheffmichel (664 in chips) 
+Aljicax: posts the ante 4
+kingruber: posts the ante 4
+droklove: posts the ante 4
+278739: posts the ante 4
+Taargeett: posts the ante 4
+USRGGAM: posts the ante 4
+cheffmichel: posts the ante 4
+Taargeett: posts small blind 20
+USRGGAM: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Taargeett [Ad Qh]
+cheffmichel: calls 40
+Aljicax: calls 40
+kingruber: folds 
+droklove: folds 
+278739: folds 
+Taargeett: raises 80 to 120
+USRGGAM: folds 
+cheffmichel: calls 80
+Aljicax: calls 80
+*** FLOP *** [4s 6h 8h]
+Taargeett: bets 160
+cheffmichel: calls 160
+Aljicax: folds 
+*** TURN *** [4s 6h 8h] [Ks]
+Taargeett: bets 125 and is all-in
+cheffmichel: calls 125
+*** RIVER *** [4s 6h 8h Ks] [Qs]
+*** SHOW DOWN ***
+Taargeett: shows [Ad Qh] (a pair of Queens)
+cheffmichel: shows [8s Kc] (two pair, Kings and Eights)
+cheffmichel collected 998 from pot
+Taargeett finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 998 | Rake 0 
+Board [4s 6h 8h Ks Qs]
+Seat 1: Aljicax folded on the Flop
+Seat 2: kingruber folded before Flop (didn't bet)
+Seat 4: droklove folded before Flop (didn't bet)
+Seat 5: 278739 (button) folded before Flop (didn't bet)
+Seat 6: Taargeett (small blind) showed [Ad Qh] and lost with a pair of Queens
+Seat 7: USRGGAM (big blind) folded before Flop
+Seat 9: cheffmichel showed [8s Kc] and won (998) with two pair, Kings and Eights
+
+
+
