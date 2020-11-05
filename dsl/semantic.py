@@ -4,8 +4,8 @@ import ast
 
 class PokerSemantic(Transformer):
 
-    # def __init__(self):
-
+    def __init__(self, match):
+        self.match = match
     # def hand(self, token):
     # self.engine.declare(Hand(id=int(token[0])))
 
@@ -13,20 +13,21 @@ class PokerSemantic(Transformer):
     # self.engine.declare(Blind(small=int(token[1]), big=int(token[2])))
 
     def player(self, token):
+        # self.match.player = token[0].strip()
+        self.match.players.append(token[0].strip())
         return token[0].strip()
+
+    def received_card(self, token):
+        self.match.main_player = token[1]
 
     def chips(self, token):
         return ast.literal_eval(token[0])
 
-    # def seat(self, token):
-        # self.engine.declare(Player(name=token[1],
-        #    chips=token[2],
-        #    seat=ast.literal_eval(token[0]),
-        #    is_out=(len(token) == 4 and token[3].type == "IS_OUT")))
+    def seat(self, token):
+        return {'name': token[1], 'chips': token[2], 'seat': ast.literal_eval(token[0]),  'is_out': (len(token) == 4 and token[3].type == "IS_OUT")}
 
-        # def received_card(self, token):
-        # self.engine.declare(ReceivedCard(
-        # player=token[0], cards=token[1].children))
+    def received_card(self, token):
+        return {'player': token[0], 'cards': token[1].children}
 
         # def board(self, token):
         # self.engine.declare(Table(cards=token[0].children))
@@ -64,8 +65,10 @@ class PokerSemantic(Transformer):
     def uncalled_bet(self, token):
         pass
 
-    # def total_pot(self, token):
-        # self.engine.declare(GameSummary(pot=token[0]))
+    def total_pot(self, token):
+        print(token[0])
+        # return ast.literal_eval(token[0])
+        return token[0]
 
     def total_pot_many(self, token):
         return ast.literal_eval(token[0])
