@@ -13,6 +13,8 @@ logging.debug("Finished loading language syntax")
 def interpret(hand_history):
     hands = hand_history.split("\n\n\n")
     for hand in hands:
+        if str.isspace(hand):
+            continue
         tree = language.parse(hand)
         match = Match()
         semantic = PokerSemantic(match)
