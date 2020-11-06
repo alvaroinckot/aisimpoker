@@ -1,0 +1,4301 @@
+﻿PokerStars Hand #207673388242: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2019/12/31 2:23:14 BRT [2019/12/31 0:23:14 ET]
+Table '2771440469 2' 9-max Seat #1 is the button
+Seat 1: Mr.Creamer (1500 in chips) 
+Seat 2: AlyCWB (1500 in chips) 
+Seat 3: blurp787 (1500 in chips) 
+Seat 4: Miltinhoedu1 (1500 in chips) 
+Seat 5: noboru83 (1500 in chips) 
+Seat 6: ruancampos99 (1500 in chips) 
+Seat 7: lazyafternoon (1500 in chips) 
+Seat 8: flashyboy77 (1500 in chips) 
+Seat 9: O Aprendi105 (1500 in chips) 
+Mr.Creamer: posts the ante 3
+AlyCWB: posts the ante 3
+blurp787: posts the ante 3
+Miltinhoedu1: posts the ante 3
+noboru83: posts the ante 3
+ruancampos99: posts the ante 3
+lazyafternoon: posts the ante 3
+flashyboy77: posts the ante 3
+O Aprendi105: posts the ante 3
+AlyCWB: posts small blind 10
+blurp787: posts big blind 20
+*** HOLE CARDS ***
+Dealt to AlyCWB [Th Ad]
+Miltinhoedu1: folds 
+noboru83: folds 
+ruancampos99: folds 
+lazyafternoon: calls 20
+flashyboy77: calls 20
+O Aprendi105: calls 20
+Mr.Creamer: calls 20
+AlyCWB: raises 147 to 167
+blurp787: folds 
+lazyafternoon: calls 147
+flashyboy77: folds 
+O Aprendi105: calls 147
+Mr.Creamer: calls 147
+*** FLOP *** [Kh 3c 6c]
+AlyCWB: checks 
+lazyafternoon: checks 
+O Aprendi105: checks 
+Mr.Creamer: bets 368
+AlyCWB: folds 
+lazyafternoon: calls 368
+O Aprendi105: folds 
+*** TURN *** [Kh 3c 6c] [4s]
+lazyafternoon: checks 
+Mr.Creamer: bets 736
+lazyafternoon: calls 736
+*** RIVER *** [Kh 3c 6c 4s] [9d]
+lazyafternoon: checks 
+Mr.Creamer: bets 226 and is all-in
+lazyafternoon: folds 
+Uncalled bet (226) returned to Mr.Creamer
+Mr.Creamer collected 2943 from pot
+Mr.Creamer: doesn't show hand 
+*** SUMMARY ***
+Total pot 2943 | Rake 0 
+Board [Kh 3c 6c 4s 9d]
+Seat 1: Mr.Creamer (button) collected (2943)
+Seat 2: AlyCWB (small blind) folded on the Flop
+Seat 3: blurp787 (big blind) folded before Flop
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: ruancampos99 folded before Flop (didn't bet)
+Seat 7: lazyafternoon folded on the River
+Seat 8: flashyboy77 folded before Flop
+Seat 9: O Aprendi105 folded on the Flop
+
+
+
+PokerStars Hand #207673415213: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2019/12/31 2:25:07 BRT [2019/12/31 0:25:07 ET]
+Table '2771440469 2' 9-max Seat #2 is the button
+Seat 1: Mr.Creamer (3169 in chips) 
+Seat 2: AlyCWB (1330 in chips) 
+Seat 3: blurp787 (1477 in chips) 
+Seat 4: Miltinhoedu1 (1497 in chips) 
+Seat 5: noboru83 (1497 in chips) 
+Seat 6: ruancampos99 (1497 in chips) 
+Seat 8: flashyboy77 (1477 in chips) 
+Seat 9: O Aprendi105 (1330 in chips) 
+Mr.Creamer: posts the ante 3
+AlyCWB: posts the ante 3
+blurp787: posts the ante 3
+Miltinhoedu1: posts the ante 3
+noboru83: posts the ante 3
+ruancampos99: posts the ante 3
+flashyboy77: posts the ante 3
+O Aprendi105: posts the ante 3
+blurp787: posts small blind 10
+Miltinhoedu1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to AlyCWB [3d Jd]
+noboru83: folds 
+ruancampos99: folds 
+flashyboy77: folds 
+O Aprendi105: folds 
+Mr.Creamer: calls 20
+AlyCWB: folds 
+blurp787: calls 10
+Miltinhoedu1: checks 
+*** FLOP *** [5d Ac 6c]
+blurp787: checks 
+Miltinhoedu1: checks 
+Mr.Creamer: bets 60
+blurp787: calls 60
+Miltinhoedu1: folds 
+*** TURN *** [5d Ac 6c] [4s]
+blurp787: checks 
+Mr.Creamer: checks 
+*** RIVER *** [5d Ac 6c 4s] [6h]
+blurp787: checks 
+Mr.Creamer: checks 
+*** SHOW DOWN ***
+blurp787: shows [5h Kh] (two pair, Sixes and Fives)
+Mr.Creamer: mucks hand 
+blurp787 collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | Rake 0 
+Board [5d Ac 6c 4s 6h]
+Seat 1: Mr.Creamer mucked [Js Qd]
+Seat 2: AlyCWB (button) folded before Flop (didn't bet)
+Seat 3: blurp787 (small blind) showed [5h Kh] and won (204) with two pair, Sixes and Fives
+Seat 4: Miltinhoedu1 (big blind) folded on the Flop
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: ruancampos99 folded before Flop (didn't bet)
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673432876: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2019/12/31 2:26:40 BRT [2019/12/31 0:26:40 ET]
+Table '2771440469 2' 9-max Seat #3 is the button
+Seat 1: Mr.Creamer (3086 in chips) 
+Seat 2: AlyCWB (1327 in chips) 
+Seat 3: blurp787 (1598 in chips) 
+Seat 4: Miltinhoedu1 (1474 in chips) 
+Seat 5: noboru83 (1494 in chips) 
+Seat 6: ruancampos99 (1494 in chips) 
+Seat 8: flashyboy77 (1474 in chips) 
+Seat 9: O Aprendi105 (1327 in chips) 
+Mr.Creamer: posts the ante 3
+AlyCWB: posts the ante 3
+blurp787: posts the ante 3
+Miltinhoedu1: posts the ante 3
+noboru83: posts the ante 3
+ruancampos99: posts the ante 3
+flashyboy77: posts the ante 3
+O Aprendi105: posts the ante 3
+Miltinhoedu1: posts small blind 10
+noboru83: posts big blind 20
+*** HOLE CARDS ***
+Dealt to AlyCWB [Qs 6d]
+ruancampos99: folds 
+flashyboy77: raises 74 to 94
+O Aprendi105: folds 
+Mr.Creamer: folds 
+AlyCWB: folds 
+blurp787: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+Uncalled bet (74) returned to flashyboy77
+flashyboy77 collected 74 from pot
+flashyboy77: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: Mr.Creamer folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: blurp787 (button) folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 (small blind) folded before Flop
+Seat 5: noboru83 (big blind) folded before Flop
+Seat 6: ruancampos99 folded before Flop (didn't bet)
+Seat 8: flashyboy77 collected (74)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673439731: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2019/12/31 2:27:16 BRT [2019/12/31 0:27:16 ET]
+Table '2771440469 2' 9-max Seat #4 is the button
+Seat 1: Mr.Creamer (3083 in chips) 
+Seat 2: AlyCWB (1324 in chips) 
+Seat 3: blurp787 (1595 in chips) 
+Seat 4: Miltinhoedu1 (1461 in chips) 
+Seat 5: noboru83 (1471 in chips) 
+Seat 6: ruancampos99 (1491 in chips) 
+Seat 8: flashyboy77 (1525 in chips) 
+Seat 9: O Aprendi105 (1324 in chips) 
+Mr.Creamer: posts the ante 3
+AlyCWB: posts the ante 3
+blurp787: posts the ante 3
+Miltinhoedu1: posts the ante 3
+noboru83: posts the ante 3
+ruancampos99: posts the ante 3
+flashyboy77: posts the ante 3
+O Aprendi105: posts the ante 3
+noboru83: posts small blind 10
+ruancampos99: posts big blind 20
+*** HOLE CARDS ***
+Dealt to AlyCWB [6c 8c]
+flashyboy77: folds 
+O Aprendi105: folds 
+Mr.Creamer: calls 20
+AlyCWB: raises 40 to 60
+blurp787: folds 
+Miltinhoedu1: calls 60
+noboru83: folds 
+ruancampos99: calls 40
+Mr.Creamer: calls 40
+*** FLOP *** [3c 2c 3d]
+ruancampos99: bets 80
+Mr.Creamer: folds 
+AlyCWB: calls 80
+Miltinhoedu1: calls 80
+*** TURN *** [3c 2c 3d] [9s]
+ruancampos99: bets 120
+AlyCWB: calls 120
+Miltinhoedu1: folds 
+*** RIVER *** [3c 2c 3d 9s] [9c]
+ruancampos99: bets 230
+AlyCWB: calls 230
+*** SHOW DOWN ***
+ruancampos99: shows [Jc Jd] (two pair, Jacks and Nines)
+AlyCWB: shows [6c 8c] (a flush, Nine high)
+AlyCWB collected 1214 from pot
+*** SUMMARY ***
+Total pot 1214 | Rake 0 
+Board [3c 2c 3d 9s 9c]
+Seat 1: Mr.Creamer folded on the Flop
+Seat 2: AlyCWB showed [6c 8c] and won (1214) with a flush, Nine high
+Seat 3: blurp787 folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 (button) folded on the Turn
+Seat 5: noboru83 (small blind) folded before Flop
+Seat 6: ruancampos99 (big blind) showed [Jc Jd] and lost with two pair, Jacks and Nines
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673455203: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2019/12/31 2:28:38 BRT [2019/12/31 0:28:38 ET]
+Table '2771440469 2' 9-max Seat #5 is the button
+Seat 1: Mr.Creamer (3020 in chips) 
+Seat 2: AlyCWB (2045 in chips) 
+Seat 3: blurp787 (1592 in chips) 
+Seat 4: Miltinhoedu1 (1318 in chips) 
+Seat 5: noboru83 (1458 in chips) 
+Seat 6: ruancampos99 (998 in chips) 
+Seat 8: flashyboy77 (1522 in chips) 
+Seat 9: O Aprendi105 (1321 in chips) 
+Mr.Creamer: posts the ante 3
+AlyCWB: posts the ante 3
+blurp787: posts the ante 3
+Miltinhoedu1: posts the ante 3
+noboru83: posts the ante 3
+ruancampos99: posts the ante 3
+flashyboy77: posts the ante 3
+O Aprendi105: posts the ante 3
+ruancampos99: posts small blind 10
+flashyboy77: posts big blind 20
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ks 7h]
+O Aprendi105: calls 20
+Mr.Creamer: calls 20
+AlyCWB: folds 
+blurp787: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+ruancampos99: folds 
+flashyboy77: checks 
+*** FLOP *** [As 4d 5c]
+flashyboy77: checks 
+O Aprendi105: checks 
+Mr.Creamer: checks 
+*** TURN *** [As 4d 5c] [6d]
+flashyboy77: checks 
+O Aprendi105: checks 
+Mr.Creamer: checks 
+*** RIVER *** [As 4d 5c 6d] [8h]
+flashyboy77: checks 
+O Aprendi105: checks 
+Mr.Creamer: checks 
+*** SHOW DOWN ***
+flashyboy77: shows [Qd 4c] (a pair of Fours)
+O Aprendi105: shows [6s Qs] (a pair of Sixes)
+Mr.Creamer: mucks hand 
+O Aprendi105 collected 94 from pot
+*** SUMMARY ***
+Total pot 94 | Rake 0 
+Board [As 4d 5c 6d 8h]
+Seat 1: Mr.Creamer mucked [Jh 9h]
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: blurp787 folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 (button) folded before Flop (didn't bet)
+Seat 6: ruancampos99 (small blind) folded before Flop
+Seat 8: flashyboy77 (big blind) showed [Qd 4c] and lost with a pair of Fours
+Seat 9: O Aprendi105 showed [6s Qs] and won (94) with a pair of Sixes
+
+
+
+PokerStars Hand #207673464288: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2019/12/31 2:29:27 BRT [2019/12/31 0:29:27 ET]
+Table '2771440469 2' 9-max Seat #6 is the button
+Seat 1: Mr.Creamer (2997 in chips) 
+Seat 2: AlyCWB (2042 in chips) 
+Seat 3: blurp787 (1589 in chips) 
+Seat 4: Miltinhoedu1 (1315 in chips) 
+Seat 5: noboru83 (1455 in chips) 
+Seat 6: ruancampos99 (985 in chips) 
+Seat 8: flashyboy77 (1499 in chips) 
+Seat 9: O Aprendi105 (1392 in chips) 
+Mr.Creamer: posts the ante 3
+AlyCWB: posts the ante 3
+blurp787: posts the ante 3
+Miltinhoedu1: posts the ante 3
+noboru83: posts the ante 3
+ruancampos99: posts the ante 3
+flashyboy77: posts the ante 3
+O Aprendi105: posts the ante 3
+flashyboy77: posts small blind 10
+O Aprendi105: posts big blind 20
+*** HOLE CARDS ***
+Dealt to AlyCWB [6s 5c]
+Mr.Creamer: folds 
+AlyCWB: folds 
+blurp787: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+ruancampos99: raises 40 to 60
+flashyboy77: raises 1436 to 1496 and is all-in
+O Aprendi105: folds 
+ruancampos99: calls 922 and is all-in
+Uncalled bet (514) returned to flashyboy77
+*** FLOP *** [2h 6d Ad]
+*** TURN *** [2h 6d Ad] [Ks]
+*** RIVER *** [2h 6d Ad Ks] [Th]
+*** SHOW DOWN ***
+flashyboy77: shows [Kh Kc] (three of a kind, Kings)
+ruancampos99: shows [Ah 9h] (a pair of Aces)
+flashyboy77 collected 2008 from pot
+ruancampos99 finished the tournament in 40th place
+*** SUMMARY ***
+Total pot 2008 | Rake 0 
+Board [2h 6d Ad Ks Th]
+Seat 1: Mr.Creamer folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: blurp787 folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: ruancampos99 (button) showed [Ah 9h] and lost with a pair of Aces
+Seat 8: flashyboy77 (small blind) showed [Kh Kc] and won (2008) with three of a kind, Kings
+Seat 9: O Aprendi105 (big blind) folded before Flop
+
+
+
+PokerStars Hand #207673475726: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2019/12/31 2:30:29 BRT [2019/12/31 0:30:29 ET]
+Table '2771440469 2' 9-max Seat #8 is the button
+Seat 1: Mr.Creamer (2994 in chips) 
+Seat 2: AlyCWB (2039 in chips) 
+Seat 3: blurp787 (1586 in chips) 
+Seat 4: Miltinhoedu1 (1312 in chips) 
+Seat 5: noboru83 (1452 in chips) 
+Seat 8: flashyboy77 (2522 in chips) 
+Seat 9: O Aprendi105 (1369 in chips) 
+Mr.Creamer: posts the ante 3
+AlyCWB: posts the ante 3
+blurp787: posts the ante 3
+Miltinhoedu1: posts the ante 3
+noboru83: posts the ante 3
+flashyboy77: posts the ante 3
+O Aprendi105: posts the ante 3
+O Aprendi105: posts small blind 10
+Mr.Creamer: posts big blind 20
+*** HOLE CARDS ***
+Dealt to AlyCWB [Js Th]
+AlyCWB: folds 
+blurp787: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+flashyboy77: calls 20
+O Aprendi105: folds 
+Mr.Creamer: checks 
+*** FLOP *** [Tc 8s 2s]
+Mr.Creamer: checks 
+flashyboy77: checks 
+*** TURN *** [Tc 8s 2s] [6h]
+Mr.Creamer: checks 
+flashyboy77: checks 
+*** RIVER *** [Tc 8s 2s 6h] [8h]
+Mr.Creamer: checks 
+flashyboy77: checks 
+*** SHOW DOWN ***
+Mr.Creamer: shows [3h Kd] (a pair of Eights)
+flashyboy77: mucks hand 
+Mr.Creamer collected 71 from pot
+*** SUMMARY ***
+Total pot 71 | Rake 0 
+Board [Tc 8s 2s 6h 8h]
+Seat 1: Mr.Creamer (big blind) showed [3h Kd] and won (71) with a pair of Eights
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: blurp787 folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 8: flashyboy77 (button) mucked [3d Jc]
+Seat 9: O Aprendi105 (small blind) folded before Flop
+
+
+
+PokerStars Hand #207673483217: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2019/12/31 2:31:10 BRT [2019/12/31 0:31:10 ET]
+Table '2771440469 2' 9-max Seat #9 is the button
+Seat 1: Mr.Creamer (3042 in chips) 
+Seat 2: AlyCWB (2036 in chips) 
+Seat 3: blurp787 (1583 in chips) 
+Seat 4: Miltinhoedu1 (1309 in chips) 
+Seat 5: noboru83 (1449 in chips) 
+Seat 8: flashyboy77 (2499 in chips) 
+Seat 9: O Aprendi105 (1356 in chips) 
+Mr.Creamer: posts the ante 3
+AlyCWB: posts the ante 3
+blurp787: posts the ante 3
+Miltinhoedu1: posts the ante 3
+noboru83: posts the ante 3
+flashyboy77: posts the ante 3
+O Aprendi105: posts the ante 3
+Mr.Creamer: posts small blind 10
+AlyCWB: posts big blind 20
+*** HOLE CARDS ***
+Dealt to AlyCWB [7d 6h]
+blurp787: folds 
+Miltinhoedu1 has timed out
+Miltinhoedu1: folds 
+Miltinhoedu1 is sitting out
+noboru83: raises 60 to 80
+flashyboy77: calls 80
+O Aprendi105: folds 
+Mr.Creamer: folds 
+AlyCWB: calls 60
+*** FLOP *** [Qc 8h 9d]
+AlyCWB: checks 
+noboru83: bets 92
+flashyboy77: raises 92 to 184
+AlyCWB: calls 184
+noboru83: calls 92
+*** TURN *** [Qc 8h 9d] [9h]
+AlyCWB: checks 
+noboru83: checks 
+flashyboy77: bets 2232 and is all-in
+AlyCWB: folds 
+noboru83: folds 
+Uncalled bet (2232) returned to flashyboy77
+flashyboy77 collected 823 from pot
+flashyboy77: doesn't show hand 
+*** SUMMARY ***
+Total pot 823 | Rake 0 
+Board [Qc 8h 9d 9h]
+Seat 1: Mr.Creamer (small blind) folded before Flop
+Seat 2: AlyCWB (big blind) folded on the Turn
+Seat 3: blurp787 folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded on the Turn
+Seat 8: flashyboy77 collected (823)
+Seat 9: O Aprendi105 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673515025: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2019/12/31 2:33:42 BRT [2019/12/31 0:33:42 ET]
+Table '2771440469 2' 9-max Seat #1 is the button
+Seat 1: Mr.Creamer (3029 in chips) 
+Seat 2: AlyCWB (1769 in chips) 
+Seat 3: blurp787 (1580 in chips) 
+Seat 4: Miltinhoedu1 (1306 in chips) is sitting out
+Seat 5: noboru83 (1182 in chips) 
+Seat 8: flashyboy77 (3055 in chips) 
+Seat 9: O Aprendi105 (1353 in chips) 
+Mr.Creamer: posts the ante 4
+AlyCWB: posts the ante 4
+blurp787: posts the ante 4
+Miltinhoedu1: posts the ante 4
+noboru83: posts the ante 4
+flashyboy77: posts the ante 4
+O Aprendi105: posts the ante 4
+AlyCWB: posts small blind 15
+blurp787: posts big blind 30
+*** HOLE CARDS ***
+Dealt to AlyCWB [4h 5d]
+Miltinhoedu1: folds 
+noboru83: folds 
+flashyboy77: folds 
+O Aprendi105: folds 
+Mr.Creamer: folds 
+AlyCWB: calls 15
+blurp787: checks 
+*** FLOP *** [Qs 9d 6d]
+AlyCWB: checks 
+blurp787: bets 88
+AlyCWB: folds 
+Uncalled bet (88) returned to blurp787
+Miltinhoedu1 is disconnected 
+blurp787 collected 88 from pot
+blurp787: doesn't show hand 
+*** SUMMARY ***
+Total pot 88 | Rake 0 
+Board [Qs 9d 6d]
+Seat 1: Mr.Creamer (button) folded before Flop (didn't bet)
+Seat 2: AlyCWB (small blind) folded on the Flop
+Seat 3: blurp787 (big blind) collected (88)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673525376: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2019/12/31 2:34:38 BRT [2019/12/31 0:34:38 ET]
+Table '2771440469 2' 9-max Seat #2 is the button
+Seat 1: Mr.Creamer (3025 in chips) 
+Seat 2: AlyCWB (1735 in chips) 
+Seat 3: blurp787 (1634 in chips) 
+Seat 4: Miltinhoedu1 (1302 in chips) is sitting out
+Seat 5: noboru83 (1178 in chips) 
+Seat 8: flashyboy77 (3051 in chips) 
+Seat 9: O Aprendi105 (1349 in chips) 
+Mr.Creamer: posts the ante 4
+AlyCWB: posts the ante 4
+blurp787: posts the ante 4
+Miltinhoedu1: posts the ante 4
+noboru83: posts the ante 4
+flashyboy77: posts the ante 4
+O Aprendi105: posts the ante 4
+blurp787: posts small blind 15
+Miltinhoedu1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to AlyCWB [5s 4h]
+noboru83: folds 
+flashyboy77: calls 30
+O Aprendi105: folds 
+Mr.Creamer: folds 
+AlyCWB: folds 
+blurp787: calls 15
+Miltinhoedu1: folds 
+*** FLOP *** [6s 5h 3s]
+blurp787: bets 59
+flashyboy77: calls 59
+*** TURN *** [6s 5h 3s] [6h]
+blurp787: bets 236
+flashyboy77: calls 236
+*** RIVER *** [6s 5h 3s 6h] [Ah]
+blurp787: checks 
+flashyboy77: checks 
+*** SHOW DOWN ***
+blurp787: shows [Jd Jc] (two pair, Jacks and Sixes)
+flashyboy77: shows [As 4c] (two pair, Aces and Sixes)
+flashyboy77 collected 708 from pot
+*** SUMMARY ***
+Total pot 708 | Rake 0 
+Board [6s 5h 3s 6h Ah]
+Seat 1: Mr.Creamer folded before Flop (didn't bet)
+Seat 2: AlyCWB (button) folded before Flop (didn't bet)
+Seat 3: blurp787 (small blind) showed [Jd Jc] and lost with two pair, Jacks and Sixes
+Seat 4: Miltinhoedu1 (big blind) folded before Flop
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 8: flashyboy77 showed [As 4c] and won (708) with two pair, Aces and Sixes
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673535112: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2019/12/31 2:35:31 BRT [2019/12/31 0:35:31 ET]
+Table '2771440469 2' 9-max Seat #3 is the button
+Seat 1: Mr.Creamer (3021 in chips) 
+Seat 2: AlyCWB (1731 in chips) 
+Seat 3: blurp787 (1305 in chips) 
+Seat 4: Miltinhoedu1 (1268 in chips) is sitting out
+Seat 5: noboru83 (1174 in chips) 
+Seat 8: flashyboy77 (3430 in chips) 
+Seat 9: O Aprendi105 (1345 in chips) 
+Mr.Creamer: posts the ante 4
+AlyCWB: posts the ante 4
+blurp787: posts the ante 4
+Miltinhoedu1: posts the ante 4
+noboru83: posts the ante 4
+flashyboy77: posts the ante 4
+O Aprendi105: posts the ante 4
+Miltinhoedu1: posts small blind 15
+noboru83: posts big blind 30
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ac 4h]
+flashyboy77: raises 60 to 90
+O Aprendi105: folds 
+Mr.Creamer: folds 
+AlyCWB: folds 
+blurp787: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+Uncalled bet (60) returned to flashyboy77
+flashyboy77 collected 103 from pot
+flashyboy77: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Seat 1: Mr.Creamer folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: blurp787 (button) folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 (small blind) folded before Flop
+Seat 5: noboru83 (big blind) folded before Flop
+Seat 8: flashyboy77 collected (103)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673540390: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2019/12/31 2:35:59 BRT [2019/12/31 0:35:59 ET]
+Table '2771440469 2' 9-max Seat #4 is the button
+Seat 1: Mr.Creamer (3017 in chips) 
+Seat 2: AlyCWB (1727 in chips) 
+Seat 3: blurp787 (1301 in chips) 
+Seat 4: Miltinhoedu1 (1249 in chips) is sitting out
+Seat 5: noboru83 (1140 in chips) 
+Seat 8: flashyboy77 (3499 in chips) 
+Seat 9: O Aprendi105 (1341 in chips) 
+Mr.Creamer: posts the ante 4
+AlyCWB: posts the ante 4
+blurp787: posts the ante 4
+Miltinhoedu1: posts the ante 4
+noboru83: posts the ante 4
+flashyboy77: posts the ante 4
+O Aprendi105: posts the ante 4
+noboru83: posts small blind 15
+flashyboy77: posts big blind 30
+*** HOLE CARDS ***
+Dealt to AlyCWB [2h Kd]
+O Aprendi105: raises 60 to 90
+Mr.Creamer: folds 
+AlyCWB: folds 
+blurp787: calls 90
+Miltinhoedu1: folds 
+noboru83: folds 
+flashyboy77: calls 60
+*** FLOP *** [5h Ac Jd]
+flashyboy77: checks 
+O Aprendi105: bets 157
+blurp787: folds 
+flashyboy77: raises 157 to 314
+O Aprendi105: calls 157
+*** TURN *** [5h Ac Jd] [4d]
+flashyboy77: bets 3090
+O Aprendi105: calls 933 and is all-in
+Uncalled bet (2157) returned to flashyboy77
+*** RIVER *** [5h Ac Jd 4d] [3c]
+*** SHOW DOWN ***
+flashyboy77: shows [Ah Js] (two pair, Aces and Jacks)
+O Aprendi105: shows [Jh Jc] (three of a kind, Jacks)
+O Aprendi105 collected 2807 from pot
+*** SUMMARY ***
+Total pot 2807 | Rake 0 
+Board [5h Ac Jd 4d 3c]
+Seat 1: Mr.Creamer folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: blurp787 folded on the Flop
+Seat 4: Miltinhoedu1 (button) folded before Flop (didn't bet)
+Seat 5: noboru83 (small blind) folded before Flop
+Seat 8: flashyboy77 (big blind) showed [Ah Js] and lost with two pair, Aces and Jacks
+Seat 9: O Aprendi105 showed [Jh Jc] and won (2807) with three of a kind, Jacks
+
+
+
+PokerStars Hand #207673552367: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2019/12/31 2:37:04 BRT [2019/12/31 0:37:04 ET]
+Table '2771440469 2' 9-max Seat #5 is the button
+Seat 1: Mr.Creamer (3013 in chips) 
+Seat 2: AlyCWB (1723 in chips) 
+Seat 3: blurp787 (1207 in chips) 
+Seat 4: Miltinhoedu1 (1245 in chips) is sitting out
+Seat 5: noboru83 (1121 in chips) 
+Seat 8: flashyboy77 (2158 in chips) 
+Seat 9: O Aprendi105 (2807 in chips) 
+Mr.Creamer: posts the ante 4
+AlyCWB: posts the ante 4
+blurp787: posts the ante 4
+Miltinhoedu1: posts the ante 4
+noboru83: posts the ante 4
+flashyboy77: posts the ante 4
+O Aprendi105: posts the ante 4
+flashyboy77: posts small blind 15
+O Aprendi105: posts big blind 30
+*** HOLE CARDS ***
+Dealt to AlyCWB [2c 5h]
+Mr.Creamer: calls 30
+AlyCWB: folds 
+blurp787: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+flashyboy77: calls 15
+O Aprendi105: checks 
+*** FLOP *** [3s Td 7h]
+flashyboy77: checks 
+O Aprendi105: checks 
+Mr.Creamer: checks 
+*** TURN *** [3s Td 7h] [9c]
+flashyboy77: checks 
+O Aprendi105: checks 
+Mr.Creamer: checks 
+*** RIVER *** [3s Td 7h 9c] [3d]
+flashyboy77: checks 
+O Aprendi105: bets 90
+Mr.Creamer: folds 
+flashyboy77: folds 
+Uncalled bet (90) returned to O Aprendi105
+O Aprendi105 collected 118 from pot
+O Aprendi105: doesn't show hand 
+*** SUMMARY ***
+Total pot 118 | Rake 0 
+Board [3s Td 7h 9c 3d]
+Seat 1: Mr.Creamer folded on the River
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: blurp787 folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 (button) folded before Flop (didn't bet)
+Seat 8: flashyboy77 (small blind) folded on the River
+Seat 9: O Aprendi105 (big blind) collected (118)
+
+
+
+PokerStars Hand #207673563139: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2019/12/31 2:38:03 BRT [2019/12/31 0:38:03 ET]
+Table '2771440469 2' 9-max Seat #8 is the button
+Seat 1: Mr.Creamer (2979 in chips) 
+Seat 2: AlyCWB (1719 in chips) 
+Seat 3: blurp787 (1203 in chips) 
+Seat 4: Miltinhoedu1 (1241 in chips) is sitting out
+Seat 5: noboru83 (1117 in chips) 
+Seat 8: flashyboy77 (2124 in chips) 
+Seat 9: O Aprendi105 (2891 in chips) 
+Mr.Creamer: posts the ante 4
+AlyCWB: posts the ante 4
+blurp787: posts the ante 4
+Miltinhoedu1: posts the ante 4
+noboru83: posts the ante 4
+flashyboy77: posts the ante 4
+O Aprendi105: posts the ante 4
+O Aprendi105: posts small blind 15
+Mr.Creamer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to AlyCWB [2s Qc]
+AlyCWB: folds 
+blurp787: raises 30 to 60
+Miltinhoedu1: folds 
+noboru83: folds 
+flashyboy77: calls 60
+O Aprendi105: folds 
+Mr.Creamer: calls 30
+*** FLOP *** [9s 8d 5d]
+Mr.Creamer: checks 
+blurp787: checks 
+flashyboy77: checks 
+*** TURN *** [9s 8d 5d] [9c]
+Mr.Creamer: checks 
+blurp787: checks 
+flashyboy77: checks 
+*** RIVER *** [9s 8d 5d 9c] [5s]
+Mr.Creamer: checks 
+blurp787: checks 
+flashyboy77: checks 
+*** SHOW DOWN ***
+Mr.Creamer: shows [3c Jc] (two pair, Nines and Fives)
+blurp787: shows [3h Ah] (two pair, Nines and Fives - Ace kicker)
+flashyboy77: mucks hand 
+blurp787 collected 223 from pot
+*** SUMMARY ***
+Total pot 223 | Rake 0 
+Board [9s 8d 5d 9c 5s]
+Seat 1: Mr.Creamer (big blind) showed [3c Jc] and lost with two pair, Nines and Fives
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: blurp787 showed [3h Ah] and won (223) with two pair, Nines and Fives
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 8: flashyboy77 (button) mucked [Js Tc]
+Seat 9: O Aprendi105 (small blind) folded before Flop
+
+
+
+PokerStars Hand #207673574106: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2019/12/31 2:39:03 BRT [2019/12/31 0:39:03 ET]
+Table '2771440469 2' 9-max Seat #9 is the button
+Seat 1: Mr.Creamer (2915 in chips) 
+Seat 2: AlyCWB (1715 in chips) 
+Seat 3: blurp787 (1362 in chips) 
+Seat 4: Miltinhoedu1 (1237 in chips) is sitting out
+Seat 5: noboru83 (1113 in chips) 
+Seat 8: flashyboy77 (2060 in chips) 
+Seat 9: O Aprendi105 (2872 in chips) 
+Mr.Creamer: posts the ante 4
+AlyCWB: posts the ante 4
+blurp787: posts the ante 4
+Miltinhoedu1: posts the ante 4
+noboru83: posts the ante 4
+flashyboy77: posts the ante 4
+O Aprendi105: posts the ante 4
+Mr.Creamer: posts small blind 15
+AlyCWB: posts big blind 30
+*** HOLE CARDS ***
+Dealt to AlyCWB [Qh 2h]
+blurp787: folds 
+Miltinhoedu1: folds 
+noboru83: raises 63 to 93
+flashyboy77: calls 93
+O Aprendi105: folds 
+Mr.Creamer: folds 
+AlyCWB: calls 63
+*** FLOP *** [4c 3d Ad]
+AlyCWB: checks 
+noboru83: bets 109
+flashyboy77: folds 
+AlyCWB: folds 
+Uncalled bet (109) returned to noboru83
+noboru83 collected 322 from pot
+noboru83: doesn't show hand 
+*** SUMMARY ***
+Total pot 322 | Rake 0 
+Board [4c 3d Ad]
+Seat 1: Mr.Creamer (small blind) folded before Flop
+Seat 2: AlyCWB (big blind) folded on the Flop
+Seat 3: blurp787 folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 collected (322)
+Seat 8: flashyboy77 folded on the Flop
+Seat 9: O Aprendi105 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673587475: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2019/12/31 2:40:07 BRT [2019/12/31 0:40:07 ET]
+Table '2771440469 2' 9-max Seat #1 is the button
+Seat 1: Mr.Creamer (2896 in chips) 
+Seat 2: AlyCWB (1618 in chips) 
+Seat 3: blurp787 (1358 in chips) 
+Seat 4: Miltinhoedu1 (1233 in chips) is sitting out
+Seat 5: noboru83 (1338 in chips) 
+Seat 6: hassan1712 (1267 in chips) is sitting out
+Seat 7: avilaC73 (6151 in chips) 
+Seat 8: flashyboy77 (1963 in chips) 
+Seat 9: O Aprendi105 (2868 in chips) 
+Mr.Creamer: posts the ante 4
+AlyCWB: posts the ante 4
+blurp787: posts the ante 4
+Miltinhoedu1: posts the ante 4
+noboru83: posts the ante 4
+hassan1712: posts the ante 4
+avilaC73: posts the ante 4
+flashyboy77: posts the ante 4
+O Aprendi105: posts the ante 4
+AlyCWB: posts small blind 15
+blurp787: posts big blind 30
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ts 3h]
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: folds 
+avilaC73: folds 
+flashyboy77: folds 
+O Aprendi105: folds 
+Mr.Creamer: raises 30 to 60
+AlyCWB: folds 
+blurp787: calls 30
+*** FLOP *** [As Kd Qd]
+blurp787: checks 
+Mr.Creamer: bets 86
+blurp787: calls 86
+*** TURN *** [As Kd Qd] [6c]
+blurp787: checks 
+Mr.Creamer: bets 172
+blurp787: calls 172
+*** RIVER *** [As Kd Qd 6c] [Ac]
+blurp787: bets 1036 and is all-in
+Mr.Creamer: calls 1036
+*** SHOW DOWN ***
+blurp787: shows [Th Jh] (a straight, Ten to Ace)
+Mr.Creamer: shows [Ad 7d] (three of a kind, Aces)
+blurp787 collected 2759 from pot
+*** SUMMARY ***
+Total pot 2759 | Rake 0 
+Board [As Kd Qd 6c Ac]
+Seat 1: Mr.Creamer (button) showed [Ad 7d] and lost with three of a kind, Aces
+Seat 2: AlyCWB (small blind) folded before Flop
+Seat 3: blurp787 (big blind) showed [Th Jh] and won (2759) with a straight, Ten to Ace
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: hassan1712 folded before Flop (didn't bet)
+Seat 7: avilaC73 folded before Flop (didn't bet)
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673598446: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2019/12/31 2:41:07 BRT [2019/12/31 0:41:07 ET]
+Table '2771440469 2' 9-max Seat #2 is the button
+Seat 1: Mr.Creamer (1538 in chips) 
+Seat 2: AlyCWB (1599 in chips) 
+Seat 3: blurp787 (2759 in chips) 
+Seat 4: Miltinhoedu1 (1229 in chips) is sitting out
+Seat 5: noboru83 (1334 in chips) 
+Seat 6: hassan1712 (1263 in chips) is sitting out
+Seat 7: avilaC73 (6147 in chips) 
+Seat 8: flashyboy77 (1959 in chips) 
+Seat 9: O Aprendi105 (2864 in chips) 
+Mr.Creamer: posts the ante 4
+AlyCWB: posts the ante 4
+blurp787: posts the ante 4
+Miltinhoedu1: posts the ante 4
+noboru83: posts the ante 4
+hassan1712: posts the ante 4
+avilaC73: posts the ante 4
+flashyboy77: posts the ante 4
+O Aprendi105: posts the ante 4
+blurp787: posts small blind 15
+Miltinhoedu1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to AlyCWB [9c Qh]
+noboru83: folds 
+hassan1712: folds 
+hassan1712 has returned
+avilaC73: folds 
+flashyboy77: folds 
+O Aprendi105: calls 30
+Mr.Creamer: folds 
+AlyCWB: folds 
+blurp787: calls 15
+Miltinhoedu1: folds 
+*** FLOP *** [Tc 6d Kh]
+blurp787: checks 
+O Aprendi105: checks 
+*** TURN *** [Tc 6d Kh] [Jd]
+blurp787: checks 
+O Aprendi105: checks 
+*** RIVER *** [Tc 6d Kh Jd] [As]
+blurp787: checks 
+O Aprendi105: checks 
+*** SHOW DOWN ***
+blurp787: shows [Jc 4c] (a pair of Jacks)
+O Aprendi105: shows [3h Ad] (a pair of Aces)
+O Aprendi105 collected 126 from pot
+*** SUMMARY ***
+Total pot 126 | Rake 0 
+Board [Tc 6d Kh Jd As]
+Seat 1: Mr.Creamer folded before Flop (didn't bet)
+Seat 2: AlyCWB (button) folded before Flop (didn't bet)
+Seat 3: blurp787 (small blind) showed [Jc 4c] and lost with a pair of Jacks
+Seat 4: Miltinhoedu1 (big blind) folded before Flop
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: hassan1712 folded before Flop (didn't bet)
+Seat 7: avilaC73 folded before Flop (didn't bet)
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 showed [3h Ad] and won (126) with a pair of Aces
+
+
+
+PokerStars Hand #207673612487: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2019/12/31 2:42:06 BRT [2019/12/31 0:42:06 ET]
+Table '2771440469 2' 9-max Seat #3 is the button
+Seat 1: Mr.Creamer (1534 in chips) 
+Seat 2: AlyCWB (1595 in chips) 
+Seat 3: blurp787 (2725 in chips) 
+Seat 4: Miltinhoedu1 (1195 in chips) is sitting out
+Seat 5: noboru83 (1330 in chips) 
+Seat 6: hassan1712 (1259 in chips) 
+Seat 7: avilaC73 (6143 in chips) 
+Seat 8: flashyboy77 (1955 in chips) 
+Seat 9: O Aprendi105 (2956 in chips) 
+Mr.Creamer: posts the ante 4
+AlyCWB: posts the ante 4
+blurp787: posts the ante 4
+Miltinhoedu1: posts the ante 4
+noboru83: posts the ante 4
+hassan1712: posts the ante 4
+avilaC73: posts the ante 4
+flashyboy77: posts the ante 4
+O Aprendi105: posts the ante 4
+Miltinhoedu1: posts small blind 15
+noboru83: posts big blind 30
+*** HOLE CARDS ***
+Dealt to AlyCWB [9d 4s]
+hassan1712: raises 1225 to 1255 and is all-in
+avilaC73: folds 
+flashyboy77: folds 
+O Aprendi105: folds 
+Mr.Creamer: folds 
+AlyCWB: folds 
+blurp787: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+Uncalled bet (1225) returned to hassan1712
+hassan1712 collected 111 from pot
+hassan1712: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: Mr.Creamer folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: blurp787 (button) folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 (small blind) folded before Flop
+Seat 5: noboru83 (big blind) folded before Flop
+Seat 6: hassan1712 collected (111)
+Seat 7: avilaC73 folded before Flop (didn't bet)
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673620500: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2019/12/31 2:42:33 BRT [2019/12/31 0:42:33 ET]
+Table '2771440469 2' 9-max Seat #4 is the button
+Seat 1: Mr.Creamer (1530 in chips) 
+Seat 2: AlyCWB (1591 in chips) 
+Seat 3: blurp787 (2721 in chips) 
+Seat 4: Miltinhoedu1 (1176 in chips) is sitting out
+Seat 5: noboru83 (1296 in chips) 
+Seat 6: hassan1712 (1336 in chips) 
+Seat 7: avilaC73 (6139 in chips) 
+Seat 8: flashyboy77 (1951 in chips) 
+Seat 9: O Aprendi105 (2952 in chips) 
+Mr.Creamer: posts the ante 4
+AlyCWB: posts the ante 4
+blurp787: posts the ante 4
+Miltinhoedu1: posts the ante 4
+noboru83: posts the ante 4
+hassan1712: posts the ante 4
+avilaC73: posts the ante 4
+flashyboy77: posts the ante 4
+O Aprendi105: posts the ante 4
+noboru83: posts small blind 15
+hassan1712: posts big blind 30
+*** HOLE CARDS ***
+Dealt to AlyCWB [7d 9s]
+avilaC73: folds 
+flashyboy77: calls 30
+O Aprendi105: folds 
+Mr.Creamer: folds 
+AlyCWB: folds 
+blurp787: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: checks 
+*** FLOP *** [8s Td 6d]
+hassan1712: checks 
+flashyboy77: checks 
+*** TURN *** [8s Td 6d] [5c]
+hassan1712: checks 
+flashyboy77: checks 
+*** RIVER *** [8s Td 6d 5c] [Ks]
+hassan1712: checks 
+flashyboy77: checks 
+*** SHOW DOWN ***
+hassan1712: shows [Qc 3h] (high card King)
+flashyboy77: mucks hand 
+hassan1712 collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Board [8s Td 6d 5c Ks]
+Seat 1: Mr.Creamer folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: blurp787 folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 (button) folded before Flop (didn't bet)
+Seat 5: noboru83 (small blind) folded before Flop
+Seat 6: hassan1712 (big blind) showed [Qc 3h] and won (111) with high card King
+Seat 7: avilaC73 folded before Flop (didn't bet)
+Seat 8: flashyboy77 mucked [Jd 4h]
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673631362: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2019/12/31 2:43:32 BRT [2019/12/31 0:43:32 ET]
+Table '2771440469 2' 9-max Seat #5 is the button
+Seat 1: Mr.Creamer (1526 in chips) 
+Seat 2: AlyCWB (1587 in chips) 
+Seat 3: blurp787 (2717 in chips) 
+Seat 4: Miltinhoedu1 (1172 in chips) is sitting out
+Seat 5: noboru83 (1277 in chips) 
+Seat 6: hassan1712 (1413 in chips) 
+Seat 7: avilaC73 (6135 in chips) 
+Seat 8: flashyboy77 (1917 in chips) 
+Seat 9: O Aprendi105 (2948 in chips) 
+Mr.Creamer: posts the ante 6
+AlyCWB: posts the ante 6
+blurp787: posts the ante 6
+Miltinhoedu1: posts the ante 6
+noboru83: posts the ante 6
+hassan1712: posts the ante 6
+avilaC73: posts the ante 6
+flashyboy77: posts the ante 6
+O Aprendi105: posts the ante 6
+hassan1712: posts small blind 25
+avilaC73: posts big blind 50
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ac 7s]
+flashyboy77: folds 
+O Aprendi105: folds 
+Mr.Creamer: folds 
+AlyCWB: folds 
+blurp787: raises 50 to 100
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: folds 
+avilaC73: folds 
+Uncalled bet (50) returned to blurp787
+blurp787 collected 179 from pot
+blurp787: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: Mr.Creamer folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: blurp787 collected (179)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 (button) folded before Flop (didn't bet)
+Seat 6: hassan1712 (small blind) folded before Flop
+Seat 7: avilaC73 (big blind) folded before Flop
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673637545: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2019/12/31 2:44:06 BRT [2019/12/31 0:44:06 ET]
+Table '2771440469 2' 9-max Seat #6 is the button
+Seat 1: Mr.Creamer (1520 in chips) 
+Seat 2: AlyCWB (1581 in chips) 
+Seat 3: blurp787 (2840 in chips) 
+Seat 4: Miltinhoedu1 (1166 in chips) is sitting out
+Seat 5: noboru83 (1271 in chips) 
+Seat 6: hassan1712 (1382 in chips) 
+Seat 7: avilaC73 (6079 in chips) 
+Seat 8: flashyboy77 (1911 in chips) 
+Seat 9: O Aprendi105 (2942 in chips) 
+Mr.Creamer: posts the ante 6
+AlyCWB: posts the ante 6
+blurp787: posts the ante 6
+Miltinhoedu1: posts the ante 6
+noboru83: posts the ante 6
+hassan1712: posts the ante 6
+avilaC73: posts the ante 6
+flashyboy77: posts the ante 6
+O Aprendi105: posts the ante 6
+avilaC73: posts small blind 25
+flashyboy77: posts big blind 50
+*** HOLE CARDS ***
+Dealt to AlyCWB [9h Qs]
+O Aprendi105: folds 
+Mr.Creamer: folds 
+AlyCWB: folds 
+blurp787: folds 
+Miltinhoedu1: folds 
+noboru83: raises 50 to 100
+hassan1712: folds 
+avilaC73: folds 
+flashyboy77: calls 50
+*** FLOP *** [2s 9s Ts]
+flashyboy77: checks 
+noboru83: bets 145
+flashyboy77: folds 
+Uncalled bet (145) returned to noboru83
+noboru83 collected 279 from pot
+noboru83: doesn't show hand 
+*** SUMMARY ***
+Total pot 279 | Rake 0 
+Board [2s 9s Ts]
+Seat 1: Mr.Creamer folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: blurp787 folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 collected (279)
+Seat 6: hassan1712 (button) folded before Flop (didn't bet)
+Seat 7: avilaC73 (small blind) folded before Flop
+Seat 8: flashyboy77 (big blind) folded on the Flop
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673648220: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2019/12/31 2:45:04 BRT [2019/12/31 0:45:04 ET]
+Table '2771440469 2' 9-max Seat #7 is the button
+Seat 1: Mr.Creamer (1514 in chips) 
+Seat 2: AlyCWB (1575 in chips) 
+Seat 3: blurp787 (2834 in chips) 
+Seat 4: Miltinhoedu1 (1160 in chips) is sitting out
+Seat 5: noboru83 (1444 in chips) 
+Seat 6: hassan1712 (1376 in chips) 
+Seat 7: avilaC73 (6048 in chips) 
+Seat 8: flashyboy77 (1805 in chips) 
+Seat 9: O Aprendi105 (2936 in chips) 
+Mr.Creamer: posts the ante 6
+AlyCWB: posts the ante 6
+blurp787: posts the ante 6
+Miltinhoedu1: posts the ante 6
+noboru83: posts the ante 6
+hassan1712: posts the ante 6
+avilaC73: posts the ante 6
+flashyboy77: posts the ante 6
+O Aprendi105: posts the ante 6
+flashyboy77: posts small blind 25
+O Aprendi105: posts big blind 50
+*** HOLE CARDS ***
+Dealt to AlyCWB [6h 4c]
+Mr.Creamer: calls 50
+AlyCWB: folds 
+blurp787: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: folds 
+avilaC73: raises 150 to 200
+flashyboy77: calls 175
+O Aprendi105: folds 
+Mr.Creamer: calls 150
+*** FLOP *** [Ah 3c Kd]
+flashyboy77: checks 
+Mr.Creamer: bets 704
+avilaC73: raises 2112 to 2816
+flashyboy77: folds 
+Mr.Creamer: calls 604 and is all-in
+Uncalled bet (1508) returned to avilaC73
+*** TURN *** [Ah 3c Kd] [6d]
+*** RIVER *** [Ah 3c Kd 6d] [5s]
+*** SHOW DOWN ***
+Mr.Creamer: shows [Td Ad] (a pair of Aces)
+avilaC73: shows [Jc Ac] (a pair of Aces - King+Jack kicker)
+avilaC73 collected 3320 from pot
+Mr.Creamer finished the tournament in 32nd place
+*** SUMMARY ***
+Total pot 3320 | Rake 0 
+Board [Ah 3c Kd 6d 5s]
+Seat 1: Mr.Creamer showed [Td Ad] and lost with a pair of Aces
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: blurp787 folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: hassan1712 folded before Flop (didn't bet)
+Seat 7: avilaC73 (button) showed [Jc Ac] and won (3320) with a pair of Aces
+Seat 8: flashyboy77 (small blind) folded on the Flop
+Seat 9: O Aprendi105 (big blind) folded before Flop
+
+
+
+PokerStars Hand #207673673224: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2019/12/31 2:47:21 BRT [2019/12/31 0:47:21 ET]
+Table '2771440469 2' 9-max Seat #8 is the button
+Seat 2: AlyCWB (1569 in chips) 
+Seat 4: Miltinhoedu1 (1154 in chips) is sitting out
+Seat 5: noboru83 (1438 in chips) 
+Seat 6: hassan1712 (1370 in chips) 
+Seat 7: avilaC73 (7854 in chips) 
+Seat 8: flashyboy77 (1599 in chips) 
+Seat 9: O Aprendi105 (2880 in chips) 
+AlyCWB: posts the ante 6
+Miltinhoedu1: posts the ante 6
+noboru83: posts the ante 6
+hassan1712: posts the ante 6
+avilaC73: posts the ante 6
+flashyboy77: posts the ante 6
+O Aprendi105: posts the ante 6
+O Aprendi105: posts small blind 25
+AlyCWB: posts big blind 50
+*** HOLE CARDS ***
+Dealt to AlyCWB [Td Ac]
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: folds 
+avilaC73: raises 50 to 100
+flashyboy77: folds 
+O Aprendi105: folds 
+AlyCWB: calls 50
+*** FLOP *** [7s Qc Kc]
+AlyCWB: checks 
+avilaC73: bets 134
+AlyCWB: calls 134
+*** TURN *** [7s Qc Kc] [Qs]
+AlyCWB: checks 
+avilaC73: checks 
+*** RIVER *** [7s Qc Kc Qs] [5d]
+AlyCWB: checks 
+avilaC73: bets 350
+AlyCWB: calls 350
+*** SHOW DOWN ***
+avilaC73: shows [Ad 2h] (a pair of Queens)
+AlyCWB: shows [Td Ac] (a pair of Queens - Ace+King+Ten kicker)
+AlyCWB collected 1235 from pot
+*** SUMMARY ***
+Total pot 1235 | Rake 0 
+Board [7s Qc Kc Qs 5d]
+Seat 2: AlyCWB (big blind) showed [Td Ac] and won (1235) with a pair of Queens
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: hassan1712 folded before Flop (didn't bet)
+Seat 7: avilaC73 showed [Ad 2h] and lost with a pair of Queens
+Seat 8: flashyboy77 (button) folded before Flop (didn't bet)
+Seat 9: O Aprendi105 (small blind) folded before Flop
+
+
+
+PokerStars Hand #207673692843: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2019/12/31 2:48:51 BRT [2019/12/31 0:48:51 ET]
+Table '2771440469 2' 9-max Seat #9 is the button
+Seat 2: AlyCWB (2214 in chips) 
+Seat 4: Miltinhoedu1 (1148 in chips) is sitting out
+Seat 5: noboru83 (1432 in chips) 
+Seat 6: hassan1712 (1364 in chips) 
+Seat 7: avilaC73 (7264 in chips) 
+Seat 8: flashyboy77 (1593 in chips) 
+Seat 9: O Aprendi105 (2849 in chips) 
+AlyCWB: posts the ante 6
+Miltinhoedu1: posts the ante 6
+noboru83: posts the ante 6
+hassan1712: posts the ante 6
+avilaC73: posts the ante 6
+flashyboy77: posts the ante 6
+O Aprendi105: posts the ante 6
+AlyCWB: posts small blind 25
+Miltinhoedu1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to AlyCWB [4d Td]
+noboru83: folds 
+hassan1712: calls 50
+avilaC73: folds 
+flashyboy77: calls 50
+O Aprendi105: folds 
+AlyCWB: calls 25
+Miltinhoedu1: folds 
+*** FLOP *** [5h 9c 5d]
+AlyCWB: checks 
+hassan1712: bets 242
+flashyboy77: folds 
+AlyCWB: folds 
+Uncalled bet (242) returned to hassan1712
+hassan1712 collected 242 from pot
+hassan1712: doesn't show hand 
+*** SUMMARY ***
+Total pot 242 | Rake 0 
+Board [5h 9c 5d]
+Seat 2: AlyCWB (small blind) folded on the Flop
+Seat 4: Miltinhoedu1 (big blind) folded before Flop
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: hassan1712 collected (242)
+Seat 7: avilaC73 folded before Flop (didn't bet)
+Seat 8: flashyboy77 folded on the Flop
+Seat 9: O Aprendi105 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673701105: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2019/12/31 2:49:36 BRT [2019/12/31 0:49:36 ET]
+Table '2771440469 2' 9-max Seat #2 is the button
+Seat 2: AlyCWB (2158 in chips) 
+Seat 4: Miltinhoedu1 (1092 in chips) is sitting out
+Seat 5: noboru83 (1426 in chips) 
+Seat 6: hassan1712 (1550 in chips) 
+Seat 7: avilaC73 (7258 in chips) 
+Seat 8: flashyboy77 (1537 in chips) 
+Seat 9: O Aprendi105 (2843 in chips) 
+AlyCWB: posts the ante 6
+Miltinhoedu1: posts the ante 6
+noboru83: posts the ante 6
+hassan1712: posts the ante 6
+avilaC73: posts the ante 6
+flashyboy77: posts the ante 6
+O Aprendi105: posts the ante 6
+Miltinhoedu1: posts small blind 25
+noboru83: posts big blind 50
+*** HOLE CARDS ***
+Dealt to AlyCWB [3c 7d]
+hassan1712: calls 50
+avilaC73: raises 150 to 200
+flashyboy77: folds 
+O Aprendi105: calls 200
+AlyCWB: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: calls 150
+*** FLOP *** [3s Ts 2h]
+hassan1712: checks 
+avilaC73: checks 
+O Aprendi105: checks 
+*** TURN *** [3s Ts 2h] [6d]
+hassan1712: checks 
+avilaC73: checks 
+O Aprendi105: checks 
+*** RIVER *** [3s Ts 2h 6d] [4h]
+hassan1712: checks 
+avilaC73: checks 
+O Aprendi105: checks 
+*** SHOW DOWN ***
+hassan1712: shows [9c Qd] (high card Queen)
+avilaC73: shows [Ac Qc] (high card Ace)
+O Aprendi105: shows [3h Kh] (a pair of Threes)
+O Aprendi105 collected 717 from pot
+*** SUMMARY ***
+Total pot 717 | Rake 0 
+Board [3s Ts 2h 6d 4h]
+Seat 2: AlyCWB (button) folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 (small blind) folded before Flop
+Seat 5: noboru83 (big blind) folded before Flop
+Seat 6: hassan1712 showed [9c Qd] and lost with high card Queen
+Seat 7: avilaC73 showed [Ac Qc] and lost with high card Ace
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 showed [3h Kh] and won (717) with a pair of Threes
+
+
+
+PokerStars Hand #207673714537: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2019/12/31 2:50:48 BRT [2019/12/31 0:50:48 ET]
+Table '2771440469 2' 9-max Seat #4 is the button
+Seat 1: evaggelos79 (3589 in chips) 
+Seat 2: AlyCWB (2152 in chips) 
+Seat 3: vouterobei157 (2490 in chips) 
+Seat 4: Miltinhoedu1 (1061 in chips) is sitting out
+Seat 5: noboru83 (1370 in chips) 
+Seat 6: hassan1712 (1344 in chips) 
+Seat 7: avilaC73 (7052 in chips) 
+Seat 8: flashyboy77 (1531 in chips) 
+Seat 9: O Aprendi105 (3354 in chips) 
+evaggelos79: posts the ante 6
+AlyCWB: posts the ante 6
+vouterobei157: posts the ante 6
+Miltinhoedu1: posts the ante 6
+noboru83: posts the ante 6
+hassan1712: posts the ante 6
+avilaC73: posts the ante 6
+flashyboy77: posts the ante 6
+O Aprendi105: posts the ante 6
+noboru83: posts small blind 25
+hassan1712: posts big blind 50
+*** HOLE CARDS ***
+Dealt to AlyCWB [Jh Ks]
+avilaC73: raises 100 to 150
+flashyboy77: folds 
+O Aprendi105: folds 
+evaggelos79: calls 150
+AlyCWB: folds 
+vouterobei157: calls 150
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: calls 100
+*** FLOP *** [4c 9d Qc]
+hassan1712: checks 
+avilaC73: checks 
+evaggelos79: bets 150
+vouterobei157: calls 150
+hassan1712: folds 
+avilaC73: calls 150
+*** TURN *** [4c 9d Qc] [2h]
+avilaC73: checks 
+evaggelos79: bets 200
+vouterobei157: folds 
+avilaC73: calls 200
+*** RIVER *** [4c 9d Qc 2h] [5h]
+avilaC73: checks 
+evaggelos79: checks 
+*** SHOW DOWN ***
+avilaC73: shows [Jc Jd] (a pair of Jacks)
+evaggelos79: mucks hand 
+avilaC73 collected 1529 from pot
+*** SUMMARY ***
+Total pot 1529 | Rake 0 
+Board [4c 9d Qc 2h 5h]
+Seat 1: evaggelos79 mucked [9c 7c]
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: vouterobei157 folded on the Turn
+Seat 4: Miltinhoedu1 (button) folded before Flop (didn't bet)
+Seat 5: noboru83 (small blind) folded before Flop
+Seat 6: hassan1712 (big blind) folded on the Flop
+Seat 7: avilaC73 showed [Jc Jd] and won (1529) with a pair of Jacks
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673731250: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2019/12/31 2:52:19 BRT [2019/12/31 0:52:19 ET]
+Table '2771440469 2' 9-max Seat #5 is the button
+Seat 1: evaggelos79 (3083 in chips) 
+Seat 2: AlyCWB (2146 in chips) 
+Seat 3: vouterobei157 (2184 in chips) 
+Seat 4: Miltinhoedu1 (1055 in chips) is sitting out
+Seat 5: noboru83 (1339 in chips) 
+Seat 6: hassan1712 (1188 in chips) 
+Seat 7: avilaC73 (8075 in chips) 
+Seat 8: flashyboy77 (1525 in chips) 
+Seat 9: O Aprendi105 (3348 in chips) 
+evaggelos79: posts the ante 6
+AlyCWB: posts the ante 6
+vouterobei157: posts the ante 6
+Miltinhoedu1: posts the ante 6
+noboru83: posts the ante 6
+hassan1712: posts the ante 6
+avilaC73: posts the ante 6
+flashyboy77: posts the ante 6
+O Aprendi105: posts the ante 6
+hassan1712: posts small blind 25
+avilaC73: posts big blind 50
+*** HOLE CARDS ***
+Dealt to AlyCWB [9c Qh]
+flashyboy77: calls 50
+O Aprendi105: folds 
+evaggelos79: folds 
+AlyCWB: folds 
+vouterobei157: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: calls 25
+avilaC73: checks 
+*** FLOP *** [8d 5d 7s]
+hassan1712: bets 50
+avilaC73: calls 50
+flashyboy77: calls 50
+*** TURN *** [8d 5d 7s] [8s]
+hassan1712: bets 50
+avilaC73: folds 
+flashyboy77: calls 50
+*** RIVER *** [8d 5d 7s 8s] [2h]
+hassan1712: checks 
+flashyboy77: checks 
+*** SHOW DOWN ***
+hassan1712: shows [4c 5h] (two pair, Eights and Fives)
+flashyboy77: mucks hand 
+hassan1712 collected 454 from pot
+*** SUMMARY ***
+Total pot 454 | Rake 0 
+Board [8d 5d 7s 8s 2h]
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 3: vouterobei157 folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 (button) folded before Flop (didn't bet)
+Seat 6: hassan1712 (small blind) showed [4c 5h] and won (454) with two pair, Eights and Fives
+Seat 7: avilaC73 (big blind) folded on the Turn
+Seat 8: flashyboy77 mucked [Th Qs]
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673751342: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2019/12/31 2:53:45 BRT [2019/12/31 0:53:45 ET]
+Table '2771440469 2' 9-max Seat #6 is the button
+Seat 1: evaggelos79 (3077 in chips) 
+Seat 2: AlyCWB (2140 in chips) 
+Seat 3: vouterobei157 (2178 in chips) 
+Seat 4: Miltinhoedu1 (1049 in chips) is sitting out
+Seat 5: noboru83 (1333 in chips) 
+Seat 6: hassan1712 (1486 in chips) 
+Seat 7: avilaC73 (7969 in chips) 
+Seat 8: flashyboy77 (1369 in chips) 
+Seat 9: O Aprendi105 (3342 in chips) 
+evaggelos79: posts the ante 10
+AlyCWB: posts the ante 10
+vouterobei157: posts the ante 10
+Miltinhoedu1: posts the ante 10
+noboru83: posts the ante 10
+hassan1712: posts the ante 10
+avilaC73: posts the ante 10
+flashyboy77: posts the ante 10
+O Aprendi105: posts the ante 10
+avilaC73: posts small blind 40
+flashyboy77: posts big blind 80
+*** HOLE CARDS ***
+Dealt to AlyCWB [6s 6c]
+O Aprendi105: folds 
+evaggelos79: calls 80
+AlyCWB: calls 80
+vouterobei157: calls 80
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: folds 
+avilaC73: folds 
+flashyboy77: checks 
+*** FLOP *** [5c 2s 7d]
+flashyboy77: checks 
+evaggelos79: checks 
+AlyCWB: bets 160
+vouterobei157: calls 160
+flashyboy77: folds 
+evaggelos79: raises 2827 to 2987 and is all-in
+AlyCWB: folds 
+vouterobei157: calls 1928 and is all-in
+Uncalled bet (899) returned to evaggelos79
+*** TURN *** [5c 2s 7d] [6h]
+*** RIVER *** [5c 2s 7d 6h] [Kh]
+*** SHOW DOWN ***
+evaggelos79: shows [2c 2d] (three of a kind, Deuces)
+vouterobei157: shows [Kd 5h] (two pair, Kings and Fives)
+evaggelos79 collected 4786 from pot
+vouterobei157 finished the tournament in 27th place
+*** SUMMARY ***
+Total pot 4786 | Rake 0 
+Board [5c 2s 7d 6h Kh]
+Seat 1: evaggelos79 showed [2c 2d] and won (4786) with three of a kind, Deuces
+Seat 2: AlyCWB folded on the Flop
+Seat 3: vouterobei157 showed [Kd 5h] and lost with two pair, Kings and Fives
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: hassan1712 (button) folded before Flop (didn't bet)
+Seat 7: avilaC73 (small blind) folded before Flop
+Seat 8: flashyboy77 (big blind) folded on the Flop
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673819735: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2019/12/31 3:00:32 BRT [2019/12/31 1:00:32 ET]
+Table '2771440469 2' 9-max Seat #7 is the button
+Seat 1: evaggelos79 (5685 in chips) 
+Seat 2: AlyCWB (1890 in chips) 
+Seat 4: Miltinhoedu1 (1039 in chips) is sitting out
+Seat 5: noboru83 (1323 in chips) 
+Seat 6: hassan1712 (1476 in chips) 
+Seat 7: avilaC73 (7919 in chips) 
+Seat 8: flashyboy77 (1279 in chips) 
+Seat 9: O Aprendi105 (3332 in chips) 
+evaggelos79: posts the ante 10
+AlyCWB: posts the ante 10
+Miltinhoedu1: posts the ante 10
+noboru83: posts the ante 10
+hassan1712: posts the ante 10
+avilaC73: posts the ante 10
+flashyboy77: posts the ante 10
+O Aprendi105: posts the ante 10
+flashyboy77: posts small blind 40
+O Aprendi105: posts big blind 80
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ts 9c]
+evaggelos79: folds 
+AlyCWB: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: raises 280 to 360
+avilaC73: folds 
+flashyboy77: folds 
+O Aprendi105: folds 
+Uncalled bet (280) returned to hassan1712
+hassan1712 collected 280 from pot
+hassan1712: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: hassan1712 collected (280)
+Seat 7: avilaC73 (button) folded before Flop (didn't bet)
+Seat 8: flashyboy77 (small blind) folded before Flop
+Seat 9: O Aprendi105 (big blind) folded before Flop
+
+
+
+PokerStars Hand #207673828791: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2019/12/31 3:01:25 BRT [2019/12/31 1:01:25 ET]
+Table '2771440469 2' 9-max Seat #8 is the button
+Seat 1: evaggelos79 (5675 in chips) 
+Seat 2: AlyCWB (1880 in chips) 
+Seat 4: Miltinhoedu1 (1029 in chips) is sitting out
+Seat 5: noboru83 (1313 in chips) 
+Seat 6: hassan1712 (1666 in chips) 
+Seat 7: avilaC73 (7909 in chips) 
+Seat 8: flashyboy77 (1229 in chips) 
+Seat 9: O Aprendi105 (3242 in chips) 
+evaggelos79: posts the ante 10
+AlyCWB: posts the ante 10
+Miltinhoedu1: posts the ante 10
+noboru83: posts the ante 10
+hassan1712: posts the ante 10
+avilaC73: posts the ante 10
+flashyboy77: posts the ante 10
+O Aprendi105: posts the ante 10
+O Aprendi105: posts small blind 40
+evaggelos79: posts big blind 80
+*** HOLE CARDS ***
+Dealt to AlyCWB [Jh 6c]
+AlyCWB: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: folds 
+avilaC73: folds 
+flashyboy77: calls 80
+O Aprendi105: folds 
+evaggelos79: checks 
+*** FLOP *** [9c Qc Kc]
+evaggelos79: bets 80
+flashyboy77: calls 80
+*** TURN *** [9c Qc Kc] [Qh]
+evaggelos79: bets 80
+flashyboy77: calls 80
+*** RIVER *** [9c Qc Kc Qh] [8d]
+evaggelos79: bets 80
+flashyboy77: calls 80
+*** SHOW DOWN ***
+evaggelos79: shows [Js Ts] (a straight, Nine to King)
+flashyboy77: mucks hand 
+evaggelos79 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [9c Qc Kc Qh 8d]
+Seat 1: evaggelos79 (big blind) showed [Js Ts] and won (760) with a straight, Nine to King
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: hassan1712 folded before Flop (didn't bet)
+Seat 7: avilaC73 folded before Flop (didn't bet)
+Seat 8: flashyboy77 (button) mucked [7c 7s]
+Seat 9: O Aprendi105 (small blind) folded before Flop
+
+
+
+PokerStars Hand #207673835873: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2019/12/31 3:02:06 BRT [2019/12/31 1:02:06 ET]
+Table '2771440469 2' 9-max Seat #9 is the button
+Seat 1: evaggelos79 (6105 in chips) 
+Seat 2: AlyCWB (1870 in chips) 
+Seat 4: Miltinhoedu1 (1019 in chips) is sitting out
+Seat 5: noboru83 (1303 in chips) 
+Seat 6: hassan1712 (1656 in chips) 
+Seat 7: avilaC73 (7899 in chips) 
+Seat 8: flashyboy77 (899 in chips) 
+Seat 9: O Aprendi105 (3192 in chips) 
+evaggelos79: posts the ante 10
+AlyCWB: posts the ante 10
+Miltinhoedu1: posts the ante 10
+noboru83: posts the ante 10
+hassan1712: posts the ante 10
+avilaC73: posts the ante 10
+flashyboy77: posts the ante 10
+O Aprendi105: posts the ante 10
+evaggelos79: posts small blind 40
+AlyCWB: posts big blind 80
+*** HOLE CARDS ***
+Dealt to AlyCWB [Kc 8d]
+Miltinhoedu1: folds 
+noboru83: raises 80 to 160
+hassan1712: folds 
+avilaC73: folds 
+flashyboy77: folds 
+O Aprendi105: folds 
+evaggelos79: calls 120
+AlyCWB: calls 80
+*** FLOP *** [7h 7s Ts]
+evaggelos79: checks 
+AlyCWB: checks 
+noboru83: checks 
+*** TURN *** [7h 7s Ts] [6s]
+evaggelos79: bets 160
+AlyCWB: folds 
+noboru83: raises 160 to 320
+evaggelos79: folds 
+Uncalled bet (160) returned to noboru83
+noboru83 collected 880 from pot
+noboru83: doesn't show hand 
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [7h 7s Ts 6s]
+Seat 1: evaggelos79 (small blind) folded on the Turn
+Seat 2: AlyCWB (big blind) folded on the Turn
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 collected (880)
+Seat 6: hassan1712 folded before Flop (didn't bet)
+Seat 7: avilaC73 folded before Flop (didn't bet)
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673845938: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2019/12/31 3:03:03 BRT [2019/12/31 1:03:03 ET]
+Table '2771440469 2' 9-max Seat #1 is the button
+Seat 1: evaggelos79 (5775 in chips) 
+Seat 2: AlyCWB (1700 in chips) 
+Seat 4: Miltinhoedu1 (1009 in chips) is sitting out
+Seat 5: noboru83 (1853 in chips) 
+Seat 6: hassan1712 (1646 in chips) 
+Seat 7: avilaC73 (7889 in chips) 
+Seat 8: flashyboy77 (889 in chips) 
+Seat 9: O Aprendi105 (3182 in chips) 
+evaggelos79: posts the ante 10
+AlyCWB: posts the ante 10
+Miltinhoedu1: posts the ante 10
+noboru83: posts the ante 10
+hassan1712: posts the ante 10
+avilaC73: posts the ante 10
+flashyboy77: posts the ante 10
+O Aprendi105: posts the ante 10
+AlyCWB: posts small blind 40
+Miltinhoedu1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to AlyCWB [4s Kc]
+noboru83: folds 
+hassan1712: folds 
+avilaC73: folds 
+flashyboy77: folds 
+O Aprendi105: raises 80 to 160
+evaggelos79: folds 
+AlyCWB: folds 
+Miltinhoedu1: folds 
+Uncalled bet (80) returned to O Aprendi105
+O Aprendi105 collected 280 from pot
+O Aprendi105: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: evaggelos79 (button) folded before Flop (didn't bet)
+Seat 2: AlyCWB (small blind) folded before Flop
+Seat 4: Miltinhoedu1 (big blind) folded before Flop
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: hassan1712 folded before Flop (didn't bet)
+Seat 7: avilaC73 folded before Flop (didn't bet)
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 collected (280)
+
+
+
+PokerStars Hand #207673853132: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2019/12/31 3:03:25 BRT [2019/12/31 1:03:25 ET]
+Table '2771440469 2' 9-max Seat #2 is the button
+Seat 1: evaggelos79 (5765 in chips) 
+Seat 2: AlyCWB (1650 in chips) 
+Seat 4: Miltinhoedu1 (919 in chips) is sitting out
+Seat 5: noboru83 (1843 in chips) 
+Seat 6: hassan1712 (1636 in chips) 
+Seat 7: avilaC73 (7879 in chips) 
+Seat 8: flashyboy77 (879 in chips) 
+Seat 9: O Aprendi105 (3372 in chips) 
+evaggelos79: posts the ante 10
+AlyCWB: posts the ante 10
+Miltinhoedu1: posts the ante 10
+noboru83: posts the ante 10
+hassan1712: posts the ante 10
+avilaC73: posts the ante 10
+flashyboy77: posts the ante 10
+O Aprendi105: posts the ante 10
+Miltinhoedu1: posts small blind 40
+noboru83: posts big blind 80
+*** HOLE CARDS ***
+Dealt to AlyCWB [8s 5d]
+hassan1712: raises 280 to 360
+avilaC73: folds 
+flashyboy77: folds 
+O Aprendi105: folds 
+evaggelos79: folds 
+AlyCWB: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+Uncalled bet (280) returned to hassan1712
+hassan1712 collected 280 from pot
+hassan1712: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 2: AlyCWB (button) folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 (small blind) folded before Flop
+Seat 5: noboru83 (big blind) folded before Flop
+Seat 6: hassan1712 collected (280)
+Seat 7: avilaC73 folded before Flop (didn't bet)
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673857296: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2019/12/31 3:03:48 BRT [2019/12/31 1:03:48 ET]
+Table '2771440469 2' 9-max Seat #4 is the button
+Seat 1: evaggelos79 (5755 in chips) 
+Seat 2: AlyCWB (1640 in chips) 
+Seat 4: Miltinhoedu1 (869 in chips) is sitting out
+Seat 5: noboru83 (1753 in chips) 
+Seat 6: hassan1712 (1826 in chips) 
+Seat 7: avilaC73 (7869 in chips) 
+Seat 8: flashyboy77 (869 in chips) 
+Seat 9: O Aprendi105 (3362 in chips) 
+evaggelos79: posts the ante 10
+AlyCWB: posts the ante 10
+Miltinhoedu1: posts the ante 10
+noboru83: posts the ante 10
+hassan1712: posts the ante 10
+avilaC73: posts the ante 10
+flashyboy77: posts the ante 10
+O Aprendi105: posts the ante 10
+noboru83: posts small blind 40
+hassan1712: posts big blind 80
+*** HOLE CARDS ***
+Dealt to AlyCWB [Js 3h]
+avilaC73: folds 
+flashyboy77: calls 80
+O Aprendi105: folds 
+evaggelos79: folds 
+AlyCWB: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: checks 
+*** FLOP *** [Ts Jc Kd]
+hassan1712: checks 
+flashyboy77: checks 
+*** TURN *** [Ts Jc Kd] [8c]
+hassan1712: checks 
+flashyboy77: checks 
+*** RIVER *** [Ts Jc Kd 8c] [6s]
+hassan1712: checks 
+flashyboy77: checks 
+*** SHOW DOWN ***
+hassan1712: shows [4c 2d] (high card King)
+flashyboy77: shows [2s Ac] (high card Ace)
+flashyboy77 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Ts Jc Kd 8c 6s]
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 (button) folded before Flop (didn't bet)
+Seat 5: noboru83 (small blind) folded before Flop
+Seat 6: hassan1712 (big blind) showed [4c 2d] and lost with high card King
+Seat 7: avilaC73 folded before Flop (didn't bet)
+Seat 8: flashyboy77 showed [2s Ac] and won (280) with high card Ace
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673866304: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2019/12/31 3:04:39 BRT [2019/12/31 1:04:39 ET]
+Table '2771440469 2' 9-max Seat #5 is the button
+Seat 1: evaggelos79 (5745 in chips) 
+Seat 2: AlyCWB (1630 in chips) 
+Seat 4: Miltinhoedu1 (859 in chips) is sitting out
+Seat 5: noboru83 (1703 in chips) 
+Seat 6: hassan1712 (1736 in chips) 
+Seat 7: avilaC73 (7859 in chips) 
+Seat 8: flashyboy77 (1059 in chips) 
+Seat 9: O Aprendi105 (3352 in chips) 
+evaggelos79: posts the ante 10
+AlyCWB: posts the ante 10
+Miltinhoedu1: posts the ante 10
+noboru83: posts the ante 10
+hassan1712: posts the ante 10
+avilaC73: posts the ante 10
+flashyboy77: posts the ante 10
+O Aprendi105: posts the ante 10
+hassan1712: posts small blind 40
+avilaC73: posts big blind 80
+*** HOLE CARDS ***
+Dealt to AlyCWB [3d 9c]
+flashyboy77: folds 
+O Aprendi105: folds 
+evaggelos79: folds 
+AlyCWB: folds 
+Miltinhoedu1: folds 
+noboru83: raises 80 to 160
+hassan1712: calls 120
+avilaC73: folds 
+*** FLOP *** [Kd 3s Qs]
+hassan1712: checks 
+noboru83: bets 163
+hassan1712: folds 
+Uncalled bet (163) returned to noboru83
+noboru83 collected 480 from pot
+noboru83: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Kd 3s Qs]
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 (button) collected (480)
+Seat 6: hassan1712 (small blind) folded on the Flop
+Seat 7: avilaC73 (big blind) folded before Flop
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673872638: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2019/12/31 3:05:13 BRT [2019/12/31 1:05:13 ET]
+Table '2771440469 2' 9-max Seat #6 is the button
+Seat 1: evaggelos79 (5735 in chips) 
+Seat 2: AlyCWB (1620 in chips) 
+Seat 4: Miltinhoedu1 (849 in chips) is sitting out
+Seat 5: noboru83 (2013 in chips) 
+Seat 6: hassan1712 (1566 in chips) 
+Seat 7: avilaC73 (7769 in chips) 
+Seat 8: flashyboy77 (1049 in chips) 
+Seat 9: O Aprendi105 (3342 in chips) 
+evaggelos79: posts the ante 10
+AlyCWB: posts the ante 10
+Miltinhoedu1: posts the ante 10
+noboru83: posts the ante 10
+hassan1712: posts the ante 10
+avilaC73: posts the ante 10
+flashyboy77: posts the ante 10
+O Aprendi105: posts the ante 10
+avilaC73: posts small blind 40
+flashyboy77: posts big blind 80
+*** HOLE CARDS ***
+Dealt to AlyCWB [8c Ts]
+O Aprendi105: calls 80
+evaggelos79: folds 
+AlyCWB: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: folds 
+avilaC73: folds 
+flashyboy77: checks 
+*** FLOP *** [6d Jd 8h]
+flashyboy77: checks 
+O Aprendi105: checks 
+*** TURN *** [6d Jd 8h] [4h]
+flashyboy77: checks 
+O Aprendi105: checks 
+*** RIVER *** [6d Jd 8h 4h] [4s]
+flashyboy77: checks 
+O Aprendi105: checks 
+*** SHOW DOWN ***
+flashyboy77: shows [7h 2s] (a pair of Fours)
+O Aprendi105: shows [Kd Qh] (a pair of Fours - King kicker)
+O Aprendi105 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [6d Jd 8h 4h 4s]
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: hassan1712 (button) folded before Flop (didn't bet)
+Seat 7: avilaC73 (small blind) folded before Flop
+Seat 8: flashyboy77 (big blind) showed [7h 2s] and lost with a pair of Fours
+Seat 9: O Aprendi105 showed [Kd Qh] and won (280) with a pair of Fours
+
+
+
+PokerStars Hand #207673883491: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2019/12/31 3:06:14 BRT [2019/12/31 1:06:14 ET]
+Table '2771440469 2' 9-max Seat #7 is the button
+Seat 1: evaggelos79 (5725 in chips) 
+Seat 2: AlyCWB (1610 in chips) 
+Seat 4: Miltinhoedu1 (839 in chips) is sitting out
+Seat 5: noboru83 (2003 in chips) 
+Seat 6: hassan1712 (1556 in chips) 
+Seat 7: avilaC73 (7719 in chips) 
+Seat 8: flashyboy77 (959 in chips) 
+Seat 9: O Aprendi105 (3532 in chips) 
+evaggelos79: posts the ante 10
+AlyCWB: posts the ante 10
+Miltinhoedu1: posts the ante 10
+noboru83: posts the ante 10
+hassan1712: posts the ante 10
+avilaC73: posts the ante 10
+flashyboy77: posts the ante 10
+O Aprendi105: posts the ante 10
+flashyboy77: posts small blind 40
+O Aprendi105: posts big blind 80
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ts 4s]
+evaggelos79: folds 
+AlyCWB: folds 
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: folds 
+avilaC73: folds 
+flashyboy77: calls 40
+O Aprendi105: checks 
+*** FLOP *** [Qd 6c Th]
+flashyboy77: checks 
+O Aprendi105: checks 
+*** TURN *** [Qd 6c Th] [6h]
+flashyboy77: checks 
+O Aprendi105: bets 240
+flashyboy77: calls 240
+*** RIVER *** [Qd 6c Th 6h] [7s]
+flashyboy77: checks 
+O Aprendi105: bets 360
+flashyboy77: calls 360
+*** SHOW DOWN ***
+O Aprendi105: shows [Qh 7h] (two pair, Queens and Sevens)
+flashyboy77: mucks hand 
+O Aprendi105 collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | Rake 0 
+Board [Qd 6c Th 6h 7s]
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: hassan1712 folded before Flop (didn't bet)
+Seat 7: avilaC73 (button) folded before Flop (didn't bet)
+Seat 8: flashyboy77 (small blind) mucked [3h 3c]
+Seat 9: O Aprendi105 (big blind) showed [Qh 7h] and won (1440) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #207673897418: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2019/12/31 3:07:08 BRT [2019/12/31 1:07:08 ET]
+Table '2771440469 2' 9-max Seat #8 is the button
+Seat 1: evaggelos79 (5715 in chips) 
+Seat 2: AlyCWB (1600 in chips) 
+Seat 4: Miltinhoedu1 (829 in chips) is sitting out
+Seat 5: noboru83 (1993 in chips) 
+Seat 6: hassan1712 (1546 in chips) 
+Seat 7: avilaC73 (7709 in chips) 
+Seat 8: flashyboy77 (269 in chips) 
+Seat 9: O Aprendi105 (4282 in chips) 
+evaggelos79: posts the ante 10
+AlyCWB: posts the ante 10
+Miltinhoedu1: posts the ante 10
+noboru83: posts the ante 10
+hassan1712: posts the ante 10
+avilaC73: posts the ante 10
+flashyboy77: posts the ante 10
+O Aprendi105: posts the ante 10
+O Aprendi105: posts small blind 40
+evaggelos79: posts big blind 80
+*** HOLE CARDS ***
+Dealt to AlyCWB [6s Kh]
+AlyCWB has timed out
+AlyCWB: folds 
+AlyCWB is sitting out
+Miltinhoedu1: folds 
+noboru83: raises 80 to 160
+AlyCWB has returned
+hassan1712: folds 
+avilaC73: folds 
+flashyboy77: calls 160
+O Aprendi105: folds 
+evaggelos79: calls 80
+*** FLOP *** [4c 5h 5d]
+evaggelos79: checks 
+noboru83: checks 
+flashyboy77: checks 
+*** TURN *** [4c 5h 5d] [Ks]
+evaggelos79: bets 80
+noboru83: calls 80
+flashyboy77: folds 
+*** RIVER *** [4c 5h 5d Ks] [3d]
+evaggelos79: bets 80
+noboru83: calls 80
+*** SHOW DOWN ***
+evaggelos79: shows [Jh 3h] (two pair, Fives and Threes)
+noboru83: shows [Td Kd] (two pair, Kings and Fives)
+noboru83 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [4c 5h 5d Ks 3d]
+Seat 1: evaggelos79 (big blind) showed [Jh 3h] and lost with two pair, Fives and Threes
+Seat 2: AlyCWB folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 showed [Td Kd] and won (920) with two pair, Kings and Fives
+Seat 6: hassan1712 folded before Flop (didn't bet)
+Seat 7: avilaC73 folded before Flop (didn't bet)
+Seat 8: flashyboy77 (button) folded on the Turn
+Seat 9: O Aprendi105 (small blind) folded before Flop
+
+
+
+PokerStars Hand #207673909532: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2019/12/31 3:08:16 BRT [2019/12/31 1:08:16 ET]
+Table '2771440469 2' 9-max Seat #9 is the button
+Seat 1: evaggelos79 (5385 in chips) 
+Seat 2: AlyCWB (1590 in chips) 
+Seat 4: Miltinhoedu1 (819 in chips) is sitting out
+Seat 5: noboru83 (2583 in chips) 
+Seat 6: hassan1712 (1536 in chips) 
+Seat 7: avilaC73 (7699 in chips) 
+Seat 8: flashyboy77 (99 in chips) 
+Seat 9: O Aprendi105 (4232 in chips) 
+evaggelos79: posts the ante 10
+AlyCWB: posts the ante 10
+Miltinhoedu1: posts the ante 10
+noboru83: posts the ante 10
+hassan1712: posts the ante 10
+avilaC73: posts the ante 10
+flashyboy77: posts the ante 10
+O Aprendi105: posts the ante 10
+evaggelos79: posts small blind 40
+AlyCWB: posts big blind 80
+*** HOLE CARDS ***
+Dealt to AlyCWB [Tc 2d]
+Miltinhoedu1: folds 
+noboru83: folds 
+hassan1712: folds 
+avilaC73: folds 
+flashyboy77: folds 
+O Aprendi105: folds 
+evaggelos79: calls 40
+AlyCWB: checks 
+*** FLOP *** [3h 5c Qc]
+evaggelos79: bets 80
+AlyCWB: folds 
+Uncalled bet (80) returned to evaggelos79
+evaggelos79 collected 240 from pot
+evaggelos79: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3h 5c Qc]
+Seat 1: evaggelos79 (small blind) collected (240)
+Seat 2: AlyCWB (big blind) folded on the Flop
+Seat 4: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 5: noboru83 folded before Flop (didn't bet)
+Seat 6: hassan1712 folded before Flop (didn't bet)
+Seat 7: avilaC73 folded before Flop (didn't bet)
+Seat 8: flashyboy77 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673914417: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2019/12/31 3:08:43 BRT [2019/12/31 1:08:43 ET]
+Table '2771440469 2' 9-max Seat #1 is the button
+Seat 1: evaggelos79 (5535 in chips) 
+Seat 2: AlyCWB (1500 in chips) 
+Seat 4: Miltinhoedu1 (809 in chips) is sitting out
+Seat 6: hassan1712 (1526 in chips) 
+Seat 7: avilaC73 (7689 in chips) 
+Seat 8: flashyboy77 (89 in chips) 
+Seat 9: O Aprendi105 (4222 in chips) 
+evaggelos79: posts the ante 10
+AlyCWB: posts the ante 10
+Miltinhoedu1: posts the ante 10
+hassan1712: posts the ante 10
+avilaC73: posts the ante 10
+flashyboy77: posts the ante 10
+O Aprendi105: posts the ante 10
+AlyCWB: posts small blind 40
+Miltinhoedu1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ts 6d]
+hassan1712: folds 
+avilaC73: raises 80 to 160
+flashyboy77: calls 79 and is all-in
+O Aprendi105: folds 
+evaggelos79: folds 
+AlyCWB: folds 
+Miltinhoedu1: folds 
+Uncalled bet (80) returned to avilaC73
+*** FLOP *** [8c Ac Ad]
+*** TURN *** [8c Ac Ad] [4d]
+*** RIVER *** [8c Ac Ad 4d] [Ks]
+*** SHOW DOWN ***
+avilaC73: shows [Tc Qh] (a pair of Aces)
+avilaC73 collected 2 from side pot
+flashyboy77: shows [5c 5h] (two pair, Aces and Fives)
+flashyboy77 collected 347 from main pot
+*** SUMMARY ***
+Total pot 349 Main pot 347. Side pot 2. | Rake 0 
+Board [8c Ac Ad 4d Ks]
+Seat 1: evaggelos79 (button) folded before Flop (didn't bet)
+Seat 2: AlyCWB (small blind) folded before Flop
+Seat 4: Miltinhoedu1 (big blind) folded before Flop
+Seat 6: hassan1712 folded before Flop (didn't bet)
+Seat 7: avilaC73 showed [Tc Qh] and won (2) with a pair of Aces
+Seat 8: flashyboy77 showed [5c 5h] and won (347) with two pair, Aces and Fives
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673921716: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2019/12/31 3:09:24 BRT [2019/12/31 1:09:24 ET]
+Table '2771440469 2' 9-max Seat #2 is the button
+Seat 1: evaggelos79 (5525 in chips) 
+Seat 2: AlyCWB (1450 in chips) 
+Seat 4: Miltinhoedu1 (719 in chips) is sitting out
+Seat 6: hassan1712 (1516 in chips) 
+Seat 7: avilaC73 (7601 in chips) 
+Seat 8: flashyboy77 (347 in chips) 
+Seat 9: O Aprendi105 (4212 in chips) 
+evaggelos79: posts the ante 15
+AlyCWB: posts the ante 15
+Miltinhoedu1: posts the ante 15
+hassan1712: posts the ante 15
+avilaC73: posts the ante 15
+flashyboy77: posts the ante 15
+O Aprendi105: posts the ante 15
+Miltinhoedu1: posts small blind 60
+hassan1712: posts big blind 120
+*** HOLE CARDS ***
+Dealt to AlyCWB [2h 4h]
+avilaC73: folds 
+flashyboy77: raises 212 to 332 and is all-in
+O Aprendi105: calls 332
+evaggelos79: calls 332
+AlyCWB: folds 
+Miltinhoedu1: folds 
+hassan1712: folds 
+*** FLOP *** [9h Jd 5s]
+O Aprendi105: bets 120
+evaggelos79: calls 120
+*** TURN *** [9h Jd 5s] [Qc]
+O Aprendi105: bets 360
+evaggelos79: raises 360 to 720
+O Aprendi105: folds 
+Uncalled bet (360) returned to evaggelos79
+*** RIVER *** [9h Jd 5s Qc] [9s]
+*** SHOW DOWN ***
+evaggelos79: shows [Ts Kc] (a straight, Nine to King)
+evaggelos79 collected 960 from side pot
+flashyboy77: shows [As 7c] (a pair of Nines)
+evaggelos79 collected 1281 from main pot
+flashyboy77 finished the tournament in 19th place
+*** SUMMARY ***
+Total pot 2241 Main pot 1281. Side pot 960. | Rake 0 
+Board [9h Jd 5s Qc 9s]
+Seat 1: evaggelos79 showed [Ts Kc] and won (2241) with a straight, Nine to King
+Seat 2: AlyCWB (button) folded before Flop (didn't bet)
+Seat 4: Miltinhoedu1 (small blind) folded before Flop
+Seat 6: hassan1712 (big blind) folded before Flop
+Seat 7: avilaC73 folded before Flop (didn't bet)
+Seat 8: flashyboy77 showed [As 7c] and lost with a pair of Nines
+Seat 9: O Aprendi105 folded on the Turn
+
+
+
+PokerStars Hand #207673938792: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2019/12/31 3:10:25 BRT [2019/12/31 1:10:25 ET]
+Table '2771440469 4' 9-max Seat #6 is the button
+Seat 1: evaggelos79 (6939 in chips) 
+Seat 2: reynaldo_chang (164 in chips) 
+Seat 3: AlyCWB (1435 in chips) 
+Seat 4: blek_panther (3206 in chips) 
+Seat 5: Miltinhoedu1 (644 in chips) is sitting out
+Seat 6: DEADLEPEANES (4253 in chips) 
+Seat 7: raphaelcar95 (3876 in chips) 
+Seat 8: beshttt069 (10295 in chips) 
+Seat 9: O Aprendi105 (3385 in chips) 
+evaggelos79: posts the ante 15
+reynaldo_chang: posts the ante 15
+AlyCWB: posts the ante 15
+blek_panther: posts the ante 15
+Miltinhoedu1: posts the ante 15
+DEADLEPEANES: posts the ante 15
+raphaelcar95: posts the ante 15
+beshttt069: posts the ante 15
+O Aprendi105: posts the ante 15
+raphaelcar95: posts small blind 60
+beshttt069: posts big blind 120
+*** HOLE CARDS ***
+Dealt to AlyCWB [3h 6h]
+O Aprendi105: raises 435 to 555
+evaggelos79: folds 
+reynaldo_chang: folds 
+AlyCWB: folds 
+blek_panther: folds 
+Miltinhoedu1: folds 
+DEADLEPEANES is connected 
+DEADLEPEANES: folds 
+raphaelcar95: folds 
+beshttt069: folds 
+Uncalled bet (435) returned to O Aprendi105
+O Aprendi105 collected 435 from pot
+O Aprendi105: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 2: reynaldo_chang folded before Flop (didn't bet)
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 5: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 6: DEADLEPEANES (button) folded before Flop (didn't bet)
+Seat 7: raphaelcar95 (small blind) folded before Flop
+Seat 8: beshttt069 (big blind) folded before Flop
+Seat 9: O Aprendi105 collected (435)
+
+
+
+PokerStars Hand #207673945398: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2019/12/31 3:11:03 BRT [2019/12/31 1:11:03 ET]
+Table '2771440469 4' 9-max Seat #7 is the button
+Seat 1: evaggelos79 (6924 in chips) 
+Seat 2: reynaldo_chang (149 in chips) 
+Seat 3: AlyCWB (1420 in chips) 
+Seat 4: blek_panther (3191 in chips) 
+Seat 5: Miltinhoedu1 (629 in chips) is sitting out
+Seat 6: DEADLEPEANES (4238 in chips) 
+Seat 7: raphaelcar95 (3801 in chips) 
+Seat 8: beshttt069 (10160 in chips) 
+Seat 9: O Aprendi105 (3685 in chips) 
+evaggelos79: posts the ante 15
+reynaldo_chang: posts the ante 15
+AlyCWB: posts the ante 15
+blek_panther: posts the ante 15
+Miltinhoedu1: posts the ante 15
+DEADLEPEANES: posts the ante 15
+raphaelcar95: posts the ante 15
+beshttt069: posts the ante 15
+O Aprendi105: posts the ante 15
+beshttt069: posts small blind 60
+O Aprendi105: posts big blind 120
+*** HOLE CARDS ***
+Dealt to AlyCWB [Tc 2s]
+evaggelos79: folds 
+reynaldo_chang: raises 14 to 134 and is all-in
+AlyCWB: folds 
+blek_panther: folds 
+Miltinhoedu1: folds 
+DEADLEPEANES: folds 
+raphaelcar95: folds 
+beshttt069: calls 74
+O Aprendi105: calls 14
+*** FLOP *** [Ad Kc Ah]
+beshttt069: bets 120
+O Aprendi105: folds 
+Uncalled bet (120) returned to beshttt069
+*** TURN *** [Ad Kc Ah] [Ts]
+*** RIVER *** [Ad Kc Ah Ts] [8s]
+*** SHOW DOWN ***
+beshttt069: shows [6c 6s] (two pair, Aces and Sixes)
+reynaldo_chang: shows [9d 4d] (a pair of Aces)
+beshttt069 collected 537 from pot
+reynaldo_chang finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 537 | Rake 0 
+Board [Ad Kc Ah Ts 8s]
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 2: reynaldo_chang showed [9d 4d] and lost with a pair of Aces
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 5: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 6: DEADLEPEANES folded before Flop (didn't bet)
+Seat 7: raphaelcar95 (button) folded before Flop (didn't bet)
+Seat 8: beshttt069 (small blind) showed [6c 6s] and won (537) with two pair, Aces and Sixes
+Seat 9: O Aprendi105 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #207673953844: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2019/12/31 3:11:51 BRT [2019/12/31 1:11:51 ET]
+Table '2771440469 4' 9-max Seat #8 is the button
+Seat 1: evaggelos79 (6909 in chips) 
+Seat 3: AlyCWB (1405 in chips) 
+Seat 4: blek_panther (3176 in chips) 
+Seat 5: Miltinhoedu1 (614 in chips) is sitting out
+Seat 6: DEADLEPEANES (4223 in chips) 
+Seat 7: raphaelcar95 (3786 in chips) 
+Seat 8: beshttt069 (10548 in chips) 
+Seat 9: O Aprendi105 (3536 in chips) 
+evaggelos79: posts the ante 15
+AlyCWB: posts the ante 15
+blek_panther: posts the ante 15
+Miltinhoedu1: posts the ante 15
+DEADLEPEANES: posts the ante 15
+raphaelcar95: posts the ante 15
+beshttt069: posts the ante 15
+O Aprendi105: posts the ante 15
+O Aprendi105: posts small blind 60
+evaggelos79: posts big blind 120
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ac 4c]
+AlyCWB: folds 
+blek_panther: folds 
+Miltinhoedu1: folds 
+DEADLEPEANES: folds 
+raphaelcar95: raises 240 to 360
+beshttt069: calls 360
+O Aprendi105: calls 300
+evaggelos79: folds 
+*** FLOP *** [6s 5d 8h]
+O Aprendi105: checks 
+raphaelcar95: bets 360
+beshttt069: folds 
+O Aprendi105: folds 
+Uncalled bet (360) returned to raphaelcar95
+raphaelcar95 collected 1320 from pot
+raphaelcar95: doesn't show hand 
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [6s 5d 8h]
+Seat 1: evaggelos79 (big blind) folded before Flop
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 5: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 6: DEADLEPEANES folded before Flop (didn't bet)
+Seat 7: raphaelcar95 collected (1320)
+Seat 8: beshttt069 (button) folded on the Flop
+Seat 9: O Aprendi105 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #207673969200: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2019/12/31 3:13:17 BRT [2019/12/31 1:13:17 ET]
+Table '2771440469 4' 9-max Seat #9 is the button
+Seat 1: evaggelos79 (6774 in chips) 
+Seat 3: AlyCWB (1390 in chips) 
+Seat 4: blek_panther (3161 in chips) 
+Seat 5: Miltinhoedu1 (599 in chips) is sitting out
+Seat 6: DEADLEPEANES (4208 in chips) 
+Seat 7: raphaelcar95 (4731 in chips) 
+Seat 8: beshttt069 (10173 in chips) 
+Seat 9: O Aprendi105 (3161 in chips) 
+evaggelos79: posts the ante 15
+AlyCWB: posts the ante 15
+blek_panther: posts the ante 15
+Miltinhoedu1: posts the ante 15
+DEADLEPEANES: posts the ante 15
+raphaelcar95: posts the ante 15
+beshttt069: posts the ante 15
+O Aprendi105: posts the ante 15
+evaggelos79: posts small blind 60
+AlyCWB: posts big blind 120
+*** HOLE CARDS ***
+Dealt to AlyCWB [Qd 5d]
+blek_panther: folds 
+Miltinhoedu1: folds 
+DEADLEPEANES: calls 120
+raphaelcar95: folds 
+beshttt069: folds 
+O Aprendi105: folds 
+evaggelos79: calls 60
+AlyCWB: checks 
+*** FLOP *** [Ts 7h Ad]
+evaggelos79: checks 
+AlyCWB: checks 
+DEADLEPEANES: bets 240
+evaggelos79: folds 
+AlyCWB: folds 
+Uncalled bet (240) returned to DEADLEPEANES
+DEADLEPEANES collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Ts 7h Ad]
+Seat 1: evaggelos79 (small blind) folded on the Flop
+Seat 3: AlyCWB (big blind) folded on the Flop
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 5: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 6: DEADLEPEANES collected (480)
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673982100: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2019/12/31 3:14:30 BRT [2019/12/31 1:14:30 ET]
+Table '2771440469 4' 9-max Seat #1 is the button
+Seat 1: evaggelos79 (6639 in chips) 
+Seat 3: AlyCWB (1255 in chips) 
+Seat 4: blek_panther (3146 in chips) 
+Seat 5: Miltinhoedu1 (584 in chips) is sitting out
+Seat 6: DEADLEPEANES (4553 in chips) 
+Seat 7: raphaelcar95 (4716 in chips) 
+Seat 8: beshttt069 (10158 in chips) 
+Seat 9: O Aprendi105 (3146 in chips) 
+evaggelos79: posts the ante 15
+AlyCWB: posts the ante 15
+blek_panther: posts the ante 15
+Miltinhoedu1: posts the ante 15
+DEADLEPEANES: posts the ante 15
+raphaelcar95: posts the ante 15
+beshttt069: posts the ante 15
+O Aprendi105: posts the ante 15
+AlyCWB: posts small blind 60
+blek_panther: posts big blind 120
+*** HOLE CARDS ***
+Dealt to AlyCWB [3c 6s]
+Miltinhoedu1: folds 
+DEADLEPEANES: folds 
+raphaelcar95: folds 
+beshttt069: folds 
+O Aprendi105: raises 180 to 300
+evaggelos79: folds 
+AlyCWB: folds 
+blek_panther: folds 
+Uncalled bet (180) returned to O Aprendi105
+O Aprendi105 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: evaggelos79 (button) folded before Flop (didn't bet)
+Seat 3: AlyCWB (small blind) folded before Flop
+Seat 4: blek_panther (big blind) folded before Flop
+Seat 5: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 6: DEADLEPEANES folded before Flop (didn't bet)
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 collected (420)
+
+
+
+PokerStars Hand #207673989134: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2019/12/31 3:15:10 BRT [2019/12/31 1:15:10 ET]
+Table '2771440469 4' 9-max Seat #3 is the button
+Seat 1: evaggelos79 (6624 in chips) 
+Seat 3: AlyCWB (1180 in chips) 
+Seat 4: blek_panther (3011 in chips) 
+Seat 5: Miltinhoedu1 (569 in chips) is sitting out
+Seat 6: DEADLEPEANES (4538 in chips) 
+Seat 7: raphaelcar95 (4701 in chips) 
+Seat 8: beshttt069 (10143 in chips) 
+Seat 9: O Aprendi105 (3431 in chips) 
+evaggelos79: posts the ante 15
+AlyCWB: posts the ante 15
+blek_panther: posts the ante 15
+Miltinhoedu1: posts the ante 15
+DEADLEPEANES: posts the ante 15
+raphaelcar95: posts the ante 15
+beshttt069: posts the ante 15
+O Aprendi105: posts the ante 15
+blek_panther: posts small blind 60
+Miltinhoedu1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to AlyCWB [2c 5s]
+DEADLEPEANES: folds 
+raphaelcar95: raises 180 to 300
+beshttt069: folds 
+O Aprendi105: folds 
+evaggelos79: folds 
+AlyCWB: folds 
+blek_panther: folds 
+Miltinhoedu1: folds 
+Uncalled bet (180) returned to raphaelcar95
+raphaelcar95 collected 420 from pot
+raphaelcar95: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 3: AlyCWB (button) folded before Flop (didn't bet)
+Seat 4: blek_panther (small blind) folded before Flop
+Seat 5: Miltinhoedu1 (big blind) folded before Flop
+Seat 6: DEADLEPEANES folded before Flop (didn't bet)
+Seat 7: raphaelcar95 collected (420)
+Seat 8: beshttt069 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207673996389: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2019/12/31 3:15:50 BRT [2019/12/31 1:15:50 ET]
+Table '2771440469 4' 9-max Seat #4 is the button
+Seat 1: evaggelos79 (6609 in chips) 
+Seat 3: AlyCWB (1165 in chips) 
+Seat 4: blek_panther (2936 in chips) 
+Seat 5: Miltinhoedu1 (434 in chips) is sitting out
+Seat 6: DEADLEPEANES (4523 in chips) 
+Seat 7: raphaelcar95 (4986 in chips) 
+Seat 8: beshttt069 (10128 in chips) 
+Seat 9: O Aprendi105 (3416 in chips) 
+evaggelos79: posts the ante 15
+AlyCWB: posts the ante 15
+blek_panther: posts the ante 15
+Miltinhoedu1: posts the ante 15
+DEADLEPEANES: posts the ante 15
+raphaelcar95: posts the ante 15
+beshttt069: posts the ante 15
+O Aprendi105: posts the ante 15
+Miltinhoedu1: posts small blind 60
+DEADLEPEANES: posts big blind 120
+*** HOLE CARDS ***
+Dealt to AlyCWB [8c 2c]
+raphaelcar95: folds 
+beshttt069: folds 
+O Aprendi105: folds 
+evaggelos79: folds 
+AlyCWB has timed out
+AlyCWB: folds 
+AlyCWB is sitting out
+blek_panther: raises 150 to 270
+Miltinhoedu1: folds 
+AlyCWB has returned
+DEADLEPEANES: calls 150
+*** FLOP *** [Kc 3c 8s]
+DEADLEPEANES: checks 
+blek_panther: bets 350
+DEADLEPEANES: folds 
+Uncalled bet (350) returned to blek_panther
+blek_panther collected 720 from pot
+blek_panther: doesn't show hand 
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Kc 3c 8s]
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blek_panther (button) collected (720)
+Seat 5: Miltinhoedu1 (small blind) folded before Flop
+Seat 6: DEADLEPEANES (big blind) folded on the Flop
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674015909: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2019/12/31 3:17:40 BRT [2019/12/31 1:17:40 ET]
+Table '2771440469 4' 9-max Seat #5 is the button
+Seat 1: evaggelos79 (6594 in chips) 
+Seat 3: AlyCWB (1150 in chips) 
+Seat 4: blek_panther (3371 in chips) 
+Seat 5: Miltinhoedu1 (359 in chips) is sitting out
+Seat 6: DEADLEPEANES (4238 in chips) 
+Seat 7: raphaelcar95 (4971 in chips) 
+Seat 8: beshttt069 (10113 in chips) 
+Seat 9: O Aprendi105 (3401 in chips) 
+evaggelos79: posts the ante 15
+AlyCWB: posts the ante 15
+blek_panther: posts the ante 15
+Miltinhoedu1: posts the ante 15
+DEADLEPEANES: posts the ante 15
+raphaelcar95: posts the ante 15
+beshttt069: posts the ante 15
+O Aprendi105: posts the ante 15
+DEADLEPEANES: posts small blind 60
+raphaelcar95: posts big blind 120
+*** HOLE CARDS ***
+Dealt to AlyCWB [2h Qh]
+beshttt069: folds 
+O Aprendi105: raises 180 to 300
+evaggelos79: folds 
+AlyCWB: folds 
+blek_panther: folds 
+Miltinhoedu1: folds 
+DEADLEPEANES: folds 
+raphaelcar95: folds 
+Uncalled bet (180) returned to O Aprendi105
+O Aprendi105 collected 420 from pot
+O Aprendi105: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 5: Miltinhoedu1 (button) folded before Flop (didn't bet)
+Seat 6: DEADLEPEANES (small blind) folded before Flop
+Seat 7: raphaelcar95 (big blind) folded before Flop
+Seat 8: beshttt069 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 collected (420)
+
+
+
+PokerStars Hand #207674025907: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2019/12/31 3:18:36 BRT [2019/12/31 1:18:36 ET]
+Table '2771440469 4' 9-max Seat #6 is the button
+Seat 1: evaggelos79 (6579 in chips) 
+Seat 3: AlyCWB (1135 in chips) 
+Seat 4: blek_panther (3356 in chips) 
+Seat 5: Miltinhoedu1 (344 in chips) is sitting out
+Seat 6: DEADLEPEANES (4163 in chips) 
+Seat 7: raphaelcar95 (4836 in chips) 
+Seat 8: beshttt069 (10098 in chips) 
+Seat 9: O Aprendi105 (3686 in chips) 
+evaggelos79: posts the ante 15
+AlyCWB: posts the ante 15
+blek_panther: posts the ante 15
+Miltinhoedu1: posts the ante 15
+DEADLEPEANES: posts the ante 15
+raphaelcar95: posts the ante 15
+beshttt069: posts the ante 15
+O Aprendi105: posts the ante 15
+raphaelcar95: posts small blind 60
+beshttt069: posts big blind 120
+*** HOLE CARDS ***
+Dealt to AlyCWB [Jc Qc]
+O Aprendi105: folds 
+evaggelos79: folds 
+AlyCWB has timed out
+AlyCWB: folds 
+AlyCWB is sitting out
+blek_panther: folds 
+Miltinhoedu1: folds 
+DEADLEPEANES: calls 120
+raphaelcar95: folds 
+beshttt069: checks 
+*** FLOP *** [8d 6d Ts]
+beshttt069: checks 
+DEADLEPEANES: bets 240
+beshttt069: calls 240
+*** TURN *** [8d 6d Ts] [3h]
+beshttt069: checks 
+DEADLEPEANES: checks 
+*** RIVER *** [8d 6d Ts 3h] [As]
+AlyCWB has returned
+beshttt069: bets 600
+DEADLEPEANES: calls 600
+*** SHOW DOWN ***
+beshttt069: shows [Ac 9d] (a pair of Aces)
+DEADLEPEANES: mucks hand 
+beshttt069 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | Rake 0 
+Board [8d 6d Ts 3h As]
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 5: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 6: DEADLEPEANES (button) mucked [Tc Qd]
+Seat 7: raphaelcar95 (small blind) folded before Flop
+Seat 8: beshttt069 (big blind) showed [Ac 9d] and won (2100) with a pair of Aces
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674041359: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2019/12/31 3:20:04 BRT [2019/12/31 1:20:04 ET]
+Table '2771440469 4' 9-max Seat #7 is the button
+Seat 1: evaggelos79 (6564 in chips) 
+Seat 3: AlyCWB (1120 in chips) 
+Seat 4: blek_panther (3341 in chips) 
+Seat 5: Miltinhoedu1 (329 in chips) is sitting out
+Seat 6: DEADLEPEANES (3188 in chips) 
+Seat 7: raphaelcar95 (4761 in chips) 
+Seat 8: beshttt069 (11223 in chips) 
+Seat 9: O Aprendi105 (3671 in chips) 
+evaggelos79: posts the ante 20
+AlyCWB: posts the ante 20
+blek_panther: posts the ante 20
+Miltinhoedu1: posts the ante 20
+DEADLEPEANES: posts the ante 20
+raphaelcar95: posts the ante 20
+beshttt069: posts the ante 20
+O Aprendi105: posts the ante 20
+beshttt069: posts small blind 80
+O Aprendi105: posts big blind 160
+*** HOLE CARDS ***
+Dealt to AlyCWB [7s Kd]
+evaggelos79: folds 
+AlyCWB: folds 
+blek_panther: folds 
+Miltinhoedu1: folds 
+DEADLEPEANES: folds 
+raphaelcar95: raises 320 to 480
+beshttt069: folds 
+O Aprendi105: folds 
+Uncalled bet (320) returned to raphaelcar95
+raphaelcar95 collected 560 from pot
+raphaelcar95: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 5: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 6: DEADLEPEANES folded before Flop (didn't bet)
+Seat 7: raphaelcar95 (button) collected (560)
+Seat 8: beshttt069 (small blind) folded before Flop
+Seat 9: O Aprendi105 (big blind) folded before Flop
+
+
+
+PokerStars Hand #207674047301: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2019/12/31 3:20:37 BRT [2019/12/31 1:20:37 ET]
+Table '2771440469 4' 9-max Seat #8 is the button
+Seat 1: evaggelos79 (6544 in chips) 
+Seat 3: AlyCWB (1100 in chips) 
+Seat 4: blek_panther (3321 in chips) 
+Seat 5: Miltinhoedu1 (309 in chips) is sitting out
+Seat 6: DEADLEPEANES (3168 in chips) 
+Seat 7: raphaelcar95 (5141 in chips) 
+Seat 8: beshttt069 (11123 in chips) 
+Seat 9: O Aprendi105 (3491 in chips) 
+evaggelos79: posts the ante 20
+AlyCWB: posts the ante 20
+blek_panther: posts the ante 20
+Miltinhoedu1: posts the ante 20
+DEADLEPEANES: posts the ante 20
+raphaelcar95: posts the ante 20
+beshttt069: posts the ante 20
+O Aprendi105: posts the ante 20
+O Aprendi105: posts small blind 80
+evaggelos79: posts big blind 160
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ks 5c]
+AlyCWB: folds 
+blek_panther: folds 
+Miltinhoedu1: folds 
+DEADLEPEANES: calls 160
+raphaelcar95: folds 
+beshttt069: raises 320 to 480
+O Aprendi105: folds 
+evaggelos79: folds 
+DEADLEPEANES: calls 320
+*** FLOP *** [8c Js 7d]
+DEADLEPEANES: checks 
+beshttt069: bets 800
+DEADLEPEANES: calls 800
+*** TURN *** [8c Js 7d] [Td]
+DEADLEPEANES: checks 
+beshttt069: bets 9823 and is all-in
+DEADLEPEANES: calls 1868 and is all-in
+Uncalled bet (7955) returned to beshttt069
+*** RIVER *** [8c Js 7d Td] [6s]
+*** SHOW DOWN ***
+DEADLEPEANES: shows [Kc Tc] (a pair of Tens)
+beshttt069: shows [Jd Ad] (a pair of Jacks)
+beshttt069 collected 6696 from pot
+DEADLEPEANES finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 6696 | Rake 0 
+Board [8c Js 7d Td 6s]
+Seat 1: evaggelos79 (big blind) folded before Flop
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 5: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 6: DEADLEPEANES showed [Kc Tc] and lost with a pair of Tens
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 (button) showed [Jd Ad] and won (6696) with a pair of Jacks
+Seat 9: O Aprendi105 (small blind) folded before Flop
+
+
+
+PokerStars Hand #207674057637: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2019/12/31 3:21:36 BRT [2019/12/31 1:21:36 ET]
+Table '2771440469 4' 9-max Seat #9 is the button
+Seat 1: evaggelos79 (6364 in chips) 
+Seat 3: AlyCWB (1080 in chips) 
+Seat 4: blek_panther (3301 in chips) 
+Seat 5: Miltinhoedu1 (289 in chips) is sitting out
+Seat 7: raphaelcar95 (5121 in chips) 
+Seat 8: beshttt069 (14651 in chips) 
+Seat 9: O Aprendi105 (3391 in chips) 
+evaggelos79: posts the ante 20
+AlyCWB: posts the ante 20
+blek_panther: posts the ante 20
+Miltinhoedu1: posts the ante 20
+raphaelcar95: posts the ante 20
+beshttt069: posts the ante 20
+O Aprendi105: posts the ante 20
+evaggelos79: posts small blind 80
+AlyCWB: posts big blind 160
+*** HOLE CARDS ***
+Dealt to AlyCWB [As 7c]
+blek_panther: folds 
+Miltinhoedu1: folds 
+raphaelcar95: folds 
+beshttt069: calls 160
+O Aprendi105: folds 
+evaggelos79: calls 80
+AlyCWB: raises 900 to 1060 and is all-in
+beshttt069: folds 
+evaggelos79: folds 
+Uncalled bet (900) returned to AlyCWB
+AlyCWB collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Seat 1: evaggelos79 (small blind) folded before Flop
+Seat 3: AlyCWB (big blind) collected (620)
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 5: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 folded before Flop
+Seat 9: O Aprendi105 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674064101: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2019/12/31 3:22:12 BRT [2019/12/31 1:22:12 ET]
+Table '2771440469 4' 9-max Seat #1 is the button
+Seat 1: evaggelos79 (6184 in chips) 
+Seat 3: AlyCWB (1520 in chips) 
+Seat 4: blek_panther (3281 in chips) 
+Seat 5: Miltinhoedu1 (269 in chips) is sitting out
+Seat 7: raphaelcar95 (5101 in chips) 
+Seat 8: beshttt069 (14471 in chips) 
+Seat 9: O Aprendi105 (3371 in chips) 
+evaggelos79: posts the ante 20
+AlyCWB: posts the ante 20
+blek_panther: posts the ante 20
+Miltinhoedu1: posts the ante 20
+raphaelcar95: posts the ante 20
+beshttt069: posts the ante 20
+O Aprendi105: posts the ante 20
+AlyCWB: posts small blind 80
+blek_panther: posts big blind 160
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ad 5h]
+Miltinhoedu1: folds 
+raphaelcar95: folds 
+beshttt069: calls 160
+O Aprendi105: folds 
+evaggelos79: folds 
+AlyCWB: raises 1340 to 1500 and is all-in
+blek_panther: folds 
+beshttt069: calls 1340
+*** FLOP *** [Kd 9s 8c]
+*** TURN *** [Kd 9s 8c] [Kc]
+*** RIVER *** [Kd 9s 8c Kc] [2h]
+*** SHOW DOWN ***
+AlyCWB: shows [Ad 5h] (a pair of Kings)
+beshttt069: shows [Ts Jc] (a pair of Kings - lower kicker)
+AlyCWB collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Board [Kd 9s 8c Kc 2h]
+Seat 1: evaggelos79 (button) folded before Flop (didn't bet)
+Seat 3: AlyCWB (small blind) showed [Ad 5h] and won (3300) with a pair of Kings
+Seat 4: blek_panther (big blind) folded before Flop
+Seat 5: Miltinhoedu1 folded before Flop (didn't bet)
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 showed [Ts Jc] and lost with a pair of Kings
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674071579: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2019/12/31 3:22:55 BRT [2019/12/31 1:22:55 ET]
+Table '2771440469 4' 9-max Seat #3 is the button
+Seat 1: evaggelos79 (6164 in chips) 
+Seat 3: AlyCWB (3300 in chips) 
+Seat 4: blek_panther (3101 in chips) 
+Seat 5: Miltinhoedu1 (249 in chips) is sitting out
+Seat 7: raphaelcar95 (5081 in chips) 
+Seat 8: beshttt069 (12951 in chips) 
+Seat 9: O Aprendi105 (3351 in chips) 
+evaggelos79: posts the ante 20
+AlyCWB: posts the ante 20
+blek_panther: posts the ante 20
+Miltinhoedu1: posts the ante 20
+raphaelcar95: posts the ante 20
+beshttt069: posts the ante 20
+O Aprendi105: posts the ante 20
+blek_panther: posts small blind 80
+Miltinhoedu1: posts big blind 160
+*** HOLE CARDS ***
+Dealt to AlyCWB [4d Kd]
+raphaelcar95: folds 
+beshttt069: folds 
+O Aprendi105: folds 
+evaggelos79: folds 
+AlyCWB: folds 
+blek_panther: calls 80
+Miltinhoedu1: folds 
+blek_panther collected 460 from pot
+blek_panther: doesn't show hand 
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 3: AlyCWB (button) folded before Flop (didn't bet)
+Seat 4: blek_panther (small blind) collected (460)
+Seat 5: Miltinhoedu1 (big blind) folded before Flop
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674082276: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2019/12/31 3:23:15 BRT [2019/12/31 1:23:15 ET]
+Table '2771440469 4' 9-max Seat #4 is the button
+Seat 1: evaggelos79 (6144 in chips) 
+Seat 3: AlyCWB (3280 in chips) 
+Seat 4: blek_panther (3381 in chips) 
+Seat 5: Miltinhoedu1 (69 in chips) is sitting out
+Seat 7: raphaelcar95 (5061 in chips) 
+Seat 8: beshttt069 (12931 in chips) 
+Seat 9: O Aprendi105 (3331 in chips) 
+evaggelos79: posts the ante 20
+AlyCWB: posts the ante 20
+blek_panther: posts the ante 20
+Miltinhoedu1: posts the ante 20
+raphaelcar95: posts the ante 20
+beshttt069: posts the ante 20
+O Aprendi105: posts the ante 20
+Miltinhoedu1: posts small blind 49 and is all-in
+raphaelcar95: posts big blind 160
+*** HOLE CARDS ***
+Dealt to AlyCWB [Tc As]
+beshttt069: folds 
+O Aprendi105: folds 
+evaggelos79: folds 
+AlyCWB: raises 320 to 480
+blek_panther: folds 
+Miltinhoedu1: folds 
+raphaelcar95: folds 
+Uncalled bet (320) returned to AlyCWB
+AlyCWB collected 509 from pot
+Miltinhoedu1 finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 509 | Rake 0 
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 3: AlyCWB collected (509)
+Seat 4: blek_panther (button) folded before Flop (didn't bet)
+Seat 5: Miltinhoedu1 (small blind) folded before Flop
+Seat 7: raphaelcar95 (big blind) folded before Flop
+Seat 8: beshttt069 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674086367: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2019/12/31 3:23:38 BRT [2019/12/31 1:23:38 ET]
+Table '2771440469 4' 9-max Seat #7 is the button
+Seat 1: evaggelos79 (6124 in chips) 
+Seat 3: AlyCWB (3609 in chips) 
+Seat 4: blek_panther (3361 in chips) 
+Seat 7: raphaelcar95 (4881 in chips) 
+Seat 8: beshttt069 (12911 in chips) 
+Seat 9: O Aprendi105 (3311 in chips) 
+evaggelos79: posts the ante 20
+AlyCWB: posts the ante 20
+blek_panther: posts the ante 20
+raphaelcar95: posts the ante 20
+beshttt069: posts the ante 20
+O Aprendi105: posts the ante 20
+beshttt069: posts small blind 80
+O Aprendi105: posts big blind 160
+*** HOLE CARDS ***
+Dealt to AlyCWB [3c 4s]
+evaggelos79: folds 
+AlyCWB: folds 
+blek_panther: folds 
+raphaelcar95: raises 320 to 480
+beshttt069: folds 
+O Aprendi105: calls 320
+*** FLOP *** [8s Jd Ts]
+O Aprendi105: bets 580
+raphaelcar95: calls 580
+*** TURN *** [8s Jd Ts] [6d]
+O Aprendi105: bets 2231 and is all-in
+raphaelcar95: folds 
+Uncalled bet (2231) returned to O Aprendi105
+O Aprendi105 collected 2320 from pot
+O Aprendi105: doesn't show hand 
+*** SUMMARY ***
+Total pot 2320 | Rake 0 
+Board [8s Jd Ts 6d]
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 7: raphaelcar95 (button) folded on the Turn
+Seat 8: beshttt069 (small blind) folded before Flop
+Seat 9: O Aprendi105 (big blind) collected (2320)
+
+
+
+PokerStars Hand #207674100263: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2019/12/31 3:24:55 BRT [2019/12/31 1:24:55 ET]
+Table '2771440469 4' 9-max Seat #8 is the button
+Seat 1: evaggelos79 (6104 in chips) 
+Seat 3: AlyCWB (3589 in chips) 
+Seat 4: blek_panther (3341 in chips) 
+Seat 7: raphaelcar95 (3801 in chips) 
+Seat 8: beshttt069 (12811 in chips) 
+Seat 9: O Aprendi105 (4551 in chips) 
+evaggelos79: posts the ante 20
+AlyCWB: posts the ante 20
+blek_panther: posts the ante 20
+raphaelcar95: posts the ante 20
+beshttt069: posts the ante 20
+O Aprendi105: posts the ante 20
+O Aprendi105: posts small blind 80
+evaggelos79: posts big blind 160
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ac 7h]
+AlyCWB: raises 160 to 320
+blek_panther: folds 
+raphaelcar95: folds 
+beshttt069: calls 320
+O Aprendi105: folds 
+evaggelos79: calls 160
+*** FLOP *** [3h Ks Ah]
+evaggelos79: bets 160
+AlyCWB: calls 160
+beshttt069: raises 800 to 960
+evaggelos79: calls 800
+AlyCWB: folds 
+*** TURN *** [3h Ks Ah] [Qs]
+evaggelos79: checks 
+beshttt069: checks 
+*** RIVER *** [3h Ks Ah Qs] [7s]
+evaggelos79: bets 160
+beshttt069: calls 160
+*** SHOW DOWN ***
+evaggelos79: shows [2c 5s] (high card Ace)
+beshttt069: shows [6c As] (a pair of Aces)
+beshttt069 collected 3560 from pot
+*** SUMMARY ***
+Total pot 3560 | Rake 0 
+Board [3h Ks Ah Qs 7s]
+Seat 1: evaggelos79 (big blind) showed [2c 5s] and lost with high card Ace
+Seat 3: AlyCWB folded on the Flop
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 (button) showed [6c As] and won (3560) with a pair of Aces
+Seat 9: O Aprendi105 (small blind) folded before Flop
+
+
+
+PokerStars Hand #207674112710: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2019/12/31 3:26:06 BRT [2019/12/31 1:26:06 ET]
+Table '2771440469 4' 9-max Seat #9 is the button
+Seat 1: evaggelos79 (4644 in chips) 
+Seat 3: AlyCWB (3089 in chips) 
+Seat 4: blek_panther (3321 in chips) 
+Seat 7: raphaelcar95 (3781 in chips) 
+Seat 8: beshttt069 (14911 in chips) 
+Seat 9: O Aprendi105 (4451 in chips) 
+evaggelos79: posts the ante 20
+AlyCWB: posts the ante 20
+blek_panther: posts the ante 20
+raphaelcar95: posts the ante 20
+beshttt069: posts the ante 20
+O Aprendi105: posts the ante 20
+evaggelos79: posts small blind 80
+AlyCWB: posts big blind 160
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ts 8d]
+blek_panther: folds 
+raphaelcar95: folds 
+beshttt069: calls 160
+O Aprendi105: folds 
+evaggelos79: calls 80
+AlyCWB: checks 
+*** FLOP *** [Ah Kd 9h]
+evaggelos79: bets 320
+AlyCWB: folds 
+beshttt069: folds 
+Uncalled bet (320) returned to evaggelos79
+evaggelos79 collected 600 from pot
+evaggelos79: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Ah Kd 9h]
+Seat 1: evaggelos79 (small blind) collected (600)
+Seat 3: AlyCWB (big blind) folded on the Flop
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 folded on the Flop
+Seat 9: O Aprendi105 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674119750: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2019/12/31 3:26:46 BRT [2019/12/31 1:26:46 ET]
+Table '2771440469 4' 9-max Seat #1 is the button
+Seat 1: evaggelos79 (5064 in chips) 
+Seat 3: AlyCWB (2909 in chips) 
+Seat 4: blek_panther (3301 in chips) 
+Seat 7: raphaelcar95 (3761 in chips) 
+Seat 8: beshttt069 (14731 in chips) 
+Seat 9: O Aprendi105 (4431 in chips) 
+evaggelos79: posts the ante 20
+AlyCWB: posts the ante 20
+blek_panther: posts the ante 20
+raphaelcar95: posts the ante 20
+beshttt069: posts the ante 20
+O Aprendi105: posts the ante 20
+AlyCWB: posts small blind 80
+blek_panther: posts big blind 160
+*** HOLE CARDS ***
+Dealt to AlyCWB [6s Qd]
+raphaelcar95: folds 
+beshttt069: calls 160
+O Aprendi105: folds 
+evaggelos79: calls 160
+AlyCWB has timed out
+AlyCWB: folds 
+AlyCWB is sitting out
+blek_panther: checks 
+*** FLOP *** [3c 6d 3h]
+blek_panther: checks 
+AlyCWB has returned
+beshttt069: bets 320
+evaggelos79: folds 
+blek_panther: calls 320
+*** TURN *** [3c 6d 3h] [4d]
+blek_panther: checks 
+beshttt069: checks 
+*** RIVER *** [3c 6d 3h 4d] [2d]
+blek_panther: checks 
+beshttt069: checks 
+*** SHOW DOWN ***
+blek_panther: shows [2s 6c] (two pair, Sixes and Threes)
+beshttt069: shows [5d Ac] (a straight, Deuce to Six)
+beshttt069 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [3c 6d 3h 4d 2d]
+Seat 1: evaggelos79 (button) folded on the Flop
+Seat 3: AlyCWB (small blind) folded before Flop
+Seat 4: blek_panther (big blind) showed [2s 6c] and lost with two pair, Sixes and Threes
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 showed [5d Ac] and won (1320) with a straight, Deuce to Six
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674131049: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2019/12/31 3:27:50 BRT [2019/12/31 1:27:50 ET]
+Table '2771440469 4' 9-max Seat #3 is the button
+Seat 1: evaggelos79 (4884 in chips) 
+Seat 3: AlyCWB (2809 in chips) 
+Seat 4: blek_panther (2801 in chips) 
+Seat 7: raphaelcar95 (3741 in chips) 
+Seat 8: beshttt069 (15551 in chips) 
+Seat 9: O Aprendi105 (4411 in chips) 
+evaggelos79: posts the ante 20
+AlyCWB: posts the ante 20
+blek_panther: posts the ante 20
+raphaelcar95: posts the ante 20
+beshttt069: posts the ante 20
+O Aprendi105: posts the ante 20
+blek_panther: posts small blind 80
+raphaelcar95: posts big blind 160
+*** HOLE CARDS ***
+Dealt to AlyCWB [Tc 5c]
+beshttt069: calls 160
+O Aprendi105: folds 
+evaggelos79: folds 
+AlyCWB: folds 
+blek_panther: calls 80
+raphaelcar95: checks 
+*** FLOP *** [6s 8c 5s]
+blek_panther: checks 
+raphaelcar95: checks 
+beshttt069: checks 
+*** TURN *** [6s 8c 5s] [9d]
+blek_panther: checks 
+raphaelcar95: bets 300
+beshttt069: folds 
+blek_panther: folds 
+Uncalled bet (300) returned to raphaelcar95
+raphaelcar95 collected 600 from pot
+raphaelcar95: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [6s 8c 5s 9d]
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 3: AlyCWB (button) folded before Flop (didn't bet)
+Seat 4: blek_panther (small blind) folded on the Turn
+Seat 7: raphaelcar95 (big blind) collected (600)
+Seat 8: beshttt069 folded on the Turn
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674140060: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2019/12/31 3:28:41 BRT [2019/12/31 1:28:41 ET]
+Table '2771440469 4' 9-max Seat #4 is the button
+Seat 1: evaggelos79 (4864 in chips) 
+Seat 3: AlyCWB (2789 in chips) 
+Seat 4: blek_panther (2621 in chips) 
+Seat 7: raphaelcar95 (4161 in chips) 
+Seat 8: beshttt069 (15371 in chips) 
+Seat 9: O Aprendi105 (4391 in chips) 
+evaggelos79: posts the ante 20
+AlyCWB: posts the ante 20
+blek_panther: posts the ante 20
+raphaelcar95: posts the ante 20
+beshttt069: posts the ante 20
+O Aprendi105: posts the ante 20
+raphaelcar95: posts small blind 80
+beshttt069: posts big blind 160
+*** HOLE CARDS ***
+Dealt to AlyCWB [9h 8d]
+O Aprendi105: folds 
+evaggelos79: folds 
+AlyCWB: folds 
+blek_panther: folds 
+raphaelcar95: folds 
+Uncalled bet (80) returned to beshttt069
+beshttt069 collected 280 from pot
+beshttt069: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: evaggelos79 folded before Flop (didn't bet)
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blek_panther (button) folded before Flop (didn't bet)
+Seat 7: raphaelcar95 (small blind) folded before Flop
+Seat 8: beshttt069 (big blind) collected (280)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674143661: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:29:01 BRT [2019/12/31 1:29:01 ET]
+Table '2771440469 4' 9-max Seat #7 is the button
+Seat 1: evaggelos79 (4844 in chips) 
+Seat 3: AlyCWB (2769 in chips) 
+Seat 4: blek_panther (2601 in chips) 
+Seat 7: raphaelcar95 (4061 in chips) 
+Seat 8: beshttt069 (15551 in chips) 
+Seat 9: O Aprendi105 (4371 in chips) 
+evaggelos79: posts the ante 25
+AlyCWB: posts the ante 25
+blek_panther: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+beshttt069: posts small blind 100
+O Aprendi105: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [Jc As]
+evaggelos79: calls 200
+AlyCWB: raises 2544 to 2744 and is all-in
+blek_panther: folds 
+raphaelcar95: folds 
+beshttt069: folds 
+O Aprendi105: folds 
+evaggelos79: calls 2544
+*** FLOP *** [5d 8s 3s]
+*** TURN *** [5d 8s 3s] [Ah]
+*** RIVER *** [5d 8s 3s Ah] [5s]
+*** SHOW DOWN ***
+evaggelos79: shows [Ac 3c] (two pair, Aces and Fives)
+AlyCWB: shows [Jc As] (two pair, Aces and Fives - Jack kicker)
+AlyCWB collected 5938 from pot
+*** SUMMARY ***
+Total pot 5938 | Rake 0 
+Board [5d 8s 3s Ah 5s]
+Seat 1: evaggelos79 showed [Ac 3c] and lost with two pair, Aces and Fives
+Seat 3: AlyCWB showed [Jc As] and won (5938) with two pair, Aces and Fives
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 7: raphaelcar95 (button) folded before Flop (didn't bet)
+Seat 8: beshttt069 (small blind) folded before Flop
+Seat 9: O Aprendi105 (big blind) folded before Flop
+
+
+
+PokerStars Hand #207674149247: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:29:32 BRT [2019/12/31 1:29:32 ET]
+Table '2771440469 4' 9-max Seat #8 is the button
+Seat 1: evaggelos79 (2075 in chips) 
+Seat 3: AlyCWB (5938 in chips) 
+Seat 4: blek_panther (2576 in chips) 
+Seat 7: raphaelcar95 (4036 in chips) 
+Seat 8: beshttt069 (15426 in chips) 
+Seat 9: O Aprendi105 (4146 in chips) 
+evaggelos79: posts the ante 25
+AlyCWB: posts the ante 25
+blek_panther: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+O Aprendi105: posts small blind 100
+evaggelos79: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [7d Ts]
+AlyCWB: folds 
+blek_panther: folds 
+raphaelcar95: folds 
+beshttt069: folds 
+O Aprendi105: raises 200 to 400
+evaggelos79: raises 1650 to 2050 and is all-in
+O Aprendi105: calls 1650
+*** FLOP *** [2h 2d 3c]
+*** TURN *** [2h 2d 3c] [Td]
+*** RIVER *** [2h 2d 3c Td] [Kh]
+*** SHOW DOWN ***
+O Aprendi105: shows [9h Kc] (two pair, Kings and Deuces)
+evaggelos79: shows [3s Qs] (two pair, Threes and Deuces)
+O Aprendi105 collected 4250 from pot
+evaggelos79 finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 4250 | Rake 0 
+Board [2h 2d 3c Td Kh]
+Seat 1: evaggelos79 (big blind) showed [3s Qs] and lost with two pair, Threes and Deuces
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blek_panther folded before Flop (didn't bet)
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 (button) folded before Flop (didn't bet)
+Seat 9: O Aprendi105 (small blind) showed [9h Kc] and won (4250) with two pair, Kings and Deuces
+
+
+
+PokerStars Hand #207674157446: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:30:18 BRT [2019/12/31 1:30:18 ET]
+Table '2771440469 4' 9-max Seat #9 is the button
+Seat 3: AlyCWB (5913 in chips) 
+Seat 4: blek_panther (2551 in chips) 
+Seat 7: raphaelcar95 (4011 in chips) 
+Seat 8: beshttt069 (15401 in chips) 
+Seat 9: O Aprendi105 (6321 in chips) 
+AlyCWB: posts the ante 25
+blek_panther: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+AlyCWB: posts small blind 100
+blek_panther: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [4h Kd]
+raphaelcar95: folds 
+beshttt069: raises 200 to 400
+O Aprendi105: folds 
+AlyCWB: folds 
+blek_panther: calls 200
+*** FLOP *** [Jc Qh 6c]
+blek_panther: checks 
+beshttt069: bets 600
+blek_panther: folds 
+Uncalled bet (600) returned to beshttt069
+beshttt069 collected 1025 from pot
+beshttt069: doesn't show hand 
+*** SUMMARY ***
+Total pot 1025 | Rake 0 
+Board [Jc Qh 6c]
+Seat 3: AlyCWB (small blind) folded before Flop
+Seat 4: blek_panther (big blind) folded on the Flop
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 collected (1025)
+Seat 9: O Aprendi105 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674163682: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:30:54 BRT [2019/12/31 1:30:54 ET]
+Table '2771440469 4' 9-max Seat #3 is the button
+Seat 3: AlyCWB (5788 in chips) 
+Seat 4: blek_panther (2126 in chips) 
+Seat 5: kreator1984 (6885 in chips) 
+Seat 7: raphaelcar95 (3986 in chips) 
+Seat 8: beshttt069 (16001 in chips) 
+Seat 9: O Aprendi105 (6296 in chips) 
+AlyCWB: posts the ante 25
+blek_panther: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+blek_panther: posts small blind 100
+kreator1984: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [4h Kd]
+raphaelcar95: folds 
+beshttt069: raises 400 to 600
+O Aprendi105: folds 
+AlyCWB: folds 
+blek_panther: folds 
+kreator1984: calls 400
+*** FLOP *** [Qh Th Js]
+kreator1984: checks 
+beshttt069: bets 800
+kreator1984: folds 
+Uncalled bet (800) returned to beshttt069
+beshttt069 collected 1450 from pot
+beshttt069: doesn't show hand 
+*** SUMMARY ***
+Total pot 1450 | Rake 0 
+Board [Qh Th Js]
+Seat 3: AlyCWB (button) folded before Flop (didn't bet)
+Seat 4: blek_panther (small blind) folded before Flop
+Seat 5: kreator1984 (big blind) folded on the Flop
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 collected (1450)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674171490: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:31:37 BRT [2019/12/31 1:31:37 ET]
+Table '2771440469 4' 9-max Seat #4 is the button
+Seat 3: AlyCWB (5763 in chips) 
+Seat 4: blek_panther (2001 in chips) 
+Seat 5: kreator1984 (6260 in chips) 
+Seat 7: raphaelcar95 (3961 in chips) 
+Seat 8: beshttt069 (16826 in chips) 
+Seat 9: O Aprendi105 (6271 in chips) 
+AlyCWB: posts the ante 25
+blek_panther: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+kreator1984: posts small blind 100
+raphaelcar95: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ac 2c]
+beshttt069: folds 
+O Aprendi105: folds 
+AlyCWB: raises 200 to 400
+blek_panther: raises 1576 to 1976 and is all-in
+kreator1984: folds 
+raphaelcar95: folds 
+AlyCWB: calls 1576
+*** FLOP *** [6s 3d 9s]
+*** TURN *** [6s 3d 9s] [5h]
+*** RIVER *** [6s 3d 9s 5h] [4c]
+*** SHOW DOWN ***
+AlyCWB: shows [Ac 2c] (a straight, Deuce to Six)
+blek_panther: shows [Kd Ah] (high card Ace)
+AlyCWB collected 4402 from pot
+blek_panther finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 4402 | Rake 0 
+Board [6s 3d 9s 5h 4c]
+Seat 3: AlyCWB showed [Ac 2c] and won (4402) with a straight, Deuce to Six
+Seat 4: blek_panther (button) showed [Kd Ah] and lost with high card Ace
+Seat 5: kreator1984 (small blind) folded before Flop
+Seat 7: raphaelcar95 (big blind) folded before Flop
+Seat 8: beshttt069 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674177758: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:32:13 BRT [2019/12/31 1:32:13 ET]
+Table '2771440469 4' 9-max Seat #5 is the button
+Seat 3: AlyCWB (8164 in chips) 
+Seat 5: kreator1984 (6135 in chips) 
+Seat 7: raphaelcar95 (3736 in chips) 
+Seat 8: beshttt069 (16801 in chips) 
+Seat 9: O Aprendi105 (6246 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+raphaelcar95: posts small blind 100
+beshttt069: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [4s 9c]
+O Aprendi105: folds 
+AlyCWB: folds 
+kreator1984: folds 
+raphaelcar95: raises 3511 to 3711 and is all-in
+beshttt069: folds 
+Uncalled bet (3511) returned to raphaelcar95
+raphaelcar95 collected 525 from pot
+raphaelcar95: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 5: kreator1984 (button) folded before Flop (didn't bet)
+Seat 7: raphaelcar95 (small blind) collected (525)
+Seat 8: beshttt069 (big blind) folded before Flop
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674182603: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:32:40 BRT [2019/12/31 1:32:40 ET]
+Table '2771440469 4' 9-max Seat #7 is the button
+Seat 3: AlyCWB (8139 in chips) 
+Seat 5: kreator1984 (6110 in chips) 
+Seat 7: raphaelcar95 (4036 in chips) 
+Seat 8: beshttt069 (16576 in chips) 
+Seat 9: O Aprendi105 (6221 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+beshttt069: posts small blind 100
+O Aprendi105: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [6c 5d]
+AlyCWB: folds 
+kreator1984: raises 300 to 500
+raphaelcar95: raises 700 to 1200
+beshttt069: folds 
+O Aprendi105: folds 
+kreator1984: calls 700
+*** FLOP *** [3s 2s 8c]
+kreator1984: checks 
+raphaelcar95: checks 
+*** TURN *** [3s 2s 8c] [9c]
+kreator1984: checks 
+raphaelcar95: bets 1200
+kreator1984: folds 
+Uncalled bet (1200) returned to raphaelcar95
+raphaelcar95 collected 2825 from pot
+raphaelcar95: doesn't show hand 
+*** SUMMARY ***
+Total pot 2825 | Rake 0 
+Board [3s 2s 8c 9c]
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 5: kreator1984 folded on the Turn
+Seat 7: raphaelcar95 (button) collected (2825)
+Seat 8: beshttt069 (small blind) folded before Flop
+Seat 9: O Aprendi105 (big blind) folded before Flop
+
+
+
+PokerStars Hand #207674189551: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:33:18 BRT [2019/12/31 1:33:18 ET]
+Table '2771440469 4' 9-max Seat #8 is the button
+Seat 3: AlyCWB (8114 in chips) 
+Seat 5: kreator1984 (4885 in chips) 
+Seat 7: raphaelcar95 (5636 in chips) 
+Seat 8: beshttt069 (16451 in chips) 
+Seat 9: O Aprendi105 (5996 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+O Aprendi105: posts small blind 100
+AlyCWB: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [Ah 7d]
+kreator1984: folds 
+raphaelcar95: folds 
+beshttt069: folds 
+O Aprendi105: raises 300 to 500
+AlyCWB: raises 1125 to 1625
+O Aprendi105: folds 
+Uncalled bet (1125) returned to AlyCWB
+AlyCWB collected 1125 from pot
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 3: AlyCWB (big blind) collected (1125)
+Seat 5: kreator1984 folded before Flop (didn't bet)
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 (button) folded before Flop (didn't bet)
+Seat 9: O Aprendi105 (small blind) folded before Flop
+
+
+
+PokerStars Hand #207674194139: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:33:44 BRT [2019/12/31 1:33:44 ET]
+Table '2771440469 4' 9-max Seat #9 is the button
+Seat 3: AlyCWB (8714 in chips) 
+Seat 5: kreator1984 (4860 in chips) 
+Seat 7: raphaelcar95 (5611 in chips) 
+Seat 8: beshttt069 (16426 in chips) 
+Seat 9: O Aprendi105 (5471 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+AlyCWB: posts small blind 100
+kreator1984: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [Kd 5d]
+raphaelcar95: folds 
+beshttt069: folds 
+O Aprendi105: folds 
+AlyCWB: calls 100
+kreator1984: raises 400 to 600
+AlyCWB: folds 
+Uncalled bet (400) returned to kreator1984
+kreator1984 collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 3: AlyCWB (small blind) folded before Flop
+Seat 5: kreator1984 (big blind) collected (525)
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 folded before Flop (didn't bet)
+Seat 9: O Aprendi105 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674197770: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:34:05 BRT [2019/12/31 1:34:05 ET]
+Table '2771440469 4' 9-max Seat #3 is the button
+Seat 3: AlyCWB (8489 in chips) 
+Seat 5: kreator1984 (5160 in chips) 
+Seat 7: raphaelcar95 (5586 in chips) 
+Seat 8: beshttt069 (16401 in chips) 
+Seat 9: O Aprendi105 (5446 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+kreator1984: posts small blind 100
+raphaelcar95: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [Qd 5d]
+beshttt069: calls 200
+O Aprendi105: folds 
+AlyCWB: calls 200
+kreator1984: folds 
+raphaelcar95: checks 
+*** FLOP *** [Ts 7h Kc]
+raphaelcar95: checks 
+beshttt069: checks 
+AlyCWB: bets 400
+raphaelcar95: folds 
+beshttt069: calls 400
+*** TURN *** [Ts 7h Kc] [2h]
+beshttt069: checks 
+AlyCWB: checks 
+*** RIVER *** [Ts 7h Kc 2h] [Qs]
+beshttt069: bets 1200
+AlyCWB: calls 1200
+*** SHOW DOWN ***
+beshttt069: shows [9d Jd] (a straight, Nine to King)
+AlyCWB: mucks hand 
+beshttt069 collected 4025 from pot
+*** SUMMARY ***
+Total pot 4025 | Rake 0 
+Board [Ts 7h Kc 2h Qs]
+Seat 3: AlyCWB (button) mucked [Qd 5d]
+Seat 5: kreator1984 (small blind) folded before Flop
+Seat 7: raphaelcar95 (big blind) folded on the Flop
+Seat 8: beshttt069 showed [9d Jd] and won (4025) with a straight, Nine to King
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674209872: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:35:14 BRT [2019/12/31 1:35:14 ET]
+Table '2771440469 4' 9-max Seat #5 is the button
+Seat 3: AlyCWB (6664 in chips) 
+Seat 5: kreator1984 (5035 in chips) 
+Seat 7: raphaelcar95 (5361 in chips) 
+Seat 8: beshttt069 (18601 in chips) 
+Seat 9: O Aprendi105 (5421 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+raphaelcar95: posts small blind 100
+beshttt069: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [Tc Ad]
+O Aprendi105: folds 
+AlyCWB: raises 400 to 600
+kreator1984: folds 
+raphaelcar95: folds 
+beshttt069: calls 400
+*** FLOP *** [5h Th 7s]
+beshttt069: checks 
+AlyCWB: bets 800
+beshttt069: folds 
+Uncalled bet (800) returned to AlyCWB
+AlyCWB collected 1425 from pot
+*** SUMMARY ***
+Total pot 1425 | Rake 0 
+Board [5h Th 7s]
+Seat 3: AlyCWB collected (1425)
+Seat 5: kreator1984 (button) folded before Flop (didn't bet)
+Seat 7: raphaelcar95 (small blind) folded before Flop
+Seat 8: beshttt069 (big blind) folded on the Flop
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674214914: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:35:43 BRT [2019/12/31 1:35:43 ET]
+Table '2771440469 4' 9-max Seat #7 is the button
+Seat 3: AlyCWB (7464 in chips) 
+Seat 5: kreator1984 (5010 in chips) 
+Seat 7: raphaelcar95 (5236 in chips) 
+Seat 8: beshttt069 (17976 in chips) 
+Seat 9: O Aprendi105 (5396 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+beshttt069: posts small blind 100
+O Aprendi105: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [7s 3c]
+AlyCWB: folds 
+kreator1984: folds 
+raphaelcar95: folds 
+beshttt069: raises 200 to 400
+O Aprendi105: folds 
+Uncalled bet (200) returned to beshttt069
+beshttt069 collected 525 from pot
+beshttt069: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 5: kreator1984 folded before Flop (didn't bet)
+Seat 7: raphaelcar95 (button) folded before Flop (didn't bet)
+Seat 8: beshttt069 (small blind) collected (525)
+Seat 9: O Aprendi105 (big blind) folded before Flop
+
+
+
+PokerStars Hand #207674219826: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:36:10 BRT [2019/12/31 1:36:10 ET]
+Table '2771440469 4' 9-max Seat #8 is the button
+Seat 3: AlyCWB (7439 in chips) 
+Seat 5: kreator1984 (4985 in chips) 
+Seat 7: raphaelcar95 (5211 in chips) 
+Seat 8: beshttt069 (18276 in chips) 
+Seat 9: O Aprendi105 (5171 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+O Aprendi105: posts small blind 100
+AlyCWB: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [4h Js]
+kreator1984: folds 
+raphaelcar95: raises 400 to 600
+beshttt069: folds 
+O Aprendi105: folds 
+AlyCWB: folds 
+Uncalled bet (400) returned to raphaelcar95
+raphaelcar95 collected 625 from pot
+raphaelcar95: doesn't show hand 
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Seat 3: AlyCWB (big blind) folded before Flop
+Seat 5: kreator1984 folded before Flop (didn't bet)
+Seat 7: raphaelcar95 collected (625)
+Seat 8: beshttt069 (button) folded before Flop (didn't bet)
+Seat 9: O Aprendi105 (small blind) folded before Flop
+
+
+
+PokerStars Hand #207674224226: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:36:35 BRT [2019/12/31 1:36:35 ET]
+Table '2771440469 4' 9-max Seat #9 is the button
+Seat 3: AlyCWB (7214 in chips) 
+Seat 5: kreator1984 (4960 in chips) 
+Seat 7: raphaelcar95 (5611 in chips) 
+Seat 8: beshttt069 (18251 in chips) 
+Seat 9: O Aprendi105 (5046 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+AlyCWB: posts small blind 100
+kreator1984: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [4s 8h]
+raphaelcar95: folds 
+beshttt069: raises 200 to 400
+O Aprendi105: folds 
+AlyCWB: folds 
+kreator1984: folds 
+Uncalled bet (200) returned to beshttt069
+beshttt069 collected 625 from pot
+beshttt069: doesn't show hand 
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Seat 3: AlyCWB (small blind) folded before Flop
+Seat 5: kreator1984 (big blind) folded before Flop
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 collected (625)
+Seat 9: O Aprendi105 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674227030: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:36:51 BRT [2019/12/31 1:36:51 ET]
+Table '2771440469 4' 9-max Seat #3 is the button
+Seat 3: AlyCWB (7089 in chips) 
+Seat 5: kreator1984 (4735 in chips) 
+Seat 7: raphaelcar95 (5586 in chips) 
+Seat 8: beshttt069 (18651 in chips) 
+Seat 9: O Aprendi105 (5021 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+kreator1984: posts small blind 100
+raphaelcar95: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [9h Ad]
+beshttt069: calls 200
+O Aprendi105: folds 
+AlyCWB: raises 825 to 1025
+kreator1984: folds 
+raphaelcar95: calls 825
+beshttt069: folds 
+*** FLOP *** [8s Jc Qc]
+raphaelcar95: checks 
+AlyCWB: checks 
+*** TURN *** [8s Jc Qc] [Kh]
+raphaelcar95: checks 
+AlyCWB: bets 1200
+raphaelcar95: raises 1200 to 2400
+AlyCWB: calls 1200
+*** RIVER *** [8s Jc Qc Kh] [2c]
+raphaelcar95: bets 2136 and is all-in
+AlyCWB: folds 
+Uncalled bet (2136) returned to raphaelcar95
+raphaelcar95 collected 7275 from pot
+raphaelcar95: doesn't show hand 
+*** SUMMARY ***
+Total pot 7275 | Rake 0 
+Board [8s Jc Qc Kh 2c]
+Seat 3: AlyCWB (button) folded on the River
+Seat 5: kreator1984 (small blind) folded before Flop
+Seat 7: raphaelcar95 (big blind) collected (7275)
+Seat 8: beshttt069 folded before Flop
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674235251: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:37:37 BRT [2019/12/31 1:37:37 ET]
+Table '2771440469 4' 9-max Seat #5 is the button
+Seat 3: AlyCWB (3639 in chips) 
+Seat 5: kreator1984 (4610 in chips) 
+Seat 7: raphaelcar95 (9411 in chips) 
+Seat 8: beshttt069 (18426 in chips) 
+Seat 9: O Aprendi105 (4996 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+raphaelcar95: posts small blind 100
+beshttt069: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [8c 3c]
+O Aprendi105: folds 
+AlyCWB: folds 
+kreator1984: folds 
+raphaelcar95: folds 
+Uncalled bet (100) returned to beshttt069
+beshttt069 collected 325 from pot
+beshttt069: doesn't show hand 
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 5: kreator1984 (button) folded before Flop (didn't bet)
+Seat 7: raphaelcar95 (small blind) folded before Flop
+Seat 8: beshttt069 (big blind) collected (325)
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674237445: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:37:50 BRT [2019/12/31 1:37:50 ET]
+Table '2771440469 4' 9-max Seat #7 is the button
+Seat 3: AlyCWB (3614 in chips) 
+Seat 5: kreator1984 (4585 in chips) 
+Seat 7: raphaelcar95 (9286 in chips) 
+Seat 8: beshttt069 (18626 in chips) 
+Seat 9: O Aprendi105 (4971 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+beshttt069: posts small blind 100
+O Aprendi105: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [5s 9c]
+AlyCWB: folds 
+kreator1984: folds 
+raphaelcar95: folds 
+beshttt069: calls 100
+O Aprendi105: checks 
+*** FLOP *** [8d Tc Jd]
+beshttt069: checks 
+O Aprendi105: checks 
+*** TURN *** [8d Tc Jd] [Jc]
+beshttt069: checks 
+O Aprendi105: checks 
+*** RIVER *** [8d Tc Jd Jc] [Qd]
+beshttt069: checks 
+O Aprendi105: checks 
+*** SHOW DOWN ***
+beshttt069: shows [4h 5d] (a pair of Jacks)
+O Aprendi105: shows [6d 8c] (two pair, Jacks and Eights)
+O Aprendi105 collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Board [8d Tc Jd Jc Qd]
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 5: kreator1984 folded before Flop (didn't bet)
+Seat 7: raphaelcar95 (button) folded before Flop (didn't bet)
+Seat 8: beshttt069 (small blind) showed [4h 5d] and lost with a pair of Jacks
+Seat 9: O Aprendi105 (big blind) showed [6d 8c] and won (525) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #207674242478: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2019/12/31 3:38:18 BRT [2019/12/31 1:38:18 ET]
+Table '2771440469 4' 9-max Seat #8 is the button
+Seat 3: AlyCWB (3589 in chips) 
+Seat 5: kreator1984 (4560 in chips) 
+Seat 7: raphaelcar95 (9261 in chips) 
+Seat 8: beshttt069 (18401 in chips) 
+Seat 9: O Aprendi105 (5271 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+O Aprendi105: posts small blind 100
+AlyCWB: posts big blind 200
+*** HOLE CARDS ***
+Dealt to AlyCWB [6c 9h]
+kreator1984: folds 
+raphaelcar95: folds 
+beshttt069: raises 400 to 600
+O Aprendi105: folds 
+AlyCWB: folds 
+Uncalled bet (400) returned to beshttt069
+beshttt069 collected 625 from pot
+beshttt069: doesn't show hand 
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Seat 3: AlyCWB (big blind) folded before Flop
+Seat 5: kreator1984 folded before Flop (didn't bet)
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 (button) collected (625)
+Seat 9: O Aprendi105 (small blind) folded before Flop
+
+
+
+PokerStars Hand #207674248460: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2019/12/31 3:38:52 BRT [2019/12/31 1:38:52 ET]
+Table '2771440469 4' 9-max Seat #9 is the button
+Seat 3: AlyCWB (3364 in chips) 
+Seat 5: kreator1984 (4535 in chips) 
+Seat 7: raphaelcar95 (9236 in chips) 
+Seat 8: beshttt069 (18801 in chips) 
+Seat 9: O Aprendi105 (5146 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+AlyCWB: posts small blind 150
+kreator1984: posts big blind 300
+*** HOLE CARDS ***
+Dealt to AlyCWB [Kh 3c]
+raphaelcar95: folds 
+beshttt069: calls 300
+O Aprendi105: folds 
+AlyCWB: folds 
+kreator1984: checks 
+*** FLOP *** [Ah 4d 7h]
+kreator1984: bets 600
+beshttt069: folds 
+Uncalled bet (600) returned to kreator1984
+kreator1984 collected 875 from pot
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Board [Ah 4d 7h]
+Seat 3: AlyCWB (small blind) folded before Flop
+Seat 5: kreator1984 (big blind) collected (875)
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 folded on the Flop
+Seat 9: O Aprendi105 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674269833: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2019/12/31 3:40:03 BRT [2019/12/31 1:40:03 ET]
+Table '2771440469 4' 9-max Seat #3 is the button
+Seat 3: AlyCWB (3189 in chips) 
+Seat 5: kreator1984 (5085 in chips) 
+Seat 7: raphaelcar95 (9211 in chips) 
+Seat 8: beshttt069 (18476 in chips) 
+Seat 9: O Aprendi105 (5121 in chips) 
+AlyCWB: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+kreator1984: posts small blind 150
+raphaelcar95: posts big blind 300
+*** HOLE CARDS ***
+Dealt to AlyCWB [5s 3h]
+beshttt069: calls 300
+O Aprendi105: folds 
+AlyCWB: folds 
+kreator1984: folds 
+raphaelcar95: checks 
+*** FLOP *** [5d Th Kc]
+raphaelcar95: checks 
+beshttt069: checks 
+*** TURN *** [5d Th Kc] [7s]
+raphaelcar95: checks 
+beshttt069: checks 
+*** RIVER *** [5d Th Kc 7s] [4s]
+raphaelcar95: checks 
+beshttt069: checks 
+*** SHOW DOWN ***
+raphaelcar95: shows [9h Qd] (high card King)
+beshttt069: shows [6d Ad] (high card Ace)
+beshttt069 collected 875 from pot
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Board [5d Th Kc 7s 4s]
+Seat 3: AlyCWB (button) folded before Flop (didn't bet)
+Seat 5: kreator1984 (small blind) folded before Flop
+Seat 7: raphaelcar95 (big blind) showed [9h Qd] and lost with high card King
+Seat 8: beshttt069 showed [6d Ad] and won (875) with high card Ace
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674277010: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2019/12/31 3:40:43 BRT [2019/12/31 1:40:43 ET]
+Table '2771440469 4' 9-max Seat #5 is the button
+Seat 1: noboru83 (2761 in chips) 
+Seat 2: Qwertyfry (10434 in chips) 
+Seat 3: AlyCWB (3164 in chips) 
+Seat 4: blurp787 (4759 in chips) 
+Seat 5: kreator1984 (4910 in chips) 
+Seat 6: snaketrader8 (8464 in chips) out of hand (moved from another table into small blind)
+Seat 7: raphaelcar95 (8886 in chips) 
+Seat 8: beshttt069 (19026 in chips) 
+Seat 9: O Aprendi105 (5096 in chips) 
+snaketrader8 will be allowed to play after the button
+noboru83: posts the ante 25
+Qwertyfry: posts the ante 25
+AlyCWB: posts the ante 25
+blurp787: posts the ante 25
+kreator1984: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+raphaelcar95: posts small blind 150
+beshttt069: posts big blind 300
+*** HOLE CARDS ***
+Dealt to AlyCWB [9d Jc]
+O Aprendi105: folds 
+noboru83: raises 2436 to 2736 and is all-in
+Qwertyfry: folds 
+AlyCWB: folds 
+blurp787: folds 
+kreator1984: folds 
+raphaelcar95: calls 2586
+beshttt069: folds 
+*** FLOP *** [4c Tc Qs]
+*** TURN *** [4c Tc Qs] [3c]
+*** RIVER *** [4c Tc Qs 3c] [2h]
+*** SHOW DOWN ***
+raphaelcar95: shows [Js Jh] (a pair of Jacks)
+noboru83: shows [7s 7d] (a pair of Sevens)
+raphaelcar95 collected 5972 from pot
+noboru83 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 5972 | Rake 0 
+Board [4c Tc Qs 3c 2h]
+Seat 1: noboru83 showed [7s 7d] and lost with a pair of Sevens
+Seat 2: Qwertyfry folded before Flop (didn't bet)
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blurp787 folded before Flop (didn't bet)
+Seat 5: kreator1984 (button) folded before Flop (didn't bet)
+Seat 7: raphaelcar95 (small blind) showed [Js Jh] and won (5972) with a pair of Jacks
+Seat 8: beshttt069 (big blind) folded before Flop
+Seat 9: O Aprendi105 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #207674283759: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2019/12/31 3:41:21 BRT [2019/12/31 1:41:21 ET]
+Table '2771440469 4' 9-max Seat #7 is the button
+Seat 2: Qwertyfry (10409 in chips) 
+Seat 3: AlyCWB (3139 in chips) 
+Seat 4: blurp787 (4734 in chips) 
+Seat 5: kreator1984 (4885 in chips) 
+Seat 6: snaketrader8 (8464 in chips) 
+Seat 7: raphaelcar95 (12097 in chips) 
+Seat 8: beshttt069 (18701 in chips) 
+Seat 9: O Aprendi105 (5071 in chips) 
+Qwertyfry: posts the ante 25
+AlyCWB: posts the ante 25
+blurp787: posts the ante 25
+kreator1984: posts the ante 25
+snaketrader8: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+beshttt069: posts small blind 150
+O Aprendi105: posts big blind 300
+*** HOLE CARDS ***
+Dealt to AlyCWB [6h Jh]
+Qwertyfry: folds 
+AlyCWB: folds 
+blurp787: folds 
+kreator1984: folds 
+snaketrader8: folds 
+raphaelcar95: folds 
+beshttt069: raises 300 to 600
+O Aprendi105: calls 300
+*** FLOP *** [7c 8d 5s]
+beshttt069: bets 600
+O Aprendi105: folds 
+Uncalled bet (600) returned to beshttt069
+beshttt069 collected 1400 from pot
+beshttt069: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [7c 8d 5s]
+Seat 2: Qwertyfry folded before Flop (didn't bet)
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blurp787 folded before Flop (didn't bet)
+Seat 5: kreator1984 folded before Flop (didn't bet)
+Seat 6: snaketrader8 folded before Flop (didn't bet)
+Seat 7: raphaelcar95 (button) folded before Flop (didn't bet)
+Seat 8: beshttt069 (small blind) collected (1400)
+Seat 9: O Aprendi105 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #207674291845: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2019/12/31 3:42:07 BRT [2019/12/31 1:42:07 ET]
+Table '2771440469 4' 9-max Seat #8 is the button
+Seat 2: Qwertyfry (10384 in chips) 
+Seat 3: AlyCWB (3114 in chips) 
+Seat 4: blurp787 (4709 in chips) 
+Seat 5: kreator1984 (4860 in chips) 
+Seat 6: snaketrader8 (8439 in chips) 
+Seat 7: raphaelcar95 (12072 in chips) 
+Seat 8: beshttt069 (19476 in chips) 
+Seat 9: O Aprendi105 (4446 in chips) 
+Qwertyfry: posts the ante 25
+AlyCWB: posts the ante 25
+blurp787: posts the ante 25
+kreator1984: posts the ante 25
+snaketrader8: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+O Aprendi105: posts small blind 150
+Qwertyfry: posts big blind 300
+*** HOLE CARDS ***
+Dealt to AlyCWB [7d Jh]
+AlyCWB: folds 
+blurp787: raises 300 to 600
+kreator1984: folds 
+snaketrader8: folds 
+raphaelcar95: folds 
+beshttt069: calls 600
+O Aprendi105: folds 
+Qwertyfry: calls 300
+*** FLOP *** [3c 5c Qs]
+Qwertyfry: checks 
+blurp787: bets 1075
+beshttt069: calls 1075
+Qwertyfry: folds 
+*** TURN *** [3c 5c Qs] [5h]
+blurp787: bets 3009 and is all-in
+beshttt069: folds 
+Uncalled bet (3009) returned to blurp787
+blurp787 collected 4300 from pot
+blurp787: doesn't show hand 
+*** SUMMARY ***
+Total pot 4300 | Rake 0 
+Board [3c 5c Qs 5h]
+Seat 2: Qwertyfry (big blind) folded on the Flop
+Seat 3: AlyCWB folded before Flop (didn't bet)
+Seat 4: blurp787 collected (4300)
+Seat 5: kreator1984 folded before Flop (didn't bet)
+Seat 6: snaketrader8 folded before Flop (didn't bet)
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 (button) folded on the Turn
+Seat 9: O Aprendi105 (small blind) folded before Flop
+
+
+
+PokerStars Hand #207674307517: Tournament #2771440469, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2019/12/31 3:42:57 BRT [2019/12/31 1:42:57 ET]
+Table '2771440469 4' 9-max Seat #9 is the button
+Seat 2: Qwertyfry (9759 in chips) 
+Seat 3: AlyCWB (3089 in chips) 
+Seat 4: blurp787 (7309 in chips) 
+Seat 5: kreator1984 (4835 in chips) 
+Seat 6: snaketrader8 (8414 in chips) 
+Seat 7: raphaelcar95 (12047 in chips) 
+Seat 8: beshttt069 (17776 in chips) 
+Seat 9: O Aprendi105 (4271 in chips) 
+Qwertyfry: posts the ante 25
+AlyCWB: posts the ante 25
+blurp787: posts the ante 25
+kreator1984: posts the ante 25
+snaketrader8: posts the ante 25
+raphaelcar95: posts the ante 25
+beshttt069: posts the ante 25
+O Aprendi105: posts the ante 25
+Qwertyfry: posts small blind 150
+AlyCWB: posts big blind 300
+*** HOLE CARDS ***
+Dealt to AlyCWB [Th 8h]
+blurp787: folds 
+kreator1984: folds 
+snaketrader8: folds 
+raphaelcar95: folds 
+beshttt069: raises 300 to 600
+O Aprendi105: folds 
+Qwertyfry: folds 
+AlyCWB: calls 300
+*** FLOP *** [Td Qc 6h]
+AlyCWB: bets 2464 and is all-in
+beshttt069: calls 2464
+*** TURN *** [Td Qc 6h] [4s]
+*** RIVER *** [Td Qc 6h 4s] [7h]
+*** SHOW DOWN ***
+AlyCWB: shows [Th 8h] (a pair of Tens)
+beshttt069: shows [Tc Qh] (two pair, Queens and Tens)
+beshttt069 collected 6478 from pot
+AlyCWB finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 6478 | Rake 0 
+Board [Td Qc 6h 4s 7h]
+Seat 2: Qwertyfry (small blind) folded before Flop
+Seat 3: AlyCWB (big blind) showed [Th 8h] and lost with a pair of Tens
+Seat 4: blurp787 folded before Flop (didn't bet)
+Seat 5: kreator1984 folded before Flop (didn't bet)
+Seat 6: snaketrader8 folded before Flop (didn't bet)
+Seat 7: raphaelcar95 folded before Flop (didn't bet)
+Seat 8: beshttt069 showed [Tc Qh] and won (6478) with two pair, Queens and Tens
+Seat 9: O Aprendi105 (button) folded before Flop (didn't bet)
+
+
+

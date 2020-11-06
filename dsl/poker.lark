@@ -4,7 +4,7 @@ start: game?
 
 game: header table (seat | ante)+ after_button* ante* small_blind big_blind hole_cards received_card pre_flop flop? turn? river? show_down? summary
 
-header: hand tournament blind "- " DATE_ISO
+header: hand tournament blind "- " DATE_ISO ("[" DATE_ISO "]")?
 hand: "PokerStars Hand #" NUMBER
 tournament: ": Tournament #" NUMBER ", " ((NUMBER | MONEY) "+"?)+ " " PHRASE
 blind: "- Level" ROMAN_NUMBER "(" NUMBER "/" NUMBER  ") "
@@ -51,7 +51,7 @@ prize_collect_hand_main_pot: player "collected " NUMBER " from main pot"
 prize_collect_hand_side_pot: player "collected " NUMBER " from side pot" ("-" NUMBER)?
 prize_bounty_collect: player " wins the " NUMBER " bounty for eliminating" (WORD | NUMBER | SYMBOL)*
 
-tournament_finished: player " finished the tournament" (" in " PLACE " place")? (" and received " NUMBER "."? )?
+tournament_finished: player " finished the tournament" (" in " PLACE " place")? (" and received " "$"? NUMBER "."? )?
 
 total_pot: total_pot_single | total_pot_many
 total_pot_single: "Total pot " NUMBER "| " rake
@@ -111,7 +111,6 @@ PHRASE: (WORD | " " | ",")+
 MONEY: "$" NUMBER+ "." NUMBER+
 SYMBOL: "€" | "\"" | "!" | "@" | "#" | "$" | "%" | "¨" | "&" | "*" | "(" | ")" | "-" | "_" | "+" | "=" | "[" | "]" | "{" | "}" | ":" | ";" | "."
 WHATEVER: (PHRASE | NUMBER | SYMBOL)+
-
 
 %import common.LCASE_LETTER 
 %import common.UCASE_LETTER 

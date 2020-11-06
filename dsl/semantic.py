@@ -25,17 +25,34 @@ class PokerSemantic(Transformer):
         self.match.seats.append(seat)
         return seat
 
+    def blind(self, token):
+        self.match.blind = ast.literal_eval(token[2])
+
+    def _street_call(self, street, token):
+        try:
+            for action in token:
+                if(action.children[0] != None):
+                    self.match.add_player_action(street, action.children[0])
+        except:
+            pass
+
     def pre_flop(self, token):
-        actions = [action
-                   for action in token if token != None]
-        for action in actions:
-            self.match.add_player_action('pre_flop', action.children[0])
+        self._street_call('pre_flop', token)
+
+    def flop(self, token):
+        self._street_call('flop', token[2:])
+
+    def turn(self, token):
+        self._street_call('turn',  token[3:])
+
+    def river(self, token):
+        self._street_call('river',  token[3:])
 
     def raised(self, token):
-        return {'action': 'raise', 'player': token[0], 'chips': ast.literal_eval(token[1])}
+        return {'action': 'raise', 'player': token[0], 'action_chips': ast.literal_eval(token[1])}
 
     def bet(self, token):
-        return {'action': 'raise', 'player': token[0], 'chips': ast.literal_eval(token[1])}
+        return {'action': 'raise', 'player': token[0], 'action_chips': ast.literal_eval(token[1])}
 
     def fold(self, token):
         return {'action': 'fold', 'player': token[0]}
@@ -84,6 +101,9 @@ class PokerSemantic(Transformer):
 
     def show_down_player(self, token):
         return None
+
+    # def card_set(self, token):
+        # return None
 
     # def total_pot(self, token):
     # # print(token[0])
