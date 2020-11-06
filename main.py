@@ -16,4 +16,4 @@ histories = read_all_tournaments()
 
 for history in histories:  # enumerable
     for hand in interpret(history):  # enumerable
-        print(hand.get_decision_lines())
+        print(hand.actions)

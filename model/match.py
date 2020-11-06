@@ -5,6 +5,7 @@ class Match:
         self.main_player = None
         self.initial_stack = None
         self.current_position = None
+        self.actions = []
 
     def set_main_player(self, name):
         self.main_player = name
@@ -12,11 +13,10 @@ class Match:
             seat = [player for player in self.seats if player['name'] == name]
             self.initial_stack = seat[0]['chips']
         except:
-            # bug with lark interpreter
             print("Lark failed to parse hand. id: " + str(self.id))
 
-    def get_decision_lines(self):
-        if(self.main_player == None or self.initial_stack == None):
-            # warning here :D
-            return []
-        return [{'id': self.id, 'player': self.main_player, 'initial_stack': self.initial_stack}]
+    def add_player_action(self, street, action):
+        if(action['player'] == self.main_player):
+            action['street'] = street
+            self.actions.append(action)
+    # return [{'id': self.id, 'player': self.main_player, 'initial_stack': self.initial_stack}]
