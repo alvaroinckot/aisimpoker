@@ -1166,7 +1166,7 @@ Seat 1: joaomcneto (33010 in chips)
 Seat 2: SilencedCrow06 (105987 in chips) 
 Seat 3: AlyCWB (155778 in chips) 
 Seat 4: JRSOMBRIO (99040 in chips) 
-Seat 5: JAPA ZL (255768 in chips) 
+Seat 5: JAPA Z/L (255768 in chips) 
 Seat 6: Eneias27 (173510 in chips) 
 Seat 7: GamblerCism (48576 in chips) 
 Seat 8: b2yq (49440 in chips) 
@@ -1175,7 +1175,7 @@ joaomcneto: posts the ante 280
 SilencedCrow06: posts the ante 280
 AlyCWB: posts the ante 280
 JRSOMBRIO: posts the ante 280
-JAPA ZL: posts the ante 280
+JAPA Z/L: posts the ante 280
 Eneias27: posts the ante 280
 GamblerCism: posts the ante 280
 b2yq: posts the ante 280
@@ -1185,7 +1185,7 @@ AlyCWB: posts big blind 2800
 *** HOLE CARDS ***
 Dealt to AlyCWB [7s 4c]
 JRSOMBRIO: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: calls 2800
 GamblerCism: folds 
 b2yq: raises 28000 to 30800
@@ -1203,7 +1203,7 @@ Seat 1: joaomcneto (button) folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 (small blind) folded before Flop
 Seat 3: AlyCWB (big blind) folded before Flop
 Seat 4: JRSOMBRIO folded before Flop (didn't bet)
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 folded before Flop
 Seat 7: GamblerCism folded before Flop (didn't bet)
 Seat 8: b2yq collected (12320)
@@ -1217,7 +1217,7 @@ Seat 1: joaomcneto (32730 in chips)
 Seat 2: SilencedCrow06 (104307 in chips) 
 Seat 3: AlyCWB (152698 in chips) 
 Seat 4: JRSOMBRIO (98760 in chips) 
-Seat 5: JAPA ZL (255488 in chips) 
+Seat 5: JAPA Z/L (255488 in chips) 
 Seat 6: Eneias27 (170430 in chips) 
 Seat 7: GamblerCism (48296 in chips) 
 Seat 8: b2yq (58680 in chips) 
@@ -1226,7 +1226,7 @@ joaomcneto: posts the ante 320
 SilencedCrow06: posts the ante 320
 AlyCWB: posts the ante 320
 JRSOMBRIO: posts the ante 320
-JAPA ZL: posts the ante 320
+JAPA Z/L: posts the ante 320
 Eneias27: posts the ante 320
 GamblerCism: posts the ante 320
 b2yq: posts the ante 320
@@ -1235,7 +1235,7 @@ AlyCWB: posts small blind 1600
 JRSOMBRIO: posts big blind 3200
 *** HOLE CARDS ***
 Dealt to AlyCWB [4d 7s]
-JAPA ZL: raises 3200 to 6400
+JAPA Z/L: raises 3200 to 6400
 Eneias27: folds 
 GamblerCism: folds 
 b2yq: folds 
@@ -1244,15 +1244,15 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: folds 
 JRSOMBRIO: folds 
-Uncalled bet (3200) returned to JAPA ZL
-JAPA ZL collected 10880 from pot
+Uncalled bet (3200) returned to JAPA Z/L
+JAPA Z/L collected 10880 from pot
 *** SUMMARY ***
 Total pot 10880 | Rake 0 
 Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 (button) folded before Flop (didn't bet)
 Seat 3: AlyCWB (small blind) folded before Flop
 Seat 4: JRSOMBRIO (big blind) folded before Flop
-Seat 5: JAPA ZL collected (10880)
+Seat 5: JAPA Z/L collected (10880)
 Seat 6: Eneias27 folded before Flop (didn't bet)
 Seat 7: GamblerCism folded before Flop (didn't bet)
 Seat 8: b2yq folded before Flop (didn't bet)
@@ -1266,7 +1266,7 @@ Seat 1: joaomcneto (32410 in chips)
 Seat 2: SilencedCrow06 (103987 in chips) 
 Seat 3: AlyCWB (150778 in chips) 
 Seat 4: JRSOMBRIO (95240 in chips) 
-Seat 5: JAPA ZL (262848 in chips) 
+Seat 5: JAPA Z/L (262848 in chips) 
 Seat 6: Eneias27 (170110 in chips) 
 Seat 7: GamblerCism (47976 in chips) 
 Seat 8: b2yq (58360 in chips) 
@@ -1275,13 +1275,13 @@ joaomcneto: posts the ante 320
 SilencedCrow06: posts the ante 320
 AlyCWB: posts the ante 320
 JRSOMBRIO: posts the ante 320
-JAPA ZL: posts the ante 320
+JAPA Z/L: posts the ante 320
 Eneias27: posts the ante 320
 GamblerCism: posts the ante 320
 b2yq: posts the ante 320
 moitoi87: posts the ante 320
 JRSOMBRIO: posts small blind 1600
-JAPA ZL: posts big blind 3200
+JAPA Z/L: posts big blind 3200
 *** HOLE CARDS ***
 Dealt to AlyCWB [Th 9h]
 Eneias27: folds 
@@ -1292,17 +1292,17 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: raises 3200 to 6400
 JRSOMBRIO: folds 
-JAPA ZL: calls 3200
+JAPA Z/L: calls 3200
 *** FLOP *** [Jc 3h Ah]
-JAPA ZL: checks 
+JAPA Z/L: checks 
 AlyCWB: checks 
 *** TURN *** [Jc 3h Ah] [6d]
-JAPA ZL: checks 
+JAPA Z/L: checks 
 AlyCWB: checks 
 *** RIVER *** [Jc 3h Ah 6d] [4d]
-JAPA ZL: checks 
+JAPA Z/L: checks 
 AlyCWB: bets 6400
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Uncalled bet (6400) returned to AlyCWB
 AlyCWB collected 17280 from pot
 *** SUMMARY ***
@@ -1312,7 +1312,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB (button) collected (17280)
 Seat 4: JRSOMBRIO (small blind) folded before Flop
-Seat 5: JAPA ZL (big blind) folded on the River
+Seat 5: JAPA Z/L (big blind) folded on the River
 Seat 6: Eneias27 folded before Flop (didn't bet)
 Seat 7: GamblerCism folded before Flop (didn't bet)
 Seat 8: b2yq folded before Flop (didn't bet)
@@ -1326,7 +1326,7 @@ Seat 1: joaomcneto (32090 in chips)
 Seat 2: SilencedCrow06 (103667 in chips) 
 Seat 3: AlyCWB (161338 in chips) 
 Seat 4: JRSOMBRIO (93320 in chips) 
-Seat 5: JAPA ZL (256128 in chips) 
+Seat 5: JAPA Z/L (256128 in chips) 
 Seat 6: Eneias27 (169790 in chips) 
 Seat 7: GamblerCism (47656 in chips) 
 Seat 8: b2yq (58040 in chips) 
@@ -1335,12 +1335,12 @@ joaomcneto: posts the ante 320
 SilencedCrow06: posts the ante 320
 AlyCWB: posts the ante 320
 JRSOMBRIO: posts the ante 320
-JAPA ZL: posts the ante 320
+JAPA Z/L: posts the ante 320
 Eneias27: posts the ante 320
 GamblerCism: posts the ante 320
 b2yq: posts the ante 320
 moitoi87: posts the ante 320
-JAPA ZL: posts small blind 1600
+JAPA Z/L: posts small blind 1600
 Eneias27: posts big blind 3200
 *** HOLE CARDS ***
 Dealt to AlyCWB [5d As]
@@ -1351,7 +1351,7 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: raises 3200 to 6400
 JRSOMBRIO: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: calls 3200
 *** FLOP *** [6c Qd Jh]
 Eneias27: checks 
@@ -1375,7 +1375,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB showed [5d As] and won (15040) with two pair, Queens and Sixes
 Seat 4: JRSOMBRIO (button) folded before Flop (didn't bet)
-Seat 5: JAPA ZL (small blind) folded before Flop
+Seat 5: JAPA Z/L (small blind) folded before Flop
 Seat 6: Eneias27 (big blind) showed [Ah 8h] and won (15040) with two pair, Queens and Sixes
 Seat 7: GamblerCism folded before Flop (didn't bet)
 Seat 8: b2yq folded before Flop (didn't bet)
@@ -1389,7 +1389,7 @@ Seat 1: joaomcneto (31770 in chips)
 Seat 2: SilencedCrow06 (103347 in chips) 
 Seat 3: AlyCWB (163258 in chips) 
 Seat 4: JRSOMBRIO (93000 in chips) 
-Seat 5: JAPA ZL (254208 in chips) 
+Seat 5: JAPA Z/L (254208 in chips) 
 Seat 6: Eneias27 (171710 in chips) 
 Seat 7: GamblerCism (47336 in chips) 
 Seat 8: b2yq (57720 in chips) 
@@ -1398,7 +1398,7 @@ joaomcneto: posts the ante 320
 SilencedCrow06: posts the ante 320
 AlyCWB: posts the ante 320
 JRSOMBRIO: posts the ante 320
-JAPA ZL: posts the ante 320
+JAPA Z/L: posts the ante 320
 Eneias27: posts the ante 320
 GamblerCism: posts the ante 320
 b2yq: posts the ante 320
@@ -1413,18 +1413,18 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: folds 
 JRSOMBRIO: folds 
-JAPA ZL: raises 6400 to 9600
+JAPA Z/L: raises 6400 to 9600
 Eneias27: folds 
 GamblerCism: calls 6400
 b2yq: calls 6400
 *** FLOP *** [7h 2h Ts]
 GamblerCism: checks 
 b2yq: checks 
-JAPA ZL: bets 16640
+JAPA Z/L: bets 16640
 GamblerCism: folds 
 b2yq: folds 
-Uncalled bet (16640) returned to JAPA ZL
-JAPA ZL collected 33280 from pot
+Uncalled bet (16640) returned to JAPA Z/L
+JAPA Z/L collected 33280 from pot
 *** SUMMARY ***
 Total pot 33280 | Rake 0 
 Board [7h 2h Ts]
@@ -1432,7 +1432,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO folded before Flop (didn't bet)
-Seat 5: JAPA ZL (button) collected (33280)
+Seat 5: JAPA Z/L (button) collected (33280)
 Seat 6: Eneias27 (small blind) folded before Flop
 Seat 7: GamblerCism (big blind) folded on the Flop
 Seat 8: b2yq folded on the Flop
@@ -1446,7 +1446,7 @@ Seat 1: joaomcneto (31450 in chips)
 Seat 2: SilencedCrow06 (103027 in chips) 
 Seat 3: AlyCWB (162938 in chips) 
 Seat 4: JRSOMBRIO (92680 in chips) 
-Seat 5: JAPA ZL (277568 in chips) 
+Seat 5: JAPA Z/L (277568 in chips) 
 Seat 6: Eneias27 (169790 in chips) 
 Seat 7: GamblerCism (37416 in chips) 
 Seat 8: b2yq (47800 in chips) 
@@ -1455,7 +1455,7 @@ joaomcneto: posts the ante 320
 SilencedCrow06: posts the ante 320
 AlyCWB: posts the ante 320
 JRSOMBRIO: posts the ante 320
-JAPA ZL: posts the ante 320
+JAPA Z/L: posts the ante 320
 Eneias27: posts the ante 320
 GamblerCism: posts the ante 320
 b2yq: posts the ante 320
@@ -1469,7 +1469,7 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: folds 
 JRSOMBRIO: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: calls 8160
 GamblerCism: folds 
 b2yq: raises 39320 to 47480 and is all-in
@@ -1495,7 +1495,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO folded before Flop (didn't bet)
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 (button) showed [Jh 9c] and won (210688) with a pair of Nines
 Seat 7: GamblerCism (small blind) folded before Flop
 Seat 8: b2yq (big blind) showed [Qs Ah] and lost with high card Ace
@@ -1509,7 +1509,7 @@ Seat 1: joaomcneto (31130 in chips)
 Seat 2: SilencedCrow06 (102707 in chips) 
 Seat 3: AlyCWB (162618 in chips) 
 Seat 4: JRSOMBRIO (92360 in chips) 
-Seat 5: JAPA ZL (277248 in chips) 
+Seat 5: JAPA Z/L (277248 in chips) 
 Seat 6: Eneias27 (300794 in chips) 
 Seat 7: GamblerCism (35496 in chips) 
 Seat 9: melmak777 (50000 in chips) out of hand (moved from another table into small blind)
@@ -1518,7 +1518,7 @@ joaomcneto: posts the ante 360
 SilencedCrow06: posts the ante 360
 AlyCWB: posts the ante 360
 JRSOMBRIO: posts the ante 360
-JAPA ZL: posts the ante 360
+JAPA Z/L: posts the ante 360
 Eneias27: posts the ante 360
 GamblerCism: posts the ante 360
 joaomcneto: posts small blind 1800
@@ -1527,7 +1527,7 @@ SilencedCrow06: posts big blind 3600
 Dealt to AlyCWB [3h 6h]
 AlyCWB: folds 
 JRSOMBRIO: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: calls 3600
 GamblerCism: folds 
 joaomcneto: folds 
@@ -1546,7 +1546,7 @@ Seat 1: joaomcneto (small blind) folded before Flop
 Seat 2: SilencedCrow06 (big blind) folded on the Flop
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO folded before Flop (didn't bet)
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 collected (11520)
 Seat 7: GamblerCism (button) folded before Flop (didn't bet)
 
@@ -1558,7 +1558,7 @@ Seat 1: joaomcneto (28970 in chips)
 Seat 2: SilencedCrow06 (98747 in chips) 
 Seat 3: AlyCWB (162258 in chips) 
 Seat 4: JRSOMBRIO (92000 in chips) 
-Seat 5: JAPA ZL (276888 in chips) 
+Seat 5: JAPA Z/L (276888 in chips) 
 Seat 6: Eneias27 (308354 in chips) 
 Seat 7: GamblerCism (35136 in chips) 
 Seat 8: Mairoula81 (50000 in chips) 
@@ -1567,7 +1567,7 @@ joaomcneto: posts the ante 360
 SilencedCrow06: posts the ante 360
 AlyCWB: posts the ante 360
 JRSOMBRIO: posts the ante 360
-JAPA ZL: posts the ante 360
+JAPA Z/L: posts the ante 360
 Eneias27: posts the ante 360
 GamblerCism: posts the ante 360
 Mairoula81: posts the ante 360
@@ -1577,7 +1577,7 @@ AlyCWB: posts big blind 3600
 *** HOLE CARDS ***
 Dealt to AlyCWB [Jc Kh]
 JRSOMBRIO: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: folds 
 GamblerCism: folds 
 Mairoula81: calls 3600
@@ -1607,7 +1607,7 @@ Seat 1: joaomcneto (button) folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 (small blind) folded before Flop
 Seat 3: AlyCWB (big blind) mucked [Jc Kh]
 Seat 4: JRSOMBRIO folded before Flop (didn't bet)
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 folded before Flop (didn't bet)
 Seat 7: GamblerCism folded before Flop (didn't bet)
 Seat 8: Mairoula81 showed [9c 7c] and won (50832) with a flush, King high
@@ -1621,7 +1621,7 @@ Seat 1: joaomcneto (28610 in chips)
 Seat 2: SilencedCrow06 (96587 in chips) 
 Seat 3: AlyCWB (139002 in chips) 
 Seat 4: JRSOMBRIO (91640 in chips) 
-Seat 5: JAPA ZL (276528 in chips) 
+Seat 5: JAPA Z/L (276528 in chips) 
 Seat 6: Eneias27 (307994 in chips) 
 Seat 7: GamblerCism (34776 in chips) 
 Seat 8: Mairoula81 (77576 in chips) 
@@ -1630,7 +1630,7 @@ joaomcneto: posts the ante 360
 SilencedCrow06: posts the ante 360
 AlyCWB: posts the ante 360
 JRSOMBRIO: posts the ante 360
-JAPA ZL: posts the ante 360
+JAPA Z/L: posts the ante 360
 Eneias27: posts the ante 360
 GamblerCism: posts the ante 360
 Mairoula81: posts the ante 360
@@ -1639,7 +1639,7 @@ AlyCWB: posts small blind 1800
 JRSOMBRIO: posts big blind 3600
 *** HOLE CARDS ***
 Dealt to AlyCWB [5c Jd]
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: folds 
 GamblerCism: raises 30816 to 34416 and is all-in
 Mairoula81: folds 
@@ -1657,7 +1657,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 (button) folded before Flop (didn't bet)
 Seat 3: AlyCWB (small blind) folded before Flop
 Seat 4: JRSOMBRIO (big blind) folded before Flop
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 folded before Flop (didn't bet)
 Seat 7: GamblerCism collected (12240)
 Seat 8: Mairoula81 folded before Flop (didn't bet)
@@ -1671,7 +1671,7 @@ Seat 1: joaomcneto (28250 in chips)
 Seat 2: SilencedCrow06 (96227 in chips) 
 Seat 3: AlyCWB (136842 in chips) 
 Seat 4: JRSOMBRIO (87680 in chips) 
-Seat 5: JAPA ZL (276168 in chips) 
+Seat 5: JAPA Z/L (276168 in chips) 
 Seat 6: Eneias27 (307634 in chips) 
 Seat 7: GamblerCism (43056 in chips) 
 Seat 8: Mairoula81 (77216 in chips) 
@@ -1680,13 +1680,13 @@ joaomcneto: posts the ante 360
 SilencedCrow06: posts the ante 360
 AlyCWB: posts the ante 360
 JRSOMBRIO: posts the ante 360
-JAPA ZL: posts the ante 360
+JAPA Z/L: posts the ante 360
 Eneias27: posts the ante 360
 GamblerCism: posts the ante 360
 Mairoula81: posts the ante 360
 melmak777: posts the ante 360
 JRSOMBRIO: posts small blind 1800
-JAPA ZL: posts big blind 3600
+JAPA Z/L: posts big blind 3600
 *** HOLE CARDS ***
 Dealt to AlyCWB [6d Qc]
 Eneias27: folds 
@@ -1697,19 +1697,19 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: raises 3600 to 7200
 JRSOMBRIO: folds 
-JAPA ZL: calls 3600
+JAPA Z/L: calls 3600
 *** FLOP *** [Qd Td Jd]
-JAPA ZL: checks 
+JAPA Z/L: checks 
 AlyCWB: bets 7200
-JAPA ZL: calls 7200
+JAPA Z/L: calls 7200
 *** TURN *** [Qd Td Jd] [Ts]
-JAPA ZL: checks 
+JAPA Z/L: checks 
 AlyCWB: checks 
 *** RIVER *** [Qd Td Jd Ts] [6s]
-JAPA ZL: checks 
+JAPA Z/L: checks 
 AlyCWB: checks 
 *** SHOW DOWN ***
-JAPA ZL: shows [2d Kh] (a pair of Tens)
+JAPA Z/L: shows [2d Kh] (a pair of Tens)
 AlyCWB: shows [6d Qc] (two pair, Queens and Tens)
 AlyCWB collected 33840 from pot
 *** SUMMARY ***
@@ -1719,7 +1719,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB (button) showed [6d Qc] and won (33840) with two pair, Queens and Tens
 Seat 4: JRSOMBRIO (small blind) folded before Flop
-Seat 5: JAPA ZL (big blind) showed [2d Kh] and lost with a pair of Tens
+Seat 5: JAPA Z/L (big blind) showed [2d Kh] and lost with a pair of Tens
 Seat 6: Eneias27 folded before Flop (didn't bet)
 Seat 7: GamblerCism folded before Flop (didn't bet)
 Seat 8: Mairoula81 folded before Flop (didn't bet)
@@ -1733,7 +1733,7 @@ Seat 1: joaomcneto (27890 in chips)
 Seat 2: SilencedCrow06 (95867 in chips) 
 Seat 3: AlyCWB (155922 in chips) 
 Seat 4: JRSOMBRIO (85520 in chips) 
-Seat 5: JAPA ZL (261408 in chips) 
+Seat 5: JAPA Z/L (261408 in chips) 
 Seat 6: Eneias27 (307274 in chips) 
 Seat 7: GamblerCism (42696 in chips) 
 Seat 8: Mairoula81 (76856 in chips) 
@@ -1742,12 +1742,12 @@ joaomcneto: posts the ante 360
 SilencedCrow06: posts the ante 360
 AlyCWB: posts the ante 360
 JRSOMBRIO: posts the ante 360
-JAPA ZL: posts the ante 360
+JAPA Z/L: posts the ante 360
 Eneias27: posts the ante 360
 GamblerCism: posts the ante 360
 Mairoula81: posts the ante 360
 melmak777: posts the ante 360
-JAPA ZL: posts small blind 1800
+JAPA Z/L: posts small blind 1800
 Eneias27: posts big blind 3600
 *** HOLE CARDS ***
 Dealt to AlyCWB [2d 6s]
@@ -1758,25 +1758,25 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: folds 
 JRSOMBRIO: folds 
-JAPA ZL: calls 1800
+JAPA Z/L: calls 1800
 Eneias27: raises 7200 to 10800
 Mairoula81: calls 7200
-JAPA ZL: calls 7200
+JAPA Z/L: calls 7200
 *** FLOP *** [9s Kd Jh]
-JAPA ZL: checks 
+JAPA Z/L: checks 
 Eneias27: bets 17820
 Mairoula81: folds 
-JAPA ZL: calls 17820
+JAPA Z/L: calls 17820
 *** TURN *** [9s Kd Jh] [6c]
-JAPA ZL: checks 
+JAPA Z/L: checks 
 Eneias27: checks 
 *** RIVER *** [9s Kd Jh 6c] [Qh]
-JAPA ZL: bets 57600
+JAPA Z/L: bets 57600
 Eneias27: calls 57600
 *** SHOW DOWN ***
-JAPA ZL: shows [Ac Td] (a straight, Ten to Ace)
+JAPA Z/L: shows [Ac Td] (a straight, Ten to Ace)
 Eneias27: mucks hand 
-JAPA ZL collected 186480 from pot
+JAPA Z/L collected 186480 from pot
 *** SUMMARY ***
 Total pot 186480 | Rake 0 
 Board [9s Kd Jh 6c Qh]
@@ -1784,7 +1784,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO (button) folded before Flop (didn't bet)
-Seat 5: JAPA ZL (small blind) showed [Ac Td] and won (186480) with a straight, Ten to Ace
+Seat 5: JAPA Z/L (small blind) showed [Ac Td] and won (186480) with a straight, Ten to Ace
 Seat 6: Eneias27 (big blind) mucked [Kc Ts]
 Seat 7: GamblerCism folded before Flop (didn't bet)
 Seat 8: Mairoula81 folded on the Flop
@@ -1798,7 +1798,7 @@ Seat 1: joaomcneto (27530 in chips)
 Seat 2: SilencedCrow06 (95507 in chips) 
 Seat 3: AlyCWB (155562 in chips) 
 Seat 4: JRSOMBRIO (85160 in chips) 
-Seat 5: JAPA ZL (361308 in chips) 
+Seat 5: JAPA Z/L (361308 in chips) 
 Seat 6: Eneias27 (220694 in chips) 
 Seat 7: GamblerCism (42336 in chips) 
 Seat 8: Mairoula81 (65696 in chips) 
@@ -1807,7 +1807,7 @@ joaomcneto: posts the ante 360
 SilencedCrow06: posts the ante 360
 AlyCWB: posts the ante 360
 JRSOMBRIO: posts the ante 360
-JAPA ZL: posts the ante 360
+JAPA Z/L: posts the ante 360
 Eneias27: posts the ante 360
 GamblerCism: posts the ante 360
 Mairoula81: posts the ante 360
@@ -1822,7 +1822,7 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: folds 
 JRSOMBRIO: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: calls 1800
 GamblerCism: checks 
 *** FLOP *** [Kd 6s 3c]
@@ -1845,7 +1845,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO folded before Flop (didn't bet)
-Seat 5: JAPA ZL (button) folded before Flop (didn't bet)
+Seat 5: JAPA Z/L (button) folded before Flop (didn't bet)
 Seat 6: Eneias27 (small blind) showed [Qs 3s] and won (10440) with a pair of Threes
 Seat 7: GamblerCism (big blind) mucked [7s 4c]
 Seat 8: Mairoula81 folded before Flop (didn't bet)
@@ -1859,7 +1859,7 @@ Seat 1: joaomcneto (27170 in chips)
 Seat 2: SilencedCrow06 (95147 in chips) 
 Seat 3: AlyCWB (155202 in chips) 
 Seat 4: JRSOMBRIO (84800 in chips) 
-Seat 5: JAPA ZL (360948 in chips) 
+Seat 5: JAPA Z/L (360948 in chips) 
 Seat 6: Eneias27 (227174 in chips) 
 Seat 7: GamblerCism (38376 in chips) 
 Seat 8: Mairoula81 (65336 in chips) 
@@ -1868,7 +1868,7 @@ joaomcneto: posts the ante 400
 SilencedCrow06: posts the ante 400
 AlyCWB: posts the ante 400
 JRSOMBRIO: posts the ante 400
-JAPA ZL: posts the ante 400
+JAPA Z/L: posts the ante 400
 Eneias27: posts the ante 400
 GamblerCism: posts the ante 400
 Mairoula81: posts the ante 400
@@ -1882,7 +1882,7 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: raises 4000 to 8000
 JRSOMBRIO: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: calls 8000
 GamblerCism: folds 
 Mairoula81: folds 
@@ -1901,7 +1901,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB collected (25600)
 Seat 4: JRSOMBRIO folded before Flop (didn't bet)
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 (button) folded on the Turn
 Seat 7: GamblerCism (small blind) folded before Flop
 Seat 8: Mairoula81 (big blind) folded before Flop
@@ -1915,7 +1915,7 @@ Seat 1: joaomcneto (26770 in chips)
 Seat 2: SilencedCrow06 (94747 in chips) 
 Seat 3: AlyCWB (172402 in chips) 
 Seat 4: JRSOMBRIO (84400 in chips) 
-Seat 5: JAPA ZL (360548 in chips) 
+Seat 5: JAPA Z/L (360548 in chips) 
 Seat 6: Eneias27 (218774 in chips) 
 Seat 7: GamblerCism (35976 in chips) 
 Seat 8: Mairoula81 (60936 in chips) 
@@ -1924,7 +1924,7 @@ joaomcneto: posts the ante 400
 SilencedCrow06: posts the ante 400
 AlyCWB: posts the ante 400
 JRSOMBRIO: posts the ante 400
-JAPA ZL: posts the ante 400
+JAPA Z/L: posts the ante 400
 Eneias27: posts the ante 400
 GamblerCism: posts the ante 400
 Mairoula81: posts the ante 400
@@ -1937,25 +1937,25 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: folds 
 JRSOMBRIO: folds 
-JAPA ZL: raises 4000 to 8000
+JAPA Z/L: raises 4000 to 8000
 Eneias27: calls 8000
 GamblerCism: folds 
 Mairoula81: folds 
 melmak777: calls 4000
 *** FLOP *** [Js 5h 7c]
 melmak777: checks 
-JAPA ZL: checks 
+JAPA Z/L: checks 
 Eneias27: checks 
 *** TURN *** [Js 5h 7c] [Ts]
 melmak777: checks 
-JAPA ZL: checks 
+JAPA Z/L: checks 
 Eneias27: checks 
 *** RIVER *** [Js 5h 7c Ts] [4d]
 melmak777: checks 
-JAPA ZL: checks 
+JAPA Z/L: checks 
 Eneias27: bets 14800
 melmak777: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Uncalled bet (14800) returned to Eneias27
 Eneias27 collected 29600 from pot
 Eneias27: doesn't show hand 
@@ -1966,7 +1966,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO folded before Flop (didn't bet)
-Seat 5: JAPA ZL folded on the River
+Seat 5: JAPA Z/L folded on the River
 Seat 6: Eneias27 collected (29600)
 Seat 7: GamblerCism (button) folded before Flop (didn't bet)
 Seat 8: Mairoula81 (small blind) folded before Flop
@@ -1980,7 +1980,7 @@ Seat 1: joaomcneto (26370 in chips)
 Seat 2: SilencedCrow06 (94347 in chips) 
 Seat 3: AlyCWB (172002 in chips) 
 Seat 4: JRSOMBRIO (84000 in chips) 
-Seat 5: JAPA ZL (352148 in chips) 
+Seat 5: JAPA Z/L (352148 in chips) 
 Seat 6: Eneias27 (239974 in chips) 
 Seat 7: GamblerCism (35576 in chips) 
 Seat 8: Mairoula81 (58536 in chips) 
@@ -1989,7 +1989,7 @@ joaomcneto: posts the ante 400
 SilencedCrow06: posts the ante 400
 AlyCWB: posts the ante 400
 JRSOMBRIO: posts the ante 400
-JAPA ZL: posts the ante 400
+JAPA Z/L: posts the ante 400
 Eneias27: posts the ante 400
 GamblerCism: posts the ante 400
 Mairoula81: posts the ante 400
@@ -2001,7 +2001,7 @@ Dealt to AlyCWB [4d 5c]
 SilencedCrow06: raises 5960 to 9960
 AlyCWB: folds 
 JRSOMBRIO: calls 9960
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: folds 
 GamblerCism: folds 
 Mairoula81: folds 
@@ -2021,7 +2021,7 @@ Seat 1: joaomcneto (big blind) folded before Flop
 Seat 2: SilencedCrow06 collected (37480)
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO folded on the Flop
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 folded before Flop (didn't bet)
 Seat 7: GamblerCism folded before Flop (didn't bet)
 Seat 8: Mairoula81 (button) folded before Flop (didn't bet)
@@ -2035,7 +2035,7 @@ Seat 1: joaomcneto (21970 in chips)
 Seat 2: SilencedCrow06 (121467 in chips) 
 Seat 3: AlyCWB (171602 in chips) 
 Seat 4: JRSOMBRIO (73640 in chips) 
-Seat 5: JAPA ZL (351748 in chips) 
+Seat 5: JAPA Z/L (351748 in chips) 
 Seat 6: Eneias27 (239574 in chips) 
 Seat 7: GamblerCism (35176 in chips) 
 Seat 8: Mairoula81 (58136 in chips) 
@@ -2044,7 +2044,7 @@ joaomcneto: posts the ante 500
 SilencedCrow06: posts the ante 500
 AlyCWB: posts the ante 500
 JRSOMBRIO: posts the ante 500
-JAPA ZL: posts the ante 500
+JAPA Z/L: posts the ante 500
 Eneias27: posts the ante 500
 GamblerCism: posts the ante 500
 Mairoula81: posts the ante 500
@@ -2055,7 +2055,7 @@ SilencedCrow06: posts big blind 5000
 Dealt to AlyCWB [2s 9h]
 AlyCWB: folds 
 JRSOMBRIO: folds 
-JAPA ZL: raises 5000 to 10000
+JAPA Z/L: raises 5000 to 10000
 Eneias27: calls 10000
 GamblerCism: folds 
 Mairoula81: folds 
@@ -2063,10 +2063,10 @@ melmak777: folds
 joaomcneto: folds 
 SilencedCrow06: folds 
 *** FLOP *** [8c 4s Ts]
-JAPA ZL: bets 16000
+JAPA Z/L: bets 16000
 Eneias27: folds 
-Uncalled bet (16000) returned to JAPA ZL
-JAPA ZL collected 32000 from pot
+Uncalled bet (16000) returned to JAPA Z/L
+JAPA Z/L collected 32000 from pot
 *** SUMMARY ***
 Total pot 32000 | Rake 0 
 Board [8c 4s Ts]
@@ -2074,7 +2074,7 @@ Seat 1: joaomcneto (small blind) folded before Flop
 Seat 2: SilencedCrow06 (big blind) folded before Flop
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO folded before Flop (didn't bet)
-Seat 5: JAPA ZL collected (32000)
+Seat 5: JAPA Z/L collected (32000)
 Seat 6: Eneias27 folded on the Flop
 Seat 7: GamblerCism folded before Flop (didn't bet)
 Seat 8: Mairoula81 folded before Flop (didn't bet)
@@ -2088,7 +2088,7 @@ Seat 1: joaomcneto (18970 in chips)
 Seat 2: SilencedCrow06 (115967 in chips) 
 Seat 3: AlyCWB (171102 in chips) 
 Seat 4: JRSOMBRIO (73140 in chips) 
-Seat 5: JAPA ZL (373248 in chips) 
+Seat 5: JAPA Z/L (373248 in chips) 
 Seat 6: Eneias27 (229074 in chips) 
 Seat 7: GamblerCism (34676 in chips) 
 Seat 8: Mairoula81 (57636 in chips) 
@@ -2097,7 +2097,7 @@ joaomcneto: posts the ante 500
 SilencedCrow06: posts the ante 500
 AlyCWB: posts the ante 500
 JRSOMBRIO: posts the ante 500
-JAPA ZL: posts the ante 500
+JAPA Z/L: posts the ante 500
 Eneias27: posts the ante 500
 GamblerCism: posts the ante 500
 Mairoula81: posts the ante 500
@@ -2107,7 +2107,7 @@ AlyCWB: posts big blind 5000
 *** HOLE CARDS ***
 Dealt to AlyCWB [5s 4c]
 JRSOMBRIO: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: calls 5000
 GamblerCism: raises 29176 to 34176 and is all-in
 Mairoula81: folds 
@@ -2131,7 +2131,7 @@ Seat 1: joaomcneto (button) showed [As Kh] and won (53940) with a pair of Kings
 Seat 2: SilencedCrow06 (small blind) folded before Flop
 Seat 3: AlyCWB (big blind) folded before Flop
 Seat 4: JRSOMBRIO folded before Flop (didn't bet)
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 folded before Flop
 Seat 7: GamblerCism showed [9c Ad] and lost with high card Ace
 Seat 8: Mairoula81 folded before Flop (didn't bet)
@@ -2145,7 +2145,7 @@ Seat 1: joaomcneto (53940 in chips)
 Seat 2: SilencedCrow06 (112967 in chips) 
 Seat 3: AlyCWB (165602 in chips) 
 Seat 4: JRSOMBRIO (72640 in chips) 
-Seat 5: JAPA ZL (372748 in chips) 
+Seat 5: JAPA Z/L (372748 in chips) 
 Seat 6: Eneias27 (223574 in chips) 
 Seat 7: GamblerCism (15706 in chips) 
 Seat 8: Mairoula81 (57136 in chips) 
@@ -2154,7 +2154,7 @@ joaomcneto: posts the ante 500
 SilencedCrow06: posts the ante 500
 AlyCWB: posts the ante 500
 JRSOMBRIO: posts the ante 500
-JAPA ZL: posts the ante 500
+JAPA Z/L: posts the ante 500
 Eneias27: posts the ante 500
 GamblerCism: posts the ante 500
 Mairoula81: posts the ante 500
@@ -2163,7 +2163,7 @@ AlyCWB: posts small blind 2500
 JRSOMBRIO: posts big blind 5000
 *** HOLE CARDS ***
 Dealt to AlyCWB [4h 5d]
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: calls 5000
 GamblerCism: folds 
 Mairoula81: folds 
@@ -2190,7 +2190,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 (button) folded before Flop (didn't bet)
 Seat 3: AlyCWB (small blind) folded before Flop
 Seat 4: JRSOMBRIO (big blind) collected (27000)
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 folded on the River
 Seat 7: GamblerCism folded before Flop (didn't bet)
 Seat 8: Mairoula81 folded before Flop (didn't bet)
@@ -2204,7 +2204,7 @@ Seat 1: joaomcneto (53440 in chips)
 Seat 2: SilencedCrow06 (112467 in chips) 
 Seat 3: AlyCWB (162602 in chips) 
 Seat 4: JRSOMBRIO (89140 in chips) 
-Seat 5: JAPA ZL (372248 in chips) 
+Seat 5: JAPA Z/L (372248 in chips) 
 Seat 6: Eneias27 (213074 in chips) 
 Seat 7: GamblerCism (15206 in chips) 
 Seat 8: Mairoula81 (56636 in chips) 
@@ -2213,13 +2213,13 @@ joaomcneto: posts the ante 500
 SilencedCrow06: posts the ante 500
 AlyCWB: posts the ante 500
 JRSOMBRIO: posts the ante 500
-JAPA ZL: posts the ante 500
+JAPA Z/L: posts the ante 500
 Eneias27: posts the ante 500
 GamblerCism: posts the ante 500
 Mairoula81: posts the ante 500
 melmak777: posts the ante 500
 JRSOMBRIO: posts small blind 2500
-JAPA ZL: posts big blind 5000
+JAPA Z/L: posts big blind 5000
 *** HOLE CARDS ***
 Dealt to AlyCWB [Qh Kc]
 Eneias27: calls 5000
@@ -2230,24 +2230,24 @@ joaomcneto: folds
 SilencedCrow06: raises 8700 to 13700
 AlyCWB: folds 
 JRSOMBRIO: folds 
-JAPA ZL: calls 8700
+JAPA Z/L: calls 8700
 Eneias27: calls 8700
 *** FLOP *** [8c Ks Tc]
-JAPA ZL: checks 
+JAPA Z/L: checks 
 Eneias27: checks 
 SilencedCrow06: checks 
 *** TURN *** [8c Ks Tc] [Qd]
-JAPA ZL: checks 
+JAPA Z/L: checks 
 Eneias27: bets 24050
 SilencedCrow06: folds 
-JAPA ZL: calls 24050
+JAPA Z/L: calls 24050
 *** RIVER *** [8c Ks Tc Qd] [6s]
-JAPA ZL: checks 
+JAPA Z/L: checks 
 Eneias27: checks 
 *** SHOW DOWN ***
-JAPA ZL: shows [Ts Ad] (a pair of Tens)
+JAPA Z/L: shows [Ts Ad] (a pair of Tens)
 Eneias27: mucks hand 
-JAPA ZL collected 96200 from pot
+JAPA Z/L collected 96200 from pot
 *** SUMMARY ***
 Total pot 96200 | Rake 0 
 Board [8c Ks Tc Qd 6s]
@@ -2255,7 +2255,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded on the Turn
 Seat 3: AlyCWB (button) folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO (small blind) folded before Flop
-Seat 5: JAPA ZL (big blind) showed [Ts Ad] and won (96200) with a pair of Tens
+Seat 5: JAPA Z/L (big blind) showed [Ts Ad] and won (96200) with a pair of Tens
 Seat 6: Eneias27 mucked [Th Jc]
 Seat 7: GamblerCism folded before Flop (didn't bet)
 Seat 8: Mairoula81 folded before Flop (didn't bet)
@@ -2269,7 +2269,7 @@ Seat 1: joaomcneto (52940 in chips)
 Seat 2: SilencedCrow06 (98267 in chips) 
 Seat 3: AlyCWB (162102 in chips) 
 Seat 4: JRSOMBRIO (86140 in chips) 
-Seat 5: JAPA ZL (430198 in chips) 
+Seat 5: JAPA Z/L (430198 in chips) 
 Seat 6: Eneias27 (174824 in chips) 
 Seat 7: GamblerCism (14706 in chips) 
 Seat 8: Mairoula81 (56136 in chips) 
@@ -2278,12 +2278,12 @@ joaomcneto: posts the ante 500
 SilencedCrow06: posts the ante 500
 AlyCWB: posts the ante 500
 JRSOMBRIO: posts the ante 500
-JAPA ZL: posts the ante 500
+JAPA Z/L: posts the ante 500
 Eneias27: posts the ante 500
 GamblerCism: posts the ante 500
 Mairoula81: posts the ante 500
 melmak777: posts the ante 500
-JAPA ZL: posts small blind 2500
+JAPA Z/L: posts small blind 2500
 Eneias27: posts big blind 5000
 *** HOLE CARDS ***
 Dealt to AlyCWB [2d 9c]
@@ -2294,7 +2294,7 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: folds 
 JRSOMBRIO: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: calls 9206
 *** FLOP *** [3h Ks Js]
 *** TURN *** [3h Ks Js] [Qs]
@@ -2311,7 +2311,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO (button) folded before Flop (didn't bet)
-Seat 5: JAPA ZL (small blind) folded before Flop
+Seat 5: JAPA Z/L (small blind) folded before Flop
 Seat 6: Eneias27 (big blind) showed [7c 5s] and won (35412) with high card Ace
 Seat 7: GamblerCism showed [6d 4d] and lost with high card Ace
 Seat 8: Mairoula81 folded before Flop (didn't bet)
@@ -2325,7 +2325,7 @@ Seat 1: joaomcneto (52440 in chips)
 Seat 2: SilencedCrow06 (97767 in chips) 
 Seat 3: AlyCWB (161602 in chips) 
 Seat 4: JRSOMBRIO (85640 in chips) 
-Seat 5: JAPA ZL (427198 in chips) 
+Seat 5: JAPA Z/L (427198 in chips) 
 Seat 6: Eneias27 (195530 in chips) 
 Seat 8: Mairoula81 (55636 in chips) 
 Seat 9: melmak777 (26540 in chips) 
@@ -2333,7 +2333,7 @@ joaomcneto: posts the ante 600
 SilencedCrow06: posts the ante 600
 AlyCWB: posts the ante 600
 JRSOMBRIO: posts the ante 600
-JAPA ZL: posts the ante 600
+JAPA Z/L: posts the ante 600
 Eneias27: posts the ante 600
 Mairoula81: posts the ante 600
 melmak777: posts the ante 600
@@ -2346,7 +2346,7 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: folds 
 JRSOMBRIO: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: calls 3000
 Mairoula81: raises 49036 to 55036 and is all-in
 Eneias27: folds 
@@ -2359,7 +2359,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO folded before Flop (didn't bet)
-Seat 5: JAPA ZL (button) folded before Flop (didn't bet)
+Seat 5: JAPA Z/L (button) folded before Flop (didn't bet)
 Seat 6: Eneias27 (small blind) folded before Flop
 Seat 8: Mairoula81 (big blind) collected (16800)
 Seat 9: melmak777 folded before Flop (didn't bet)
@@ -2372,7 +2372,7 @@ Seat 1: joaomcneto (51840 in chips)
 Seat 2: SilencedCrow06 (97167 in chips) 
 Seat 3: AlyCWB (161002 in chips) 
 Seat 4: JRSOMBRIO (85040 in chips) 
-Seat 5: JAPA ZL (426598 in chips) 
+Seat 5: JAPA Z/L (426598 in chips) 
 Seat 6: Eneias27 (188930 in chips) 
 Seat 7: Legijon (298091 in chips) out of hand (moved from another table into small blind)
 Seat 8: Mairoula81 (65836 in chips) 
@@ -2382,7 +2382,7 @@ joaomcneto: posts the ante 600
 SilencedCrow06: posts the ante 600
 AlyCWB: posts the ante 600
 JRSOMBRIO: posts the ante 600
-JAPA ZL: posts the ante 600
+JAPA Z/L: posts the ante 600
 Eneias27: posts the ante 600
 Mairoula81: posts the ante 600
 melmak777: posts the ante 600
@@ -2394,7 +2394,7 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: folds 
 JRSOMBRIO: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: calls 6000
 Mairoula81: folds 
 melmak777: checks 
@@ -2414,7 +2414,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO folded before Flop (didn't bet)
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 (button) folded on the Turn
 Seat 8: Mairoula81 (small blind) folded before Flop
 Seat 9: melmak777 (big blind) collected (19800)
@@ -2427,7 +2427,7 @@ Seat 1: joaomcneto (51240 in chips)
 Seat 2: SilencedCrow06 (96567 in chips) 
 Seat 3: AlyCWB (160402 in chips) 
 Seat 4: JRSOMBRIO (84440 in chips) 
-Seat 5: JAPA ZL (425998 in chips) 
+Seat 5: JAPA Z/L (425998 in chips) 
 Seat 6: Eneias27 (182330 in chips) 
 Seat 7: Legijon (298091 in chips) 
 Seat 8: Mairoula81 (62236 in chips) 
@@ -2436,7 +2436,7 @@ joaomcneto: posts the ante 600
 SilencedCrow06: posts the ante 600
 AlyCWB: posts the ante 600
 JRSOMBRIO: posts the ante 600
-JAPA ZL: posts the ante 600
+JAPA Z/L: posts the ante 600
 Eneias27: posts the ante 600
 Legijon: posts the ante 600
 Mairoula81: posts the ante 600
@@ -2448,7 +2448,7 @@ Dealt to AlyCWB [Js Td]
 SilencedCrow06: folds 
 AlyCWB: folds 
 JRSOMBRIO: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: calls 6000
 Legijon: folds 
 Mairoula81: folds 
@@ -2472,7 +2472,7 @@ Seat 1: joaomcneto (big blind) showed [9h Ac] and won (109680) with a pair of Ac
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO folded before Flop (didn't bet)
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 showed [6d As] and lost with a pair of Aces
 Seat 7: Legijon folded before Flop (didn't bet)
 Seat 8: Mairoula81 (button) folded before Flop (didn't bet)
@@ -2486,7 +2486,7 @@ Seat 1: joaomcneto (109680 in chips)
 Seat 2: SilencedCrow06 (95967 in chips) 
 Seat 3: AlyCWB (159802 in chips) 
 Seat 4: JRSOMBRIO (83840 in chips) 
-Seat 5: JAPA ZL (425398 in chips) 
+Seat 5: JAPA Z/L (425398 in chips) 
 Seat 6: Eneias27 (131090 in chips) 
 Seat 7: Legijon (297491 in chips) 
 Seat 8: Mairoula81 (61636 in chips) 
@@ -2495,7 +2495,7 @@ joaomcneto: posts the ante 600
 SilencedCrow06: posts the ante 600
 AlyCWB: posts the ante 600
 JRSOMBRIO: posts the ante 600
-JAPA ZL: posts the ante 600
+JAPA Z/L: posts the ante 600
 Eneias27: posts the ante 600
 Legijon: posts the ante 600
 Mairoula81: posts the ante 600
@@ -2506,7 +2506,7 @@ SilencedCrow06: posts big blind 6000
 Dealt to AlyCWB [Qs Jh]
 AlyCWB: folds 
 JRSOMBRIO: raises 6000 to 12000
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: calls 12000
 Legijon: raises 30000 to 42000
 Mairoula81: folds 
@@ -2524,7 +2524,7 @@ Seat 1: joaomcneto (small blind) folded before Flop
 Seat 2: SilencedCrow06 (big blind) folded before Flop
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: JRSOMBRIO folded before Flop
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 folded before Flop
 Seat 7: Legijon collected (50400)
 Seat 8: Mairoula81 folded before Flop (didn't bet)
@@ -2538,7 +2538,7 @@ Seat 1: joaomcneto (106080 in chips)
 Seat 2: SilencedCrow06 (89367 in chips) 
 Seat 3: AlyCWB (159202 in chips) 
 Seat 4: JRSOMBRIO (71240 in chips) 
-Seat 5: JAPA ZL (424798 in chips) 
+Seat 5: JAPA Z/L (424798 in chips) 
 Seat 6: Eneias27 (118490 in chips) 
 Seat 7: Legijon (335291 in chips) 
 Seat 8: Mairoula81 (61036 in chips) 
@@ -2547,7 +2547,7 @@ joaomcneto: posts the ante 600
 SilencedCrow06: posts the ante 600
 AlyCWB: posts the ante 600
 JRSOMBRIO: posts the ante 600
-JAPA ZL: posts the ante 600
+JAPA Z/L: posts the ante 600
 Eneias27: posts the ante 600
 Legijon: posts the ante 600
 Mairoula81: posts the ante 600
@@ -2557,7 +2557,7 @@ AlyCWB: posts big blind 6000
 *** HOLE CARDS ***
 Dealt to AlyCWB [8c 8d]
 JRSOMBRIO: raises 20400 to 26400
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: folds 
 Legijon: folds 
 Mairoula81: folds 
@@ -2585,7 +2585,7 @@ Seat 1: joaomcneto (button) folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 (small blind) folded before Flop
 Seat 3: AlyCWB (big blind) showed [8c 8d] and won (149680) with two pair, Eights and Fours
 Seat 4: JRSOMBRIO showed [As Qh] and lost with a pair of Fours
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 folded before Flop (didn't bet)
 Seat 7: Legijon folded before Flop (didn't bet)
 Seat 8: Mairoula81 folded before Flop (didn't bet)
@@ -2598,7 +2598,7 @@ Table '2634449693 133' 9-max Seat #2 is the button
 Seat 1: joaomcneto (105480 in chips) 
 Seat 2: SilencedCrow06 (85767 in chips) 
 Seat 3: AlyCWB (237642 in chips) 
-Seat 5: JAPA ZL (424198 in chips) 
+Seat 5: JAPA Z/L (424198 in chips) 
 Seat 6: Eneias27 (117890 in chips) 
 Seat 7: Legijon (334691 in chips) 
 Seat 8: Mairoula81 (60436 in chips) 
@@ -2606,13 +2606,13 @@ Seat 9: melmak777 (34340 in chips)
 joaomcneto: posts the ante 600
 SilencedCrow06: posts the ante 600
 AlyCWB: posts the ante 600
-JAPA ZL: posts the ante 600
+JAPA Z/L: posts the ante 600
 Eneias27: posts the ante 600
 Legijon: posts the ante 600
 Mairoula81: posts the ante 600
 melmak777: posts the ante 600
 AlyCWB: posts small blind 3000
-JAPA ZL: posts big blind 6000
+JAPA Z/L: posts big blind 6000
 *** HOLE CARDS ***
 Dealt to AlyCWB [2d Kd]
 Eneias27: folds 
@@ -2622,7 +2622,7 @@ melmak777: folds
 joaomcneto: folds 
 SilencedCrow06: folds 
 AlyCWB: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Uncalled bet (53836) returned to Mairoula81
 Mairoula81 collected 19800 from pot
 Mairoula81: doesn't show hand 
@@ -2631,7 +2631,7 @@ Total pot 19800 | Rake 0
 Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 (button) folded before Flop (didn't bet)
 Seat 3: AlyCWB (small blind) folded before Flop
-Seat 5: JAPA ZL (big blind) folded before Flop
+Seat 5: JAPA Z/L (big blind) folded before Flop
 Seat 6: Eneias27 folded before Flop (didn't bet)
 Seat 7: Legijon folded before Flop (didn't bet)
 Seat 8: Mairoula81 collected (19800)
@@ -2645,7 +2645,7 @@ Seat 1: joaomcneto (104880 in chips)
 Seat 2: SilencedCrow06 (85167 in chips) 
 Seat 3: AlyCWB (234042 in chips) 
 Seat 4: AndresDL12 (212247 in chips) out of hand (moved from another table into small blind)
-Seat 5: JAPA ZL (417598 in chips) 
+Seat 5: JAPA Z/L (417598 in chips) 
 Seat 6: Eneias27 (117290 in chips) 
 Seat 7: Legijon (334091 in chips) 
 Seat 8: Mairoula81 (73636 in chips) 
@@ -2654,12 +2654,12 @@ AndresDL12 will be allowed to play after the button
 joaomcneto: posts the ante 600
 SilencedCrow06: posts the ante 600
 AlyCWB: posts the ante 600
-JAPA ZL: posts the ante 600
+JAPA Z/L: posts the ante 600
 Eneias27: posts the ante 600
 Legijon: posts the ante 600
 Mairoula81: posts the ante 600
 melmak777: posts the ante 600
-JAPA ZL: posts small blind 3000
+JAPA Z/L: posts small blind 3000
 Eneias27: posts big blind 6000
 *** HOLE CARDS ***
 Dealt to AlyCWB [Jc 2h]
@@ -2669,7 +2669,7 @@ melmak777: folds
 joaomcneto: raises 6000 to 12000
 SilencedCrow06: folds 
 AlyCWB: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: raises 104690 to 116690 and is all-in
 joaomcneto: folds 
 Uncalled bet (104690) returned to Eneias27
@@ -2680,7 +2680,7 @@ Total pot 31800 | Rake 0
 Seat 1: joaomcneto folded before Flop
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB (button) folded before Flop (didn't bet)
-Seat 5: JAPA ZL (small blind) folded before Flop
+Seat 5: JAPA Z/L (small blind) folded before Flop
 Seat 6: Eneias27 (big blind) collected (31800)
 Seat 7: Legijon folded before Flop (didn't bet)
 Seat 8: Mairoula81 folded before Flop (didn't bet)
@@ -2694,7 +2694,7 @@ Seat 1: joaomcneto (92280 in chips)
 Seat 2: SilencedCrow06 (84567 in chips) 
 Seat 3: AlyCWB (233442 in chips) 
 Seat 4: AndresDL12 (212247 in chips) 
-Seat 5: JAPA ZL (413998 in chips) 
+Seat 5: JAPA Z/L (413998 in chips) 
 Seat 6: Eneias27 (136490 in chips) 
 Seat 7: Legijon (333491 in chips) 
 Seat 8: Mairoula81 (73036 in chips) 
@@ -2703,7 +2703,7 @@ joaomcneto: posts the ante 700
 SilencedCrow06: posts the ante 700
 AlyCWB: posts the ante 700
 AndresDL12: posts the ante 700
-JAPA ZL: posts the ante 700
+JAPA Z/L: posts the ante 700
 Eneias27: posts the ante 700
 Legijon: posts the ante 700
 Mairoula81: posts the ante 700
@@ -2718,7 +2718,7 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: raises 7000 to 14000
 AndresDL12: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: folds 
 Legijon: calls 7000
 *** FLOP *** [Qd 4s 4c]
@@ -2742,7 +2742,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB mucked [Jh Qs]
 Seat 4: AndresDL12 folded before Flop (didn't bet)
-Seat 5: JAPA ZL (button) folded before Flop (didn't bet)
+Seat 5: JAPA Z/L (button) folded before Flop (didn't bet)
 Seat 6: Eneias27 (small blind) folded before Flop
 Seat 7: Legijon (big blind) showed [As Td] and won (65800) with two pair, Aces and Fours
 Seat 8: Mairoula81 folded before Flop (didn't bet)
@@ -2756,7 +2756,7 @@ Seat 1: joaomcneto (91580 in chips)
 Seat 2: SilencedCrow06 (83867 in chips) 
 Seat 3: AlyCWB (204742 in chips) 
 Seat 4: AndresDL12 (211547 in chips) 
-Seat 5: JAPA ZL (413298 in chips) 
+Seat 5: JAPA Z/L (413298 in chips) 
 Seat 6: Eneias27 (132290 in chips) 
 Seat 7: Legijon (370591 in chips) 
 Seat 8: Mairoula81 (72336 in chips) 
@@ -2765,7 +2765,7 @@ joaomcneto: posts the ante 700
 SilencedCrow06: posts the ante 700
 AlyCWB: posts the ante 700
 AndresDL12: posts the ante 700
-JAPA ZL: posts the ante 700
+JAPA Z/L: posts the ante 700
 Eneias27: posts the ante 700
 Legijon: posts the ante 700
 Mairoula81: posts the ante 700
@@ -2779,7 +2779,7 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: folds 
 AndresDL12: raises 7000 to 14000
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Eneias27: raises 117590 to 131590 and is all-in
 Legijon: folds 
 Mairoula81: folds 
@@ -2799,7 +2799,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: AndresDL12 showed [Ad Td] and won (279980) with a pair of Tens
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: Eneias27 (button) showed [Jc Ah] and lost with high card Ace
 Seat 7: Legijon (small blind) folded before Flop
 Seat 8: Mairoula81 (big blind) folded before Flop
@@ -2813,7 +2813,7 @@ Seat 1: joaomcneto (90880 in chips)
 Seat 2: SilencedCrow06 (83167 in chips) 
 Seat 3: AlyCWB (204042 in chips) 
 Seat 4: AndresDL12 (359237 in chips) 
-Seat 5: JAPA ZL (412598 in chips) 
+Seat 5: JAPA Z/L (412598 in chips) 
 Seat 7: Legijon (366391 in chips) 
 Seat 8: Mairoula81 (64636 in chips) 
 Seat 9: melmak777 (31740 in chips) 
@@ -2821,7 +2821,7 @@ joaomcneto: posts the ante 700
 SilencedCrow06: posts the ante 700
 AlyCWB: posts the ante 700
 AndresDL12: posts the ante 700
-JAPA ZL: posts the ante 700
+JAPA Z/L: posts the ante 700
 Legijon: posts the ante 700
 Mairoula81: posts the ante 700
 melmak777: posts the ante 700
@@ -2833,7 +2833,7 @@ joaomcneto: folds
 SilencedCrow06: folds 
 AlyCWB: raises 7000 to 14000
 AndresDL12: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Legijon: folds 
 Mairoula81: folds 
 melmak777: folds 
@@ -2845,7 +2845,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB collected (23100)
 Seat 4: AndresDL12 folded before Flop (didn't bet)
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 7: Legijon (button) folded before Flop (didn't bet)
 Seat 8: Mairoula81 (small blind) folded before Flop
 Seat 9: melmak777 (big blind) folded before Flop
@@ -2858,7 +2858,7 @@ Seat 1: joaomcneto (90180 in chips)
 Seat 2: SilencedCrow06 (82467 in chips) 
 Seat 3: AlyCWB (219442 in chips) 
 Seat 4: AndresDL12 (358537 in chips) 
-Seat 5: JAPA ZL (411898 in chips) 
+Seat 5: JAPA Z/L (411898 in chips) 
 Seat 6: vantom9598 (371631 in chips) 
 Seat 7: Legijon (365691 in chips) 
 Seat 8: Mairoula81 (60436 in chips) 
@@ -2867,7 +2867,7 @@ joaomcneto: posts the ante 700
 SilencedCrow06: posts the ante 700
 AlyCWB: posts the ante 700
 AndresDL12: posts the ante 700
-JAPA ZL: posts the ante 700
+JAPA Z/L: posts the ante 700
 vantom9598: posts the ante 700
 Legijon: posts the ante 700
 Mairoula81: posts the ante 700
@@ -2879,7 +2879,7 @@ Dealt to AlyCWB [7c Qh]
 SilencedCrow06: folds 
 AlyCWB: folds 
 AndresDL12: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 vantom9598: folds 
 Legijon: folds 
 Mairoula81: folds 
@@ -2893,7 +2893,7 @@ Seat 1: joaomcneto (big blind) collected (13300)
 Seat 2: SilencedCrow06 folded before Flop (didn't bet)
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: AndresDL12 folded before Flop (didn't bet)
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: vantom9598 folded before Flop (didn't bet)
 Seat 7: Legijon folded before Flop (didn't bet)
 Seat 8: Mairoula81 (button) folded before Flop (didn't bet)
@@ -2907,7 +2907,7 @@ Seat 1: joaomcneto (99280 in chips)
 Seat 2: SilencedCrow06 (81767 in chips) 
 Seat 3: AlyCWB (218742 in chips) 
 Seat 4: AndresDL12 (357837 in chips) 
-Seat 5: JAPA ZL (411198 in chips) 
+Seat 5: JAPA Z/L (411198 in chips) 
 Seat 6: vantom9598 (370931 in chips) 
 Seat 7: Legijon (364991 in chips) 
 Seat 8: Mairoula81 (59736 in chips) 
@@ -2916,7 +2916,7 @@ joaomcneto: posts the ante 700
 SilencedCrow06: posts the ante 700
 AlyCWB: posts the ante 700
 AndresDL12: posts the ante 700
-JAPA ZL: posts the ante 700
+JAPA Z/L: posts the ante 700
 vantom9598: posts the ante 700
 Legijon: posts the ante 700
 Mairoula81: posts the ante 700
@@ -2927,7 +2927,7 @@ SilencedCrow06: posts big blind 7000
 Dealt to AlyCWB [Jd 5d]
 AlyCWB: folds 
 AndresDL12: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 vantom9598: folds 
 Legijon: folds 
 Mairoula81: raises 52036 to 59036 and is all-in
@@ -2943,7 +2943,7 @@ Seat 1: joaomcneto (small blind) folded before Flop
 Seat 2: SilencedCrow06 (big blind) folded before Flop
 Seat 3: AlyCWB folded before Flop (didn't bet)
 Seat 4: AndresDL12 folded before Flop (didn't bet)
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: vantom9598 folded before Flop (didn't bet)
 Seat 7: Legijon folded before Flop (didn't bet)
 Seat 8: Mairoula81 collected (23800)
@@ -2957,7 +2957,7 @@ Seat 1: joaomcneto (95080 in chips)
 Seat 2: SilencedCrow06 (74067 in chips) 
 Seat 3: AlyCWB (218042 in chips) 
 Seat 4: AndresDL12 (357137 in chips) 
-Seat 5: JAPA ZL (410498 in chips) 
+Seat 5: JAPA Z/L (410498 in chips) 
 Seat 6: vantom9598 (370231 in chips) 
 Seat 7: Legijon (364291 in chips) 
 Seat 8: Mairoula81 (75836 in chips) 
@@ -2966,7 +2966,7 @@ joaomcneto: posts the ante 700
 SilencedCrow06: posts the ante 700
 AlyCWB: posts the ante 700
 AndresDL12: posts the ante 700
-JAPA ZL: posts the ante 700
+JAPA Z/L: posts the ante 700
 vantom9598: posts the ante 700
 Legijon: posts the ante 700
 Mairoula81: posts the ante 700
@@ -2976,7 +2976,7 @@ AlyCWB: posts big blind 7000
 *** HOLE CARDS ***
 Dealt to AlyCWB [7s 7h]
 AndresDL12: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 vantom9598: folds 
 Legijon: folds 
 Mairoula81: raises 7560 to 14560
@@ -2993,7 +2993,7 @@ Seat 1: joaomcneto (button) folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 (small blind) folded before Flop
 Seat 3: AlyCWB (big blind) collected (38920)
 Seat 4: AndresDL12 folded before Flop (didn't bet)
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: vantom9598 folded before Flop (didn't bet)
 Seat 7: Legijon folded before Flop (didn't bet)
 Seat 8: Mairoula81 folded before Flop
@@ -3007,7 +3007,7 @@ Seat 1: joaomcneto (94380 in chips)
 Seat 2: SilencedCrow06 (69867 in chips) 
 Seat 3: AlyCWB (241702 in chips) 
 Seat 4: AndresDL12 (356437 in chips) 
-Seat 5: JAPA ZL (409798 in chips) 
+Seat 5: JAPA Z/L (409798 in chips) 
 Seat 6: vantom9598 (369531 in chips) 
 Seat 7: Legijon (363591 in chips) 
 Seat 8: Mairoula81 (60576 in chips) 
@@ -3016,7 +3016,7 @@ joaomcneto: posts the ante 800
 SilencedCrow06: posts the ante 800
 AlyCWB: posts the ante 800
 AndresDL12: posts the ante 800
-JAPA ZL: posts the ante 800
+JAPA Z/L: posts the ante 800
 vantom9598: posts the ante 800
 Legijon: posts the ante 800
 Mairoula81: posts the ante 800
@@ -3025,7 +3025,7 @@ AlyCWB: posts small blind 4000
 AndresDL12: posts big blind 8000
 *** HOLE CARDS ***
 Dealt to AlyCWB [4s 4d]
-JAPA ZL: folds 
+JAPA Z/L: folds 
 vantom9598: raises 8800 to 16800
 Legijon: folds 
 Mairoula81: folds 
@@ -3053,7 +3053,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 (button) folded before Flop (didn't bet)
 Seat 3: AlyCWB (small blind) folded on the Flop
 Seat 4: AndresDL12 (big blind) folded on the Turn
-Seat 5: JAPA ZL folded before Flop (didn't bet)
+Seat 5: JAPA Z/L folded before Flop (didn't bet)
 Seat 6: vantom9598 collected (89600)
 Seat 7: Legijon folded before Flop (didn't bet)
 Seat 8: Mairoula81 folded before Flop (didn't bet)
@@ -3067,7 +3067,7 @@ Seat 1: joaomcneto (93580 in chips)
 Seat 2: SilencedCrow06 (69067 in chips) 
 Seat 3: AlyCWB (224102 in chips) 
 Seat 4: AndresDL12 (322837 in chips) 
-Seat 5: JAPA ZL (408998 in chips) 
+Seat 5: JAPA Z/L (408998 in chips) 
 Seat 6: vantom9598 (425531 in chips) 
 Seat 7: Legijon (362791 in chips) 
 Seat 8: Mairoula81 (59776 in chips) 
@@ -3076,13 +3076,13 @@ joaomcneto: posts the ante 800
 SilencedCrow06: posts the ante 800
 AlyCWB: posts the ante 800
 AndresDL12: posts the ante 800
-JAPA ZL: posts the ante 800
+JAPA Z/L: posts the ante 800
 vantom9598: posts the ante 800
 Legijon: posts the ante 800
 Mairoula81: posts the ante 800
 melmak777: posts the ante 800
 AndresDL12: posts small blind 4000
-JAPA ZL: posts big blind 8000
+JAPA Z/L: posts big blind 8000
 *** HOLE CARDS ***
 Dealt to AlyCWB [8d 3h]
 vantom9598: folds 
@@ -3093,7 +3093,7 @@ joaomcneto: folds
 SilencedCrow06: raises 51427 to 68267 and is all-in
 AlyCWB: folds 
 AndresDL12: folds 
-JAPA ZL: folds 
+JAPA Z/L: folds 
 Uncalled bet (51427) returned to SilencedCrow06
 *** FLOP *** [7h Ac 4c]
 *** TURN *** [7h Ac 4c] [4d]
@@ -3110,7 +3110,7 @@ Seat 1: joaomcneto folded before Flop (didn't bet)
 Seat 2: SilencedCrow06 showed [Qd Qs] and won (52880) with two pair, Queens and Fours
 Seat 3: AlyCWB (button) folded before Flop (didn't bet)
 Seat 4: AndresDL12 (small blind) folded before Flop
-Seat 5: JAPA ZL (big blind) folded before Flop
+Seat 5: JAPA Z/L (big blind) folded before Flop
 Seat 6: vantom9598 folded before Flop (didn't bet)
 Seat 7: Legijon folded before Flop (didn't bet)
 Seat 8: Mairoula81 folded before Flop (didn't bet)
