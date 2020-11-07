@@ -6,7 +6,9 @@ setup(name='aisimpoker',
       license='MIT',
       install_requires=[
           'lark-parser',
-          'python-dotenv'
+          'python-dotenv',
+          'treys',
+          'pands'
       ],
-    
+
       zip_safe=False)

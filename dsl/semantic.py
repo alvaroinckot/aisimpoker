@@ -14,10 +14,14 @@ class PokerSemantic(Transformer):
         return token[0].strip()
 
     def received_card(self, token):
-        self.match.set_main_player(token[0])
+        self.match.set_hero(token[0])
+        self.match.set_hand_card(token[1].children)
 
     def chips(self, token):
         return ast.literal_eval(token[0])
+
+    # def total_pot(self, token):
+        # print(token[0])
 
     def seat(self, token):
         seat = {'name': token[1], 'chips': token[2], 'seat': ast.literal_eval(
@@ -58,7 +62,7 @@ class PokerSemantic(Transformer):
         return {'action': 'fold', 'player': token[0]}
 
     def call(self, token):
-        return {'action': 'call', 'player': token[0], 'chips': ast.literal_eval(token[1])}
+        return {'action': 'call', 'player': token[0], 'action_chips': ast.literal_eval(token[1])}
 
     def check(self, token):
         return {'action': 'check', 'player': token[0]}
