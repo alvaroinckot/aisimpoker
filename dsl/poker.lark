@@ -1,4 +1,4 @@
-start: game?
+start: game+
 
 // game: header table seat+ ante* small_blind big_blind hole_cards received_card action* flop action* (turn action*)? river? (show_down show_down_player+)? prize_collect* tournament_finished* summary total_pot board seat_result*
 
@@ -16,7 +16,7 @@ seat: "Seat " NUMBER ": " player chips IS_OUT? WHATEVER?
 chips:  "(" NUMBER " in chips)"
 after_button: player "will be allowed to play after the button"
 
-ante: player ": posts the ante " NUMBER
+ante: player ": posts the ante " NUMBER IS_ALL_IN? 
 
 small_blind: player ": posts small blind " NUMBER IS_ALL_IN? 
 big_blind: player ": posts big blind " NUMBER IS_ALL_IN?

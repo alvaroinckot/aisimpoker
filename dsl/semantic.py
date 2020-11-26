@@ -1,21 +1,27 @@
 from lark import Lark, Transformer, v_args, Tree
+from model.tournament import Tournament
 import ast
 
 
 class PokerSemantic(Transformer):
 
-    def __init__(self, match):
-        self.match = match
+    def __init__(self, tournament_model):
+        self._tournament = tournament_model
+        self._tournament.start_new_match()
+
+    def game(self, token):
+        self._tournament.start_new_match()
+        return None
 
     def hand(self, token):
-        self.match.id = ast.literal_eval(token[0])
+        self._tournament.current_match.id = ast.literal_eval(token[0])
 
     def player(self, token):
         return token[0].strip()
 
     def received_card(self, token):
-        self.match.set_hero(token[0])
-        self.match.set_hand_card(token[1].children)
+        self._tournament.current_match.set_hero(token[0])
+        self._tournament.current_match.set_hand_card(token[1].children)
 
     def chips(self, token):
         return ast.literal_eval(token[0])
@@ -26,19 +32,17 @@ class PokerSemantic(Transformer):
     def seat(self, token):
         seat = {'name': token[1], 'chips': token[2], 'seat': ast.literal_eval(
             token[0]),  'is_out': (len(token) == 4 and token[3].type == "IS_OUT")}
-        self.match.seats.append(seat)
+        self._tournament.current_match.seats.append(seat)
         return seat
 
     def blind(self, token):
-        self.match.blind = ast.literal_eval(token[2])
+        self._tournament.current_match.blind = ast.literal_eval(token[2])
 
     def _street_call(self, street, token):
-        try:
-            for action in token:
-                if(action.children[0] != None):
-                    self.match.add_player_action(street, action.children[0])
-        except:
-            pass
+        for action in token:
+            if(action.children[0] != None):
+                self._tournament.current_match.add_player_action(
+                    street, action.children[0])
 
     def pre_flop(self, token):
         self._street_call('pre_flop', token)

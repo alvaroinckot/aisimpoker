@@ -10,7 +10,7 @@ def list_tournament_files():
 def read_tournament(tournament_file):
     path = "{}/{}".format(os.getenv("HAND_HISTORY_PATH"), tournament_file)
     with open(path, 'r', encoding=os.getenv("HAND_HISTORY_ENCODE")) as file:
-        return file.read()
+        return file.read().replace("/n/n/n", "")
 
 
 def read_all_tournaments():

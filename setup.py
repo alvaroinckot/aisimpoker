@@ -8,7 +8,8 @@ setup(name='aisimpoker',
           'lark-parser',
           'python-dotenv',
           'treys',
-          'pands'
+          'pandas',
+          'numpy'
       ],
 
       zip_safe=False)
