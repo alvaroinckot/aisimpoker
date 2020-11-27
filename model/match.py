@@ -40,11 +40,11 @@ class Match:
                 'action': action['action'],
                 'street': street,
                 'hand_initial_stack_bbs':  self.initial_stack / self.blind,
-                # 'hand_prime_product': self.hand_prime_product,
                 'hand_rank': self.hand_rank,
                 'same_suit': self.same_suit,
                 'blind': self.blind,
                 'tournament_progress': self.tournament_progress,
-                'occupied_seats': len(self.seats)
+                'occupied_seats': len(self.seats),
+                'current_hand_actions_taken': len(self.actions)
             }
             self.actions.append(sanitized_action)
