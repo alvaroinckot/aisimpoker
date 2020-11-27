@@ -7,7 +7,7 @@ class Tournament:
         self.matches = []
 
     def start_new_match(self):
-        self.matches.append(Match(len(self.matches)))
+        self.matches.append(Match(len(self.matches) + 1))
 
     @property
     def current_match(self):

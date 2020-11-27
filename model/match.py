@@ -15,6 +15,8 @@ class Match:
         self.blind = 0
         self.hand_prime_product = 0
         self.tournament_progress = match_number
+        self.occupied_seats = 0
+        self.same_suit = False
 
     def set_hero(self, name):
         self.hero = name
@@ -27,6 +29,7 @@ class Match:
     def set_hand_card(self, cards):
         cardOne = Card.new(cards[0]['value'] + cards[0]['suit'])
         cardTwo = Card.new(cards[1]['value'] + cards[1]['suit'])
+        self.same_suit = cards[0]['suit'] == cards[1]['suit']
         self.hand_prime_product = Card.prime_product_from_hand(
             [cardOne, cardTwo])
         self.hand_rank = evaluator.get_rank_class(self.hand_prime_product)
@@ -34,13 +37,15 @@ class Match:
     def add_player_action(self, street, action):
         if(action['player'] == self.hero and action['action'] != 'timeout'):
             sanitized_action = {
-                'hero': self.hero,
+                # 'hero': self.hero,
                 'action': action['action'],
                 'street': street,
                 'hand_initial_stack_bbs':  self.initial_stack / self.blind,
-                'hand_prime_product': self.hand_prime_product,
+                # 'hand_prime_product': self.hand_prime_product,
                 'hand_rank': self.hand_rank,
+                'same_suit': self.same_suit,
                 'blind': self.blind,
-                'tournament_progress': self.tournament_progress
+                'tournament_progress': self.tournament_progress,
+                'occupied_seats': len(self.occupied_seats) + 1
             }
             self.actions.append(sanitized_action)
