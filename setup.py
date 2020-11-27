@@ -9,7 +9,9 @@ setup(name='aisimpoker',
           'python-dotenv',
           'treys',
           'pandas',
-          'numpy'
+          'numpy',
+          'sklearn',
+          'matplotlib'
       ],
 
       zip_safe=False)
