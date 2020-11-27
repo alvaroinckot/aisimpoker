@@ -23,6 +23,7 @@ for tournament_log in tournaments:  # enumerable
     tournament = interpret(tournament_log)  # enumerable
     total = total + tournament.actions
     print("tournament finished")
+    break
     # except(e):
     # print("Something bad happened....")
     # continue

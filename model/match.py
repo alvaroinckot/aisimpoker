@@ -15,7 +15,6 @@ class Match:
         self.blind = 0
         self.hand_prime_product = 0
         self.tournament_progress = match_number
-        self.occupied_seats = 0
         self.same_suit = False
 
     def set_hero(self, name):
@@ -46,6 +45,6 @@ class Match:
                 'same_suit': self.same_suit,
                 'blind': self.blind,
                 'tournament_progress': self.tournament_progress,
-                'occupied_seats': len(self.occupied_seats) + 1
+                'occupied_seats': len(self.seats)
             }
             self.actions.append(sanitized_action)
