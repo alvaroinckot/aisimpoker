@@ -5,7 +5,7 @@ evaluator = Evaluator()
 
 
 class Match:
-    def __init__(self):
+    def __init__(self, match_number):
         self.id = ''
         self.seats = []
         self.hero = None
@@ -14,6 +14,7 @@ class Match:
         self.actions = []
         self.blind = 0
         self.hand_prime_product = 0
+        self.tournament_progress = match_number
 
     def set_hero(self, name):
         self.hero = name
@@ -39,6 +40,7 @@ class Match:
                 'hand_initial_stack_bbs':  self.initial_stack / self.blind,
                 'hand_prime_product': self.hand_prime_product,
                 'hand_rank': self.hand_rank,
-                'blind': self.blind
+                'blind': self.blind,
+                'tournament_progress': self.tournament_progress
             }
             self.actions.append(sanitized_action)
