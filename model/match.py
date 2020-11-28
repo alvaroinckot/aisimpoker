@@ -9,6 +9,8 @@ class Match:
         self.id = ''
         self.seats = []
         self.hero = None
+        self.hero_position = None
+        self.hero_position_category = None
         self.initial_stack = None
         self.current_position = None
         self.blind = 0
@@ -19,14 +21,18 @@ class Match:
         self.flop_actions = []
         self.turn_actions = []
         self.river_actions = []
+        self.pot = 0
+        self.small_blind_player = None
 
     def set_hero(self, name):
         self.hero = name
         try:
             seat = [player for player in self.seats if player['name'] == name]
             self.initial_stack = seat[0]['chips']
-        except:
+            self.set_hero_position()
+        except Exception as ex:
             print("Lark failed to parse hand. id: " + str(self.id))
+            print(ex)
 
     def set_hand_card(self, cards):
         cardOne = Card.new(cards[0]['value'] + cards[0]['suit'])
@@ -36,29 +42,58 @@ class Match:
             [cardOne, cardTwo])
         self.hand_rank = evaluator.get_rank_class(self.hand_prime_product)
 
+    def set_hero_position(self):
+        positions = ['SB', 'BB', 'UTG', 'UTG+1',
+                     'UTG+2', 'MP', 'MP2', 'CO', 'BTN']
+        categories = {
+            'SB': 'BLIND',
+            'BB': 'BLIND',
+            'UTG': 'EARLY',
+            'UTG+1': 'EARLY',
+            'UTG+2': 'EARLY',
+            'MP': 'MIDDLE',
+            'MP2': 'MIDDLE',
+            'CO': 'LATE',
+            'BTN': 'LATE',
+        }
+        small_blind_index = next(
+            (x for x in self.seats if x['name'] == self.small_blind_player), None)['seat'] - 1
+        hero_index = next(
+            (x for x in self.seats if x['name'] == self.hero), None)['seat'] - 1
+        positions_rotated = positions[(small_blind_index * -1):] + \
+            positions[:(small_blind_index * -1)]
+        self.hero_position = positions_rotated[hero_index]
+        self.hero_position_category = categories[self.hero_position]
+
     def add_pre_flop_action(self, action):
-        action = self.create_default_action('pre_flop', action)
-        if(action != None):
-            self.pre_flop_actions.append(action)
+        hero_action = self.create_default_action('pre_flop', action)
+        if(hero_action != None):
+            hero_action['round'] = len(self.pre_flop_actions) + 1
+            self.pre_flop_actions.append(hero_action)
 
     def add_flop_action(self, action):
-        action = self.create_default_action('flop', action)
-        if(action != None):
-            self.flop_actions.append(action)
+        hero_action = self.create_default_action('flop', action)
+        if(hero_action != None):
+            hero_action['round'] = len(self.flop_actions) + 1
+            self.flop_actions.append(hero_action)
 
     def add_turn_action(self, action):
-        action = self.create_default_action('turn', action)
-        if(action != None):
-            self.turn_actions.append(action)
+        hero_action = self.create_default_action('turn', action)
+        if(hero_action != None):
+            hero_action['round'] = len(self.turn_actions) + 1
+            self.turn_actions.append(hero_action)
 
     def add_river_action(self, action):
-        action = self.create_default_action('river', action)
-        if(action != None):
-            self.river_actions.append(action)
+        hero_action = self.create_default_action('river', action)
+        if(hero_action != None):
+            hero_action['round'] = len(self.river_actions) + 1
+            self.river_actions.append(hero_action)
 
     def create_default_action(self, street, action):
+        sanitized_action = None
+
         if(action['player'] == self.hero and action['action'] != 'timeout'):
-            return {
+            sanitized_action = {
                 # 'hero': self.hero,
                 'action': action['action'],
                 'street': street,
@@ -68,4 +103,11 @@ class Match:
                 'blind': self.blind,
                 'tournament_progress': self.tournament_progress,
                 'occupied_seats': len(self.seats),
+                'pot_bbs': self.pot / self.blind,
+                'position': self.hero_position,
+                'position_category': self.hero_position_category
             }
+
+        self.pot += action['action_chips']  # add all chips to the pot
+
+        return sanitized_action

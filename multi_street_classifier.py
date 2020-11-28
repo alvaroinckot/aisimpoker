@@ -9,14 +9,15 @@ import pandas as pd
 from engine.multi_column_label_encoder import *
 
 path = "./compilations/summary_{}_v{}.csv"
-version = '9'
+version = '11'
 streets = ['pre_flop', 'flop', 'turn', 'river']
 
 for street in streets:
     print("Street " + street)
 
     X = pd.read_csv(path.format(street, version))
-    X = MultiColumnLabelEncoder(columns=["action", "street"]).fit_transform(X)
+    X = MultiColumnLabelEncoder(
+        columns=["action", "street", "position", "position_category"]).fit_transform(X)
 
     y = X['action']
     del X['action']

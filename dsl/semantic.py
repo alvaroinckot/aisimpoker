@@ -22,6 +22,7 @@ class PokerSemantic(Transformer):
     def received_card(self, token):
         self._tournament.current_match.set_hero(token[0])
         self._tournament.current_match.set_hand_card(token[1].children)
+        # self._tournament.current_match.set_hero_position(token[0])
 
     def chips(self, token):
         return ast.literal_eval(token[0])
@@ -38,11 +39,21 @@ class PokerSemantic(Transformer):
     def blind(self, token):
         self._tournament.current_match.blind = ast.literal_eval(token[2])
 
-    # def _street_call(self, street, token):
-    #     for action in token:
-    #         if(action.children[0] != None):
-    #             self._tournament.current_match.add_player_action(
-    #                 street, action.children[0])
+    def ante(self, token):
+        self._tournament.current_match.pot += ast.literal_eval(token[1])
+
+    def small_blind(self, token):
+        self._tournament.current_match.small_blind_player = token[0]
+        self._tournament.current_match.pot += ast.literal_eval(token[1])
+
+    def big_blind(self, token):
+        self._tournament.current_match.pot += ast.literal_eval(token[1])
+
+        # def _street_call(self, street, token):
+        #     for action in token:
+        #         if(action.children[0] != None):
+        #             self._tournament.current_match.add_player_action(
+        #                 street, action.children[0])
 
     def pre_flop(self, token):
         for action in token:
@@ -69,28 +80,28 @@ class PokerSemantic(Transformer):
                     action.children[0])
 
     def raised(self, token):
+        # self._tournament.current_match.pot += ast.literal_eval(token[1])
         return {'action': 'raise', 'player': token[0], 'action_chips': ast.literal_eval(token[1])}
 
     def bet(self, token):
+        # self._tournament.current_match.pot += ast.literal_eval(token[1])
         return {'action': 'raise', 'player': token[0], 'action_chips': ast.literal_eval(token[1])}
 
     def fold(self, token):
-        return {'action': 'fold', 'player': token[0]}
+        return {'action': 'fold', 'player': token[0], 'action_chips': 0}
 
     def call(self, token):
+        # self._tournament.current_match.pot += ast.literal_eval(token[1])
         return {'action': 'call', 'player': token[0], 'action_chips': ast.literal_eval(token[1])}
 
     def check(self, token):
-        return {'action': 'check', 'player': token[0]}
+        return {'action': 'check', 'player': token[0], 'action_chips': 0}
 
     def timeout(self, token):
-        return {'action': 'timeout', 'player': token[0]}
+        return {'action': 'timeout', 'player': token[0], 'action_chips': 0}
 
     def card(self, token):
         return {'value': token[0].value, 'suit': token[1].value}
-
-    def check(self, token):
-        return {'action': 'check', 'player': token[0]}
 
     def uncalled_bet(self, token):
         return None

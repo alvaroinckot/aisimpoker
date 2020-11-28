@@ -30,15 +30,16 @@ for tournament_log in tournaments:  # enumerable
         flop_actions = flop_actions + tournament.flop_actions
         turn_actions = turn_actions + tournament.turn_actions
         river_actions = river_actions + tournament.river_actions
-    except:
+    except Exception as ex:
         print("something bad happened here")
+        print(ex)
     finally:
         print("finished tournament")
 
 
 # save data
 path = "./compilations/summary_{}_v{}.csv"
-version = '9'
+version = '11'
 
 pd.DataFrame(pre_flop_actions).fillna(0).to_csv(
     path.format("pre_flop", version), index=None, header=True)
