@@ -14,21 +14,40 @@ logging.debug("Hand history at {}".format(os.getenv("HAND_HISTORY_PATH")))
 
 
 tournaments = read_all_tournaments()
-total = []
+
+pre_flop_actions = []
+flop_actions = []
+turn_actions = []
+river_actions = []
 
 # todo -> parallelized map reduce
 
 for tournament_log in tournaments:  # enumerable
-    # try:
-    tournament = interpret(tournament_log)  # enumerable
-    total = total + tournament.actions
-    print("tournament finished")
-    break
-    # except(e):
-    # print("Something bad happened....")
-    # continue
+    try:
+        print("starting tournament")
+        tournament = interpret(tournament_log)
+        pre_flop_actions = pre_flop_actions + tournament.pre_flop_actions
+        flop_actions = flop_actions + tournament.flop_actions
+        turn_actions = turn_actions + tournament.turn_actions
+        river_actions = river_actions + tournament.river_actions
+    except:
+        print("something bad happened here")
+    finally:
+        print("finished tournament")
 
 
-df = pd.DataFrame(total).fillna(0)
-print(df)
-# df.to_csv("./compilations/summary_v3.csv", index=None, header=True)
+# save data
+path = "./compilations/summary_{}_v{}.csv"
+version = '9'
+
+pd.DataFrame(pre_flop_actions).fillna(0).to_csv(
+    path.format("pre_flop", version), index=None, header=True)
+
+pd.DataFrame(flop_actions).fillna(0).to_csv(
+    path.format("flop", version), index=None, header=True)
+
+pd.DataFrame(turn_actions).fillna(0).to_csv(
+    path.format("turn", version), index=None, header=True)
+
+pd.DataFrame(river_actions).fillna(0).to_csv(
+    path.format("river", version), index=None, header=True)

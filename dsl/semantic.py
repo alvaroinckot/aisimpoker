@@ -38,23 +38,35 @@ class PokerSemantic(Transformer):
     def blind(self, token):
         self._tournament.current_match.blind = ast.literal_eval(token[2])
 
-    def _street_call(self, street, token):
-        for action in token:
-            if(action.children[0] != None):
-                self._tournament.current_match.add_player_action(
-                    street, action.children[0])
+    # def _street_call(self, street, token):
+    #     for action in token:
+    #         if(action.children[0] != None):
+    #             self._tournament.current_match.add_player_action(
+    #                 street, action.children[0])
 
     def pre_flop(self, token):
-        self._street_call('pre_flop', token)
+        for action in token:
+            if(action.children[0] != None):
+                self._tournament.current_match.add_pre_flop_action(
+                    action.children[0])
 
     def flop(self, token):
-        self._street_call('flop', token[2:])
+        for action in token[2:]:
+            if(action.children[0] != None):
+                self._tournament.current_match.add_flop_action(
+                    action.children[0])
 
     def turn(self, token):
-        self._street_call('turn',  token[3:])
+        for action in token[3:]:
+            if(action.children[0] != None):
+                self._tournament.current_match.add_turn_action(
+                    action.children[0])
 
     def river(self, token):
-        self._street_call('river',  token[3:])
+        for action in token[3:]:
+            if(action.children[0] != None):
+                self._tournament.current_match.add_river_action(
+                    action.children[0])
 
     def raised(self, token):
         return {'action': 'raise', 'player': token[0], 'action_chips': ast.literal_eval(token[1])}

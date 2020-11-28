@@ -11,11 +11,14 @@ class Match:
         self.hero = None
         self.initial_stack = None
         self.current_position = None
-        self.actions = []
         self.blind = 0
         self.hand_prime_product = 0
         self.tournament_progress = match_number
         self.same_suit = False
+        self.pre_flop_actions = []
+        self.flop_actions = []
+        self.turn_actions = []
+        self.river_actions = []
 
     def set_hero(self, name):
         self.hero = name
@@ -33,9 +36,29 @@ class Match:
             [cardOne, cardTwo])
         self.hand_rank = evaluator.get_rank_class(self.hand_prime_product)
 
-    def add_player_action(self, street, action):
+    def add_pre_flop_action(self, action):
+        action = self.create_default_action('pre_flop', action)
+        if(action != None):
+            self.pre_flop_actions.append(action)
+
+    def add_flop_action(self, action):
+        action = self.create_default_action('flop', action)
+        if(action != None):
+            self.flop_actions.append(action)
+
+    def add_turn_action(self, action):
+        action = self.create_default_action('turn', action)
+        if(action != None):
+            self.turn_actions.append(action)
+
+    def add_river_action(self, action):
+        action = self.create_default_action('river', action)
+        if(action != None):
+            self.river_actions.append(action)
+
+    def create_default_action(self, street, action):
         if(action['player'] == self.hero and action['action'] != 'timeout'):
-            sanitized_action = {
+            return {
                 # 'hero': self.hero,
                 'action': action['action'],
                 'street': street,
@@ -45,6 +68,4 @@ class Match:
                 'blind': self.blind,
                 'tournament_progress': self.tournament_progress,
                 'occupied_seats': len(self.seats),
-                'current_hand_actions_taken': len(self.actions)
             }
-            self.actions.append(sanitized_action)

@@ -14,5 +14,17 @@ class Tournament:
         return self.matches[-1]
 
     @property
-    def actions(self):
-        return sum([match.actions for match in self.matches], [])
+    def pre_flop_actions(self):
+        return sum([match.pre_flop_actions for match in self.matches], [])
+
+    @property
+    def flop_actions(self):
+        return sum([match.flop_actions for match in self.matches], [])
+
+    @property
+    def turn_actions(self):
+        return sum([match.turn_actions for match in self.matches], [])
+
+    @property
+    def river_actions(self):
+        return sum([match.river_actions for match in self.matches], [])
