@@ -6,32 +6,7 @@ from sklearn.metrics import confusion_matrix
 from sklearn import preprocessing
 import pandas as pd
 
-
-class MultiColumnLabelEncoder:
-    def __init__(self, columns=None):
-        self.columns = columns  # array of column names to encode
-
-    def fit(self, X, y=None):
-        return self  # not relevant here
-
-    def transform(self, X):
-        '''
-        Transforms columns of X specified in self.columns using
-        LabelEncoder(). If no columns specified, transforms all
-        columns in X.
-        '''
-        output = X.copy()
-        if self.columns is not None:
-            for col in self.columns:
-                output[col] = preprocessing.LabelEncoder(
-                ).fit_transform(output[col])
-        else:
-            for colname, col in output.iteritems():
-                output[colname] = preprocessing.LabelEncoder().fit_transform(col)
-        return output
-
-    def fit_transform(self, X, y=None):
-        return self.fit(X, y).transform(X)
+from engine.multi_column_label_encoder import MultiColumnLabelEncoder
 
 
 X = pd.read_csv("./compilations/summary_v4.csv")
