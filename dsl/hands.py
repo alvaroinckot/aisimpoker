@@ -2,6 +2,8 @@ import os
 from lark import Lark
 import logging
 
+# todo move to another folder, this does not belongs to this module
+
 
 def list_tournament_files():
     return os.listdir(os.getenv("HAND_HISTORY_PATH"))
