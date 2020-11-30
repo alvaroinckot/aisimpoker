@@ -13,6 +13,9 @@ class PokerSemantic(Transformer):
         self._tournament.start_new_match()
         return None
 
+    def tournament(self, token):
+        print(token[0])
+
     def hand(self, token):
         self._tournament.current_match.id = ast.literal_eval(token[0])
 

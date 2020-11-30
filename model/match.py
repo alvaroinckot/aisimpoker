@@ -17,12 +17,24 @@ class Match:
         self.hand_prime_product = 0
         self.tournament_progress = match_number
         self.same_suit = False
+        self.is_pair = False
         self.pre_flop_actions = []
         self.flop_actions = []
         self.turn_actions = []
         self.river_actions = []
         self.pot = 0
         self.small_blind_player = None
+        self.categories = {
+            'SB': 'BLIND',
+            'BB': 'BLIND',
+            'UTG': 'EARLY',
+            'UTG+1': 'EARLY',
+            'UTG+2': 'EARLY',
+            'MP': 'MIDDLE',
+            'MP2': 'MIDDLE',
+            'CO': 'LATE',
+            'BTN': 'LATE',
+        }
 
     def set_hero(self, name):
         self.hero = name
@@ -38,6 +50,7 @@ class Match:
         cardOne = Card.new(cards[0]['value'] + cards[0]['suit'])
         cardTwo = Card.new(cards[1]['value'] + cards[1]['suit'])
         self.same_suit = cards[0]['suit'] == cards[1]['suit']
+        self.is_pair = cards[0]['value'] == cards[1]['value']
         self.hand_prime_product = Card.prime_product_from_hand(
             [cardOne, cardTwo])
         self.hand_rank = evaluator.get_rank_class(self.hand_prime_product)
@@ -45,25 +58,16 @@ class Match:
     def set_hero_position(self):
         positions = ['SB', 'BB', 'UTG', 'UTG+1',
                      'UTG+2', 'MP', 'MP2', 'CO', 'BTN']
-        categories = {
-            'SB': 'BLIND',
-            'BB': 'BLIND',
-            'UTG': 'EARLY',
-            'UTG+1': 'EARLY',
-            'UTG+2': 'EARLY',
-            'MP': 'MIDDLE',
-            'MP2': 'MIDDLE',
-            'CO': 'LATE',
-            'BTN': 'LATE',
-        }
+
         small_blind_index = next(
             (x for x in self.seats if x['name'] == self.small_blind_player), None)['seat'] - 1
         hero_index = next(
             (x for x in self.seats if x['name'] == self.hero), None)['seat'] - 1
+
         positions_rotated = positions[(small_blind_index * -1):] + \
             positions[:(small_blind_index * -1)]
         self.hero_position = positions_rotated[hero_index]
-        self.hero_position_category = categories[self.hero_position]
+        self.hero_position_category = self.categories[self.hero_position]
 
     def add_pre_flop_action(self, action):
         hero_action = self.create_default_action('pre_flop', action)
@@ -100,6 +104,7 @@ class Match:
                 'hand_initial_stack_bbs':  self.initial_stack / self.blind,
                 'hand_rank': self.hand_rank,
                 'same_suit': self.same_suit,
+                'is_pair': self.is_pair,
                 'blind': self.blind,
                 'tournament_progress': self.tournament_progress,
                 'occupied_seats': len(self.seats),
