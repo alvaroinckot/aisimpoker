@@ -99,19 +99,64 @@ class Match:
         hero_action = self.create_default_action('flop', action)
         if(hero_action != None):
             hero_action['round'] = len(self.flop_actions) + 1
+            hero_action['opponent_raise_count'] = len(
+                [x for x in self.opponents_flop_actions if x['action'] == 'raise'])
+            hero_action['opponent_fold_count'] = len(
+                [x for x in self.opponents_flop_actions if x['action'] == 'fold'])
+            hero_action['opponent_call_count'] = len(
+                [x for x in self.opponents_flop_actions if x['action'] == 'call'])
+            hero_action['opponent_check_count'] = len(
+                [x for x in self.opponents_flop_actions if x['action'] == 'check'])
             self.flop_actions.append(hero_action)
+        else:
+            self.opponents_flop_actions.append(
+                {
+                    'action': action['action'],
+                    'player': action['player'],
+                }
+            )
 
     def add_turn_action(self, action):
         hero_action = self.create_default_action('turn', action)
         if(hero_action != None):
             hero_action['round'] = len(self.turn_actions) + 1
+            hero_action['opponent_raise_count'] = len(
+                [x for x in self.opponents_turn_actions if x['action'] == 'raise'])
+            hero_action['opponent_fold_count'] = len(
+                [x for x in self.opponents_turn_actions if x['action'] == 'fold'])
+            hero_action['opponent_call_count'] = len(
+                [x for x in self.opponents_turn_actions if x['action'] == 'call'])
+            hero_action['opponent_check_count'] = len(
+                [x for x in self.opponents_turn_actions if x['action'] == 'check'])
             self.turn_actions.append(hero_action)
+        else:
+            self.opponents_turn_actions.append(
+                {
+                    'action': action['action'],
+                    'player': action['player'],
+                }
+            )
 
     def add_river_action(self, action):
         hero_action = self.create_default_action('river', action)
         if(hero_action != None):
             hero_action['round'] = len(self.river_actions) + 1
+            hero_action['opponent_raise_count'] = len(
+                [x for x in self.opponents_river_actions if x['action'] == 'raise'])
+            hero_action['opponent_fold_count'] = len(
+                [x for x in self.opponents_river_actions if x['action'] == 'fold'])
+            hero_action['opponent_call_count'] = len(
+                [x for x in self.opponents_river_actions if x['action'] == 'call'])
+            hero_action['opponent_check_count'] = len(
+                [x for x in self.opponents_river_actions if x['action'] == 'check'])
             self.river_actions.append(hero_action)
+        else:
+            self.opponents_turn_actions.append(
+                {
+                    'action': action['action'],
+                    'player': action['player'],
+                }
+            )
 
     def create_default_action(self, street, action):
         sanitized_action = None
