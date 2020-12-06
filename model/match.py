@@ -24,6 +24,13 @@ class Match:
         self.river_actions = []
         self.pot = 0
         self.small_blind_player = None
+
+        self.opponents_pre_flop_actions = []
+        self.opponents_flop_actions = []
+        self.opponents_turn_actions = []
+        self.opponents_river_actions = []
+        self.opponents_sitting_out = 0
+
         self.categories = {
             'SB': 'BLIND',
             'BB': 'BLIND',
@@ -73,7 +80,20 @@ class Match:
         hero_action = self.create_default_action('pre_flop', action)
         if(hero_action != None):
             hero_action['round'] = len(self.pre_flop_actions) + 1
+            hero_action['opponent_raise_count'] = len(
+                [x for x in self.opponents_pre_flop_actions if x['action'] == 'raise'])
+            hero_action['opponent_fold_count'] = len(
+                [x for x in self.opponents_pre_flop_actions if x['action'] == 'fold'])
+            hero_action['opponent_call_count'] = len(
+                [x for x in self.opponents_pre_flop_actions if x['action'] == 'call'])
             self.pre_flop_actions.append(hero_action)
+        else:
+            self.opponents_pre_flop_actions.append(
+                {
+                    'action': action['action'],
+                    'player': action['player'],
+                }
+            )
 
     def add_flop_action(self, action):
         hero_action = self.create_default_action('flop', action)
@@ -101,16 +121,18 @@ class Match:
                 # 'hero': self.hero,
                 'action': action['action'],
                 'street': street,
-                'hand_initial_stack_bbs':  self.initial_stack / self.blind,
+                'hand_initial_stack_bbs':  "{:.2f}".format(self.initial_stack / self.blind),
                 'hand_rank': self.hand_rank,
                 'is_suited': self.is_suited,
                 'is_pair': self.is_pair,
                 'blind': self.blind,
                 'tournament_progress': self.tournament_progress,
                 'occupied_seats': len(self.seats),
-                'pot_bbs': self.pot / self.blind,
+                'pot_bbs': "{:.2f}".format(self.pot / self.blind),
                 'position': self.hero_position,
-                'position_category': self.hero_position_category
+                'position_category': self.hero_position_category,
+                'total_players_bbs': "{:.2f}".format(sum([x['chips'] in x for x in self.seats])/self.blind),
+                'opponents_sitting_out': self.opponents_sitting_out
             }
 
         self.pot += action['action_chips']  # add all chips to the pot

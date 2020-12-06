@@ -128,7 +128,7 @@ class PokerSemantic(Transformer):
         return None
 
     def is_sitting_out(self, token):
-        return None
+        self._tournament.current_match.opponents_sitting_out += 1
 
     def show_down_player(self, token):
         return None

@@ -16,11 +16,14 @@ logging.debug("Hand history at {}".format(os.getenv("HAND_HISTORY_PATH")))
 
 
 def do_the_magic(tournament_log):
-    try:
-        print("start")
-        return interpret(tournament_log)
-    except Exception as ex:
-        print(ex)
+    while True:
+        try:
+            print("start")
+            return interpret(tournament_log)
+            break
+        except Exception as ex:
+            print("Trying again")
+            print(ex)
 
 
 if __name__ == '__main__':
