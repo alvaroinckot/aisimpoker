@@ -16,7 +16,7 @@ class Match:
         self.blind = 0
         self.hand_prime_product = 0
         self.tournament_progress = match_number
-        self.same_suit = False
+        self.is_suited = False
         self.is_pair = False
         self.pre_flop_actions = []
         self.flop_actions = []
@@ -49,7 +49,7 @@ class Match:
     def set_hand_card(self, cards):
         cardOne = Card.new(cards[0]['value'] + cards[0]['suit'])
         cardTwo = Card.new(cards[1]['value'] + cards[1]['suit'])
-        self.same_suit = cards[0]['suit'] == cards[1]['suit']
+        self.is_suited = cards[0]['suit'] == cards[1]['suit']
         self.is_pair = cards[0]['value'] == cards[1]['value']
         self.hand_prime_product = Card.prime_product_from_hand(
             [cardOne, cardTwo])
@@ -103,7 +103,7 @@ class Match:
                 'street': street,
                 'hand_initial_stack_bbs':  self.initial_stack / self.blind,
                 'hand_rank': self.hand_rank,
-                'same_suit': self.same_suit,
+                'is_suited': self.is_suited,
                 'is_pair': self.is_pair,
                 'blind': self.blind,
                 'tournament_progress': self.tournament_progress,
