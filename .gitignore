@@ -108,3 +108,4 @@ venv.bak/
 
 /compilations
 /test/fixtures
+/test/small-samples

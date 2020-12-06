@@ -39,7 +39,7 @@ for tournament_log in tournaments:  # enumerable
 
 # save data
 path = "./compilations/summary_{}_v{}.csv"
-version = '12'
+version = '13'
 
 pd.DataFrame(pre_flop_actions).fillna(0).to_csv(
     path.format("pre_flop", version), index=None, header=True)
