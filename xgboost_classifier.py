@@ -10,7 +10,7 @@ import pandas as pd
 from engine.multi_column_label_encoder import *
 
 path = "./compilations/summary_{}_v{}.csv"
-version = '14'
+version = '17'
 streets = ['pre_flop', 'flop', 'turn', 'river']
 
 for street in streets:
