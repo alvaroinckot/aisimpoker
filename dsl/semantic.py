@@ -49,12 +49,6 @@ class PokerSemantic(Transformer):
     def big_blind(self, token):
         self._tournament.current_match.pot += ast.literal_eval(token[1])
 
-        # def _street_call(self, street, token):
-        #     for action in token:
-        #         if(action.children[0] != None):
-        #             self._tournament.current_match.add_player_action(
-        #                 street, action.children[0])
-
     def pre_flop(self, token):
         for action in token:
             if(action.children[0] != None):
@@ -62,18 +56,21 @@ class PokerSemantic(Transformer):
                     action.children[0])
 
     def flop(self, token):
+        self._tournament.current_match.set_board_cards(token[1].children)
         for action in token[2:]:
             if(action.children[0] != None):
                 self._tournament.current_match.add_flop_action(
                     action.children[0])
 
     def turn(self, token):
+        self._tournament.current_match.set_board_cards(token[2].children)
         for action in token[3:]:
             if(action.children[0] != None):
                 self._tournament.current_match.add_turn_action(
                     action.children[0])
 
     def river(self, token):
+        self._tournament.current_match.set_board_cards(token[2].children)
         for action in token[3:]:
             if(action.children[0] != None):
                 self._tournament.current_match.add_river_action(
@@ -132,9 +129,6 @@ class PokerSemantic(Transformer):
 
     def show_down_player(self, token):
         return None
-
-    # def card_set(self, token):
-        # return None
 
     # def total_pot(self, token):
     # # print(token[0])

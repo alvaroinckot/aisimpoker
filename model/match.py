@@ -14,7 +14,7 @@ class Match:
         self.initial_stack = None
         self.current_position = None
         self.blind = 0
-        self.hand_prime_product = 0
+        self.hand_score = 0
         self.tournament_progress = match_number
         self.is_suited = False
         self.is_pair = False
@@ -24,6 +24,8 @@ class Match:
         self.river_actions = []
         self.pot = 0
         self.small_blind_player = None
+        self.hand_cards = []
+        self.board_cards = []
 
         self.opponents_pre_flop_actions = []
         self.opponents_flop_actions = []
@@ -52,15 +54,25 @@ class Match:
         except Exception as ex:
             print("Lark failed to parse hand. id: " + str(self.id))
             print(ex)
+            raise
 
     def set_hand_card(self, cards):
+        self.hand_cards = cards
         cardOne = Card.new(cards[0]['value'] + cards[0]['suit'])
         cardTwo = Card.new(cards[1]['value'] + cards[1]['suit'])
         self.is_suited = cards[0]['suit'] == cards[1]['suit']
         self.is_pair = cards[0]['value'] == cards[1]['value']
-        self.hand_prime_product = Card.prime_product_from_hand(
+        self.hand_score = Card.prime_product_from_hand(
             [cardOne, cardTwo])
-        self.hand_rank = evaluator.get_rank_class(self.hand_prime_product)
+        self.hand_rank = evaluator.get_rank_class(self.hand_score)
+
+    def get_hand_with_board_rank_class(self):
+        hand = [Card.new(card['value'] + card['suit'])
+                for card in self.hand_cards]
+        board = [Card.new(card['value'] + card['suit'])
+                 for card in self.board_cards]
+        score = evaluator.evaluate(board, hand)
+        return evaluator.get_rank_class(score)
 
     def set_hero_position(self):
         positions = ['SB', 'BB', 'UTG', 'UTG+1',
@@ -75,6 +87,9 @@ class Match:
             positions[:(small_blind_index * -1)]
         self.hero_position = positions_rotated[hero_index]
         self.hero_position_category = self.categories[self.hero_position]
+
+    def set_board_cards(self, cards):
+        self.board_cards = cards + self.board_cards
 
     def add_pre_flop_action(self, action):
         hero_action = self.create_default_action('pre_flop', action)
@@ -99,6 +114,7 @@ class Match:
         hero_action = self.create_default_action('flop', action)
         if(hero_action != None):
             hero_action['round'] = len(self.flop_actions) + 1
+            hero_action['hand_with_board_rank'] = self.get_hand_with_board_rank_class()
             hero_action['opponent_raise_count'] = len(
                 [x for x in self.opponents_flop_actions if x['action'] == 'raise'])
             hero_action['opponent_fold_count'] = len(
@@ -120,6 +136,7 @@ class Match:
         hero_action = self.create_default_action('turn', action)
         if(hero_action != None):
             hero_action['round'] = len(self.turn_actions) + 1
+            hero_action['hand_with_board_rank'] = self.get_hand_with_board_rank_class()
             hero_action['opponent_raise_count'] = len(
                 [x for x in self.opponents_turn_actions if x['action'] == 'raise'])
             hero_action['opponent_fold_count'] = len(
@@ -141,6 +158,7 @@ class Match:
         hero_action = self.create_default_action('river', action)
         if(hero_action != None):
             hero_action['round'] = len(self.river_actions) + 1
+            hero_action['hand_with_board_rank'] = self.get_hand_with_board_rank_class()
             hero_action['opponent_raise_count'] = len(
                 [x for x in self.opponents_river_actions if x['action'] == 'raise'])
             hero_action['opponent_fold_count'] = len(

@@ -107,5 +107,4 @@ venv.bak/
 .idea
 
 /compilations
-/test/fixtures
-/test/small-samples
+/test

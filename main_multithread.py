@@ -16,12 +16,20 @@ logging.debug("Hand history at {}".format(os.getenv("HAND_HISTORY_PATH")))
 
 
 def do_the_magic(tournament_log):
-    try:
-        print("start")
-        return interpret(tournament_log)
-    except Exception as ex:
-        print("Trying again")
-        print(ex)
+    i = 1
+    while (i <= 10):
+        try:
+            print("start")
+            return interpret(tournament_log)
+            break
+        except Exception as ex:
+            print(ex)
+            if(i >= 10):
+                print("MASTER FAILURE")
+                return Tournament()
+                break
+            print("trying again for " + str(i))
+            i += 1
 
 
 if __name__ == '__main__':
@@ -45,7 +53,7 @@ if __name__ == '__main__':
 
     # save data
     path = "./compilations/summary_{}_v{}.csv"
-    version = '13'
+    version = '14'
 
     if(len(pre_flop_actions) > 0):
         print("PROCESSANDO AGORA")

@@ -12,7 +12,7 @@ blind: "- Level" ROMAN_NUMBER "(" NUMBER "/" NUMBER  ") "
 table: "Table '" NUMBER " " NUMBER "' " NUMBER "-max Seat #" button
 button: NUMBER " is the button"
 
-seat: "Seat " NUMBER ": " player chips IS_OUT? WHATEVER?
+seat: "Seat " NUMBER ": " player chips (IS_OUT | "out of hand (moved from another table into small blind)")?
 chips:  "(" NUMBER " in chips)"
 after_button: player "will be allowed to play after the button"
 
