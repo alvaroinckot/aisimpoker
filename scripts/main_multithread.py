@@ -49,7 +49,7 @@ if __name__ == '__main__':
 
     # save data
     path = "./compilations/summary_{}_v{}.csv"
-    version = '18'
+    version = '19'
 
     if(len(pre_flop_actions) > 0):
 

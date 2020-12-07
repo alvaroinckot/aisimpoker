@@ -20,8 +20,6 @@ flop_actions = []
 turn_actions = []
 river_actions = []
 
-# todo -> parallelized map reduce
-
 for tournament_log in tournaments:  # enumerable
     try:
         print("starting tournament")

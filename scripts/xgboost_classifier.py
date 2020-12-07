@@ -1,15 +1,15 @@
-
+from engine.multi_column_label_encoder import MultiColumnLabelEncoder
 from sklearn import tree
 from sklearn import model_selection
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
-
+from xgboost import XGBClassifier
+from sklearn.metrics import mean_absolute_error
 import pandas as pd
 
-from engine.multi_column_label_encoder import *
 
 path = "./compilations/summary_{}_v{}.csv"
-version = '14'
+version = '18'
 streets = ['pre_flop', 'flop', 'turn', 'river']
 
 for street in streets:
@@ -29,7 +29,7 @@ for street in streets:
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=.3, random_state=42, stratify=y)
 
-    clfa = tree.DecisionTreeClassifier(criterion='entropy')
+    clfa = XGBClassifier()
 
     clfa = clfa.fit(X_train, y_train)
 
@@ -44,7 +44,7 @@ for street in streets:
     print("Matriz de confusao:")
     print(matrix)
 
-    clfb = tree.DecisionTreeClassifier(criterion='entropy')
+    clfb = XGBClassifier()
     folds = 10
     result = model_selection.cross_val_score(clfb, X, y, cv=folds)
 

@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(name='aisimpoker',
       version='0.1',
@@ -11,7 +11,7 @@ setup(name='aisimpoker',
           'pandas',
           'numpy',
           'sklearn',
-          'matplotlib'
+          'matplotlib',
+          'xgboost'
       ],
-
-      zip_safe=False)
+      zip_safe=False, packages=find_packages())
