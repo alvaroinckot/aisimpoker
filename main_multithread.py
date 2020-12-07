@@ -39,7 +39,9 @@ if __name__ == '__main__':
     pool.close()
     pool.join()
 
-    for tournament in results if tournament != None:
+    for tournament in results:
+        if(tournament == None):
+            continue
         pre_flop_actions = pre_flop_actions + tournament.pre_flop_actions
         flop_actions = flop_actions + tournament.flop_actions
         turn_actions = turn_actions + tournament.turn_actions

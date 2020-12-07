@@ -24,6 +24,7 @@ class Match:
         self.river_actions = []
         self.pot = 0
         self.small_blind_player = None
+        self.big_blind_player = None
         self.hand_cards = []
         self.board_cards = []
 
@@ -75,16 +76,16 @@ class Match:
         return evaluator.get_rank_class(score)
 
     def set_hero_position(self):
-        positions = ['SB', 'BB', 'UTG', 'UTG+1',
-                     'UTG+2', 'MP', 'MP2', 'CO', 'BTN']
+        positions = ['BB', 'UTG', 'UTG+1',
+                     'UTG+2', 'MP', 'MP2', 'CO', 'BTN', 'SB']
 
-        small_blind_index = next(
-            (x for x in self.seats if x['name'] == self.small_blind_player), None)['seat'] - 1
+        big_blind_index = next(
+            (x for x in self.seats if x['name'] == self.big_blind_player), None)['seat'] - 1
         hero_index = next(
             (x for x in self.seats if x['name'] == self.hero), None)['seat'] - 1
 
-        positions_rotated = positions[(small_blind_index * -1):] + \
-            positions[:(small_blind_index * -1)]
+        positions_rotated = positions[(big_blind_index * -1):] + \
+            positions[:(big_blind_index * -1)]
         self.hero_position = positions_rotated[hero_index]
         self.hero_position_category = self.categories[self.hero_position]
 

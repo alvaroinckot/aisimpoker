@@ -47,6 +47,7 @@ class PokerSemantic(Transformer):
         self._tournament.current_match.pot += ast.literal_eval(token[1])
 
     def big_blind(self, token):
+        self._tournament.current_match.big_blind_player = token[0]
         self._tournament.current_match.pot += ast.literal_eval(token[1])
 
     def pre_flop(self, token):

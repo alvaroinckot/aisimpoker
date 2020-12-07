@@ -2,7 +2,7 @@ start: game+
 
 // game: header table seat+ ante* small_blind big_blind hole_cards received_card action* flop action* (turn action*)? river? (show_down show_down_player+)? prize_collect* tournament_finished* summary total_pot board seat_result*
 
-game: header table (seat | ante)+ after_button* ante* small_blind big_blind hole_cards received_card pre_flop flop? turn? river? show_down? summary
+game: header table (seat | ante)+ after_button* ante* small_blind? big_blind hole_cards received_card pre_flop flop? turn? river? show_down? summary
 
 header: hand tournament blind "- " DATE_ISO ("[" DATE_ISO "]")?
 hand: "PokerStars Hand #" NUMBER
