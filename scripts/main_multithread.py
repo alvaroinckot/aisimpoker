@@ -1,15 +1,18 @@
-from dsl.semantic import *
-from dsl.parser import *
-from dsl.hands import *
-from model.match import *
-from model.tournament import *
-import os
-import settings
-import logging
-import pandas as pd
-from multiprocessing import Pool
-import multiprocessing
+import traceback
 import tqdm
+import multiprocessing
+from multiprocessing import Pool
+import pandas as pd
+import logging
+import settings
+import os
+from model.tournament import *
+from model.match import *
+from dsl.hands import *
+from dsl.parser import *
+
+from dsl.semantic import *
+
 
 logging.basicConfig(level=logging.FATAL)
 logging.info("Poker Analyser v{}".format(os.getenv("VERSION")))
@@ -20,7 +23,8 @@ def do_the_magic(tournament_log):
     try:
         return interpret(tournament_log)
     except Exception as ex:
-        print(ex)
+        traceback.print_exc()
+        # print(tournament_log)
 
 
 if __name__ == '__main__':
@@ -49,7 +53,7 @@ if __name__ == '__main__':
 
     # save data
     path = "./compilations/summary_{}_v{}.csv"
-    version = '19'
+    version = '21'
 
     if(len(pre_flop_actions) > 0):
 

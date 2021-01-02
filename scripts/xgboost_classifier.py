@@ -9,9 +9,10 @@ import pandas as pd
 
 
 path = "./compilations/summary_{}_v{}.csv"
-version = '18'
+version = '23'
 streets = ['pre_flop', 'flop', 'turn', 'river']
 
+print('version ' + version)
 for street in streets:
     print("Street " + street)
 

@@ -27,6 +27,7 @@ class Match:
         self.big_blind_player = None
         self.hand_cards = []
         self.board_cards = []
+        self.total_players_bbs = 0
 
         self.opponents_pre_flop_actions = []
         self.opponents_flop_actions = []
@@ -102,12 +103,15 @@ class Match:
                 [x for x in self.opponents_pre_flop_actions if x['action'] == 'fold'])
             hero_action['opponent_call_count'] = len(
                 [x for x in self.opponents_pre_flop_actions if x['action'] == 'call'])
+            hero_action['street_pot_bbs'] = sum(
+                [x['action_chips'] for x in self.opponents_pre_flop_actions]) / self.blind
             self.pre_flop_actions.append(hero_action)
         else:
             self.opponents_pre_flop_actions.append(
                 {
                     'action': action['action'],
                     'player': action['player'],
+                    'action_chips': action['action_chips'],
                 }
             )
 
@@ -124,12 +128,15 @@ class Match:
                 [x for x in self.opponents_flop_actions if x['action'] == 'call'])
             hero_action['opponent_check_count'] = len(
                 [x for x in self.opponents_flop_actions if x['action'] == 'check'])
+            hero_action['street_pot_bbs'] = sum(
+                [x['action_chips'] for x in self.opponents_flop_actions]) / self.blind
             self.flop_actions.append(hero_action)
         else:
             self.opponents_flop_actions.append(
                 {
                     'action': action['action'],
                     'player': action['player'],
+                    'action_chips': action['action_chips'],
                 }
             )
 
@@ -146,12 +153,15 @@ class Match:
                 [x for x in self.opponents_turn_actions if x['action'] == 'call'])
             hero_action['opponent_check_count'] = len(
                 [x for x in self.opponents_turn_actions if x['action'] == 'check'])
+            hero_action['street_pot_bbs'] = sum(
+                [x['action_chips'] for x in self.opponents_turn_actions]) / self.blind
             self.turn_actions.append(hero_action)
         else:
             self.opponents_turn_actions.append(
                 {
                     'action': action['action'],
                     'player': action['player'],
+                    'action_chips': action['action_chips'],
                 }
             )
 
@@ -168,12 +178,15 @@ class Match:
                 [x for x in self.opponents_river_actions if x['action'] == 'call'])
             hero_action['opponent_check_count'] = len(
                 [x for x in self.opponents_river_actions if x['action'] == 'check'])
+            hero_action['street_pot_bbs'] = sum(
+                [x['action_chips'] for x in self.opponents_river_actions]) / self.blind
             self.river_actions.append(hero_action)
         else:
             self.opponents_turn_actions.append(
                 {
                     'action': action['action'],
                     'player': action['player'],
+                    'action_chips': action['action_chips'],
                 }
             )
 
@@ -195,7 +208,8 @@ class Match:
                 'pot_bbs': "{:.2f}".format(self.pot / self.blind),
                 'position': self.hero_position,
                 'position_category': self.hero_position_category,
-                'total_players_bbs': "{:.2f}".format(sum([x['chips'] in x for x in self.seats])/self.blind),
+                'total_players_bbs': "{:.2f}".format(
+                    sum([x['chips'] for x in self.seats])/self.blind),
                 'opponents_sitting_out': self.opponents_sitting_out
             }
 

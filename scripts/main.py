@@ -21,18 +21,11 @@ turn_actions = []
 river_actions = []
 
 for tournament_log in tournaments:  # enumerable
-    try:
-        print("starting tournament")
-        tournament = interpret(tournament_log)
-        pre_flop_actions = pre_flop_actions + tournament.pre_flop_actions
-        flop_actions = flop_actions + tournament.flop_actions
-        turn_actions = turn_actions + tournament.turn_actions
-        river_actions = river_actions + tournament.river_actions
-    except Exception as ex:
-        print("something bad happened here")
-        print(ex)
-    finally:
-        print("finished tournament")
+    tournament = interpret(tournament_log)
+    pre_flop_actions = pre_flop_actions + tournament.pre_flop_actions
+    flop_actions = flop_actions + tournament.flop_actions
+    turn_actions = turn_actions + tournament.turn_actions
+    river_actions = river_actions + tournament.river_actions
 
 
 # save data
