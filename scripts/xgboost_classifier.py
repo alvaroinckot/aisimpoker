@@ -1,4 +1,4 @@
-from engine.multi_column_label_encoder import MultiColumnLabelEncoder
+from ml.engine.multi_column_label_encoder import MultiColumnLabelEncoder
 from sklearn import tree
 from sklearn import model_selection
 from sklearn.model_selection import train_test_split

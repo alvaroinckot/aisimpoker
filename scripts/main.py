@@ -1,8 +1,8 @@
-from dsl.semantic import *
-from dsl.parser import *
-from dsl.hands import *
-from model.match import *
-from model.tournament import *
+from ml.dsl.semantic import *
+from ml.dsl.parser import *
+from ml.dsl.hands import *
+from ml.model.match import *
+from ml.model.tournament import *
 import os
 import settings
 import logging

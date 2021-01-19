@@ -1,9 +1,9 @@
 import os
 from lark import Lark
 import logging
-from dsl.semantic import PokerSemantic
-from dsl.hands import read_tournament
-from model.tournament import Tournament
+from ml.dsl.semantic import PokerSemantic
+from ml.dsl.hands import read_tournament
+from ml.model.tournament import Tournament
 
 logging.debug("Loading language syntax")
 language = Lark.open('./dsl/poker.lark')

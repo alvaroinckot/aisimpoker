@@ -1,5 +1,5 @@
 import numpy as np
-from model.match import *
+from ml.model.match import *
 
 
 class Tournament:

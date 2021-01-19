@@ -6,13 +6,12 @@ import pandas as pd
 import logging
 import settings
 import os
-from model.tournament import *
-from model.match import *
-from dsl.hands import *
-from dsl.parser import *
 
-from dsl.semantic import *
-
+from ml.model.tournament import *
+from ml.model.match import *
+from ml.dsl.hands import *
+from ml.dsl.parser import *
+from ml.dsl.semantic import *
 
 logging.basicConfig(level=logging.FATAL)
 logging.info("Poker Analyser v{}".format(os.getenv("VERSION")))

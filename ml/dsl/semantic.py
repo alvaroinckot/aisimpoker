@@ -1,5 +1,5 @@
 from lark import Lark, Transformer, v_args, Tree
-from model.tournament import Tournament
+from ml.model.tournament import Tournament
 import ast
 
 
