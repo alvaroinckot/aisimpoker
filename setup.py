@@ -16,6 +16,8 @@ setup(name='aisimpoker',
           'Flask',
           'click',
           'sqlalchemy',
-          'psycopg2'
+          'psycopg2-binary',
+          'celery==4.4.1',
+          'redis==3.4.1'
       ],
       zip_safe=False, packages=find_packages())
