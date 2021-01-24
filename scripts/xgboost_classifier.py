@@ -9,55 +9,57 @@ import pandas as pd
 
 
 path = "./compilations/summary_{}_v{}.csv"
-version = '23'
+version = '24'
 streets = ['pre_flop', 'flop', 'turn', 'river']
 
-print('version ' + version)
-for street in streets:
-    print("Street " + street)
 
-    X = pd.read_csv(path.format(street, version))
-    X = MultiColumnLabelEncoder(
-        columns=["action", "street", "position", "position_category"]).fit_transform(X)
+def fit():
+    print('version ' + version)
+    for street in streets:
+        print("Street " + street)
 
-    y = X['action']
-    del X['action']
-    del X['street']
+        X = pd.read_csv(path.format(street, version))
+        X = MultiColumnLabelEncoder(
+            columns=["action", "street", "position", "position_category"]).fit_transform(X)
 
-    X = X.to_numpy()
-    y = y.to_numpy()
+        y = X['action']
+        del X['action']
+        del X['street']
 
-    X_train, X_test, y_train, y_test = train_test_split(
-        X, y, test_size=.3, random_state=42, stratify=y)
+        X = X.to_numpy()
+        y = y.to_numpy()
 
-    clfa = XGBClassifier()
+        X_train, X_test, y_train, y_test = train_test_split(
+            X, y, test_size=.3, random_state=42, stratify=y)
 
-    clfa = clfa.fit(X_train, y_train)
+        clfa = XGBClassifier()
 
-    predicted = clfa.predict(X_test)
+        clfa = clfa.fit(X_train, y_train)
 
-    score = clfa.score(X_test, y_test)
+        predicted = clfa.predict(X_test)
 
-    matrix = confusion_matrix(y_test, predicted)
+        score = clfa.score(X_test, y_test)
 
-    print("\nResultados baseados em Holdout 70/30")
-    print("Taxa de acerto = %.2f " % score)
-    print("Matriz de confusao:")
-    print(matrix)
+        matrix = confusion_matrix(y_test, predicted)
 
-    clfb = XGBClassifier()
-    folds = 10
-    result = model_selection.cross_val_score(clfb, X, y, cv=folds)
+        print("\nResultados baseados em Holdout 70/30")
+        print("Taxa de acerto = %.2f " % score)
+        print("Matriz de confusao:")
+        print(matrix)
 
-    print("\nResultados baseados em Validacao Cruzada")
-    print("Qtde folds: %d:" % folds)
-    print("Taxa de Acerto: %.2f" % result.mean())
-    print("Desvio padrao: %.2f" % result.std())
+        clfb = XGBClassifier()
+        folds = 10
+        result = model_selection.cross_val_score(clfb, X, y, cv=folds)
 
-    # matriz de confusÃ£o da validacao cruzada
-    Z = model_selection.cross_val_predict(clfb, X, y, cv=folds)
-    cm = confusion_matrix(y, Z)
-    print("Matriz de confusao:")
-    print(cm)
-    print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
-    print("\n\n")
+        print("\nResultados baseados em Validacao Cruzada")
+        print("Qtde folds: %d:" % folds)
+        print("Taxa de Acerto: %.2f" % result.mean())
+        print("Desvio padrao: %.2f" % result.std())
+
+        # matriz de confusÃ£o da validacao cruzada
+        Z = model_selection.cross_val_predict(clfb, X, y, cv=folds)
+        cm = confusion_matrix(y, Z)
+        print("Matriz de confusao:")
+        print(cm)
+        print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
+        print("\n\n")

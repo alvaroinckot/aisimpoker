@@ -4,7 +4,7 @@ import multiprocessing
 from multiprocessing import Pool
 import pandas as pd
 import logging
-import settings
+import scripts.settings
 import os
 
 from ml.model.tournament import *
@@ -23,10 +23,9 @@ def do_the_magic(tournament_log):
         return interpret(tournament_log)
     except Exception as ex:
         traceback.print_exc()
-        # print(tournament_log)
 
 
-if __name__ == '__main__':
+def process_poker_logs():
     number_of_tournaments = len(list_tournament_files())
     tournaments = read_all_tournaments()
     pre_flop_actions = []
@@ -52,7 +51,7 @@ if __name__ == '__main__':
 
     # save data
     path = "./compilations/summary_{}_v{}.csv"
-    version = '21'
+    version = '24'
 
     if(len(pre_flop_actions) > 0):
 

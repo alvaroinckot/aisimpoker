@@ -6,7 +6,7 @@ from ml.dsl.hands import read_tournament
 from ml.model.tournament import Tournament
 
 logging.debug("Loading language syntax")
-language = Lark.open('./dsl/poker.lark')
+language = Lark.open('./ml/dsl/poker.lark')
 logging.debug("Finished loading language syntax")
 
 

@@ -13,6 +13,7 @@ setup(name='aisimpoker',
           'sklearn',
           'matplotlib',
           'xgboost',
-          'Flask'
+          'Flask',
+          'click'
       ],
       zip_safe=False, packages=find_packages())
