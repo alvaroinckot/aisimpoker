@@ -1,9 +1,18 @@
+from model.base import Session, engine, Base
+from model.job import Job
 from flask import Flask, request
 app = Flask(__name__)
+
+Base.metadata.create_all(engine)
+
+session = Session()
 
 
 @app.route('/upload', methods=['POST'])
 def upload():
+    session.add(Job())
+    session.commit()
+    session.close()
     return '/upload'
 
 

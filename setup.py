@@ -14,6 +14,8 @@ setup(name='aisimpoker',
           'matplotlib',
           'xgboost',
           'Flask',
-          'click'
+          'click',
+          'sqlalchemy',
+          'psycopg2'
       ],
       zip_safe=False, packages=find_packages())
