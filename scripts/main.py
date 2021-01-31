@@ -13,14 +13,12 @@ logging.info("Poker Analyser v{}".format(os.getenv("VERSION")))
 logging.debug("Hand history at {}".format(os.getenv("HAND_HISTORY_PATH")))
 
 
-tournaments = read_all_tournaments()
-
 pre_flop_actions = []
 flop_actions = []
 turn_actions = []
 river_actions = []
 
-for tournament_log in tournaments:  # enumerable
+for tournament_log in read_all_tournaments():  # enumerable
     tournament = interpret(tournament_log)
     pre_flop_actions = pre_flop_actions + tournament.pre_flop_actions
     flop_actions = flop_actions + tournament.flop_actions
