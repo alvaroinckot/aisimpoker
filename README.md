@@ -9,7 +9,7 @@ The poker player behavior simulator.
 1. Install Docker and docker-compose
 2. Run `docker-compose up -d`
 
-### Locally
+### Local
 
 1. Setup Redis and Postgres servers, and update their addresses in the .env file
 2. Run `pip i -r requirements.txt`
