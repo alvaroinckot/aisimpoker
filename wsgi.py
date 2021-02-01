@@ -1,12 +1,16 @@
+import traceback
 from model.base import Session, engine, Base
 from model.predictor import Predictor
-from flask import Flask, request
+from flask import Flask, request, jsonify
 import time
 from celery import Celery
 import tempfile
 import os
 import zipfile
 from ml.dsl.hands import read_all_tournaments
+from ml.dsl.parser import interpret
+from xgboost import XGBClassifier
+import pandas as pd
 app = Flask(__name__)
 
 app.config['CELERY_BROKER_URL'] = 'redis://localhost:6379/0'
@@ -41,6 +45,9 @@ session = Session()
 
 @celery.task
 def process_log_files(id):
+    worker_session = Session()
+    print("received " + id)
+
     dir = LOGS_DIR + "/" + id
     os.mkdir(dir)
 
@@ -49,6 +56,12 @@ def process_log_files(id):
 
     # fetch predictor from db
     # update predictor with file count
+    predictor = worker_session.query(Predictor).filter(
+        Predictor.id == id).first()
+
+    predictor.total_files = len(os.listdir(dir))
+
+    worker_session.commit()
 
     pre_flop_actions = []
     flop_actions = []
@@ -56,12 +69,22 @@ def process_log_files(id):
     river_actions = []
 
     for tournament_log in read_all_tournaments(dir):  # enumerable
-        tournament = interpret(tournament_log)
-        pre_flop_actions = pre_flop_actions + tournament.pre_flop_actions
-        flop_actions = flop_actions + tournament.flop_actions
-        turn_actions = turn_actions + tournament.turn_actions
-        river_actions = river_actions + tournament.river_actions
-        # update predictor total files
+        try:
+            tournament = interpret(tournament_log.replace(u'\ufeff', ''))
+            pre_flop_actions = pre_flop_actions + tournament.pre_flop_actions
+            flop_actions = flop_actions + tournament.flop_actions
+            turn_actions = turn_actions + tournament.turn_actions
+            river_actions = river_actions + tournament.river_actions
+        except:
+            predictor.failed_files = predictor.failed_files + 1
+            print("error")
+            traceback.print_exc()
+        finally:
+            predictor.finished_files = predictor.finished_files + 1
+            worker_session.commit()
+
+    predictor.status = 'training_model'
+    worker_session.commit()
 
     # train
     # set predictor status as finished
@@ -72,7 +95,7 @@ def process_log_files(id):
     # session = Session()
     # session.add(Job())
     # session.commit()
-    # session.close()
+    worker_session.close()
 
 
 @app.route('/upload', methods=['POST'])
@@ -80,11 +103,12 @@ def upload():
     file = request.files.get("file")
     if(file == None):
         return 'file cannot be empty'
-    file.save(LOGS_DIR + "/" + str(predictor.id) + ".zip")
 
     predictor = Predictor()
     session.add(predictor)
     session.commit()
+
+    file.save(LOGS_DIR + "/" + str(predictor.id) + ".zip")
 
     celery.send_task('wsgi.process_log_files',
                      kwargs={"id": str(predictor.id)})
@@ -92,9 +116,13 @@ def upload():
     return {"id": str(predictor.id)}
 
 
-@ app.route('/model', methods=['POST'])
+@app.route('/model', methods=['POST'])
 def model():
-    return '/model'
+    p = session.query(Predictor).filter(
+        Predictor.id == request.args.get("id")).first()
+    p_dict = p.__dict__
+    del p_dict['_sa_instance_state']
+    return jsonify(p_dict)
 
 
 @ app.route('/eval', methods=['POST'])

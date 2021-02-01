@@ -10,9 +10,11 @@ class Predictor(Base):
                 default=uuid.uuid4, unique=True)
     status = Column(String)  # 'processing_logs', 'training_model', 'finished'
     total_files = Column(Integer)
-    finshed_files = Column(Integer)
+    finished_files = Column(Integer)
+    failed_files = Column(Integer)
 
     def __init__(self, status='processing_logs'):
         self.status = status
         self.total_files = 0
-        self.finshed_files = 0
+        self.finished_files = 0
+        self.failed_files = 0
