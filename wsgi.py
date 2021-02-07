@@ -17,6 +17,7 @@ app.config['CELERY_BROKER_URL'] = 'redis://localhost:6379/0'
 app.config['CELERY_RESULT_BACKEND'] = 'redis://localhost:6379/0'
 
 LOGS_DIR = "./logs"
+PROCESSED_LOGS_FILE_NAME_FORMAT = LOGS_DIR + "/summary_{}_{}.csv"
 
 
 def make_celery(app):
@@ -44,9 +45,18 @@ session = Session()
 
 
 @celery.task
+def fit_models(id):
+    print("received id to fit: " + id)
+    # train
+    # set predictor status as finished
+    # fit model and save in the predictor class
+    # set predictor status as finished
+
+
+@celery.task
 def process_log_files(id):
     worker_session = Session()
-    print("received " + id)
+    print("received prossing :" + id)
 
     dir = LOGS_DIR + "/" + id
     os.mkdir(dir)
@@ -54,8 +64,6 @@ def process_log_files(id):
     with zipfile.ZipFile(LOGS_DIR + "/" + id + ".zip", 'r') as zip_ref:
         zip_ref.extractall(dir)
 
-    # fetch predictor from db
-    # update predictor with file count
     predictor = worker_session.query(Predictor).filter(
         Predictor.id == id).first()
 
@@ -63,10 +71,7 @@ def process_log_files(id):
 
     worker_session.commit()
 
-    pre_flop_actions = []
-    flop_actions = []
-    turn_actions = []
-    river_actions = []
+    pre_flop_actions, flop_actions, turn_actions, river_actions = [], [], [], []
 
     for tournament_log in read_all_tournaments(dir):  # enumerable
         try:
@@ -77,7 +82,6 @@ def process_log_files(id):
             river_actions = river_actions + tournament.river_actions
         except:
             predictor.failed_files = predictor.failed_files + 1
-            print("error")
             traceback.print_exc()
         finally:
             predictor.finished_files = predictor.finished_files + 1
@@ -86,16 +90,19 @@ def process_log_files(id):
     predictor.status = 'training_model'
     worker_session.commit()
 
-    # train
-    # set predictor status as finished
-    # fit model and save in the predictor class
-    # set predictor status as finished
+    pd.DataFrame(pre_flop_actions).fillna(0).to_csv(
+        PROCESSED_LOGS_FILE_NAME_FORMAT.format("pre_flop", id), index=None, header=True)
 
-    # Base.metadata.create_all(engine)
-    # session = Session()
-    # session.add(Job())
-    # session.commit()
-    worker_session.close()
+    pd.DataFrame(flop_actions).fillna(0).to_csv(
+        PROCESSED_LOGS_FILE_NAME_FORMAT.format("flop", id), index=None, header=True)
+
+    pd.DataFrame(turn_actions).fillna(0).to_csv(
+        PROCESSED_LOGS_FILE_NAME_FORMAT.format("turn", id), index=None, header=True)
+
+    pd.DataFrame(river_actions).fillna(0).to_csv(
+        PROCESSED_LOGS_FILE_NAME_FORMAT.format("river", id), index=None, header=True)
+
+    celery.send_task('wsgi.fit_models', kwargs={"id": str(predictor.id)})
 
 
 @app.route('/upload', methods=['POST'])

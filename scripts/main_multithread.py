@@ -28,10 +28,7 @@ def do_the_magic(tournament_log):
 def process_poker_logs():
     number_of_tournaments = len(list_tournament_files())
     tournaments = read_all_tournaments()
-    pre_flop_actions = []
-    flop_actions = []
-    turn_actions = []
-    river_actions = []
+    pre_flop_actions, flop_actions, turn_actions, river_actions = [], [], [], []
 
     pool = Pool(os.cpu_count())
     # results = pool.map(do_the_magic, tournaments)
