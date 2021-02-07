@@ -38,6 +38,13 @@ LOGS_DIR = "./logs"
 PROCESSED_LOGS_FILE_NAME_FORMAT = LOGS_DIR + "/summary_{}_{}.csv"
 TRAINNED_MODEL_FILE_NAME_FORMAT = LOGS_DIR + "/{}_{}.dat"
 
+# features = {
+#     "pre_flop": ["hand_initial_stack_bbs", "hand_rank", "is_suited", "is_pair", "blind", "tournament_progress", "occupied_seats", "pot_bbs", "position", "position_category", "total_players_bbs", "opponents_sitting_out", "round", "opponent_raise_count", "opponent_fold_count", "opponent_call_count", "street_pot_bbs"],
+#     "flop": ["hand_initial_stack_bbs", "hand_rank", "is_suited", "is_pair", "blind", "tournament_progress", "occupied_seats", "pot_bbs", "position", "position_category", "total_players_bbs", "opponents_sitting_out", "round", "hand_with_board_rank", "opponent_raise_count", "opponent_fold_count", "opponent_call_count", "opponent_check_count", "street_pot_bbs"],
+#     "turn": ["hand_initial_stack_bbs", "hand_rank", "is_suited", "is_pair", "blind", "tournament_progress", "occupied_seats", "pot_bbs", "position", "position_category", "total_players_bbs", "opponents_sitting_out", "round", "hand_with_board_rank", "opponent_raise_count", "opponent_fold_count", "opponent_call_count", "opponent_check_count", "street_pot_bbs"],
+#     "river": ["hand_initial_stack_bbs", "hand_rank", "is_suited", "is_pair", "blind", "tournament_progress", "occupied_seats", "pot_bbs", "position", "position_category", "total_players_bbs", "opponents_sitting_out", "round", "hand_with_board_rank", "opponent_raise_count", "opponent_fold_count", "opponent_call_count", "opponent_check_count", "street_pot_bbs"]
+# }
+
 
 def make_celery(app):
     celery = Celery(
@@ -70,7 +77,9 @@ def fit_model(id, street):
     print("received id to fit: " + id + " for the street " + street)
     X = pd.read_csv(PROCESSED_LOGS_FILE_NAME_FORMAT.format(street, id))
     X = MultiColumnLabelEncoder(
-        columns=["action", "street", "position", "position_category"]).fit_transform(X)
+        columns=["position", "position_category"]).fit_transform(X)
+
+    # X = replace_in_df(X, action_to_code)
 
     y = X['action']
     del X['action']
@@ -84,6 +93,7 @@ def fit_model(id, street):
 
     classifier = XGBClassifier()
     classifier = classifier.fit(X_train, y_train)
+    # classifier.dump_model()
 
     pickle.dump(classifier, open(
         TRAINNED_MODEL_FILE_NAME_FORMAT.format(street, id), "wb"))
@@ -183,7 +193,7 @@ def process_log_files(id):
 def upload():
     file = request.files.get("file")
     if(file == None):
-        return 'file cannot be empty'
+        return {message: 'file cannot be empty.'}
 
     predictor = Predictor()
     session.add(predictor)
@@ -199,16 +209,37 @@ def upload():
 
 @app.route('/model', methods=['POST'])
 def model():
-    p = session.query(Predictor).filter(
+    predictor = session.query(Predictor).filter(
         Predictor.id == request.get_json()["id"]).first()
-    p_dict = p.__dict__
-    del p_dict['_sa_instance_state']
-    return jsonify(p_dict)
+
+    if(predictor == None):
+        return {message: 'model not found.'}
+
+    predictor_dictionary = predictor.__dict__
+    del predictor_dictionary['_sa_instance_state']
+    return jsonify(predictor_dictionary)
 
 
 @app.route('/eval', methods=['POST'])
 def eval():
-    return '/eval'
+    request_data = request.get_json()
+    predictor = session.query(Predictor).filter(
+        Predictor.id == request_data["id"]).first()
+
+    if(predictor == None):
+        return {message: 'model not found.'}
+
+    classifier = pickle.load(open(TRAINNED_MODEL_FILE_NAME_FORMAT.format(
+        request_data["street"], request_data["id"]), "rb"))
+
+    del request_data["id"]
+    del request_data["street"]
+
+    df = pd.DataFrame(data=request_data, index=[0])
+
+    result = classifier.predict(df.values)[0]
+
+    return {'action': result}
 
 
 if __name__ == '__main__':
