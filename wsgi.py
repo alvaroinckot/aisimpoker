@@ -4,6 +4,7 @@ from model.predictor import Predictor
 from flask import Flask, request, jsonify
 import time
 from celery import Celery
+from celery.result import allow_join_result
 import tempfile
 import os
 import zipfile
@@ -54,6 +55,12 @@ def fit_models(id):
 
 
 @celery.task
+def process_single_log_file(tournament_log):
+    tournament = interpret(tournament_log.replace(u'\ufeff', ''))
+    return [tournament.pre_flop_actions, tournament.flop_actions, tournament.turn_actions, tournament.river_actions]
+
+
+@celery.task
 def process_log_files(id):
     worker_session = Session()
     print("received prossing :" + id)
@@ -71,15 +78,21 @@ def process_log_files(id):
 
     worker_session.commit()
 
-    pre_flop_actions, flop_actions, turn_actions, river_actions = [], [], [], []
+    tasks, pre_flop_actions, flop_actions, turn_actions, river_actions = [], [], [], [], []
 
     for tournament_log in read_all_tournaments(dir):  # enumerable
+        tasks = tasks + \
+            [celery.send_task('wsgi.process_single_log_file', kwargs={
+                              "tournament_log": tournament_log})]
+
+    for task in tasks:
         try:
-            tournament = interpret(tournament_log.replace(u'\ufeff', ''))
-            pre_flop_actions = pre_flop_actions + tournament.pre_flop_actions
-            flop_actions = flop_actions + tournament.flop_actions
-            turn_actions = turn_actions + tournament.turn_actions
-            river_actions = river_actions + tournament.river_actions
+            with allow_join_result():
+                tournament = task.get()
+                pre_flop_actions = pre_flop_actions + tournament[0]
+                flop_actions = flop_actions + tournament[1]
+                turn_actions = turn_actions + tournament[2]
+                river_actions = river_actions + tournament[3]
         except:
             predictor.failed_files = predictor.failed_files + 1
             traceback.print_exc()
@@ -126,7 +139,7 @@ def upload():
 @app.route('/model', methods=['POST'])
 def model():
     p = session.query(Predictor).filter(
-        Predictor.id == request.args.get("id")).first()
+        Predictor.id == request.get_json()["id"]).first()
     p_dict = p.__dict__
     del p_dict['_sa_instance_state']
     return jsonify(p_dict)

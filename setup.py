@@ -17,7 +17,7 @@ setup(name='aisimpoker',
           'click',
           'sqlalchemy',
           'psycopg2-binary',
-          'celery==4.4.1',
+          'celery==4.4.7',
           'redis==3.4.1'
       ],
       zip_safe=False, packages=find_packages())
