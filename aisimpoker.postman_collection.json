@@ -1,0 +1,79 @@
+{
+  "info": {
+    "_postman_id": "88d078dc-10ab-4706-9b42-b3e2e62884a3",
+    "name": "aisimpoker",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "localhost:5000/upload",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "file",
+              "type": "file",
+              "src": ""
+            }
+          ]
+        },
+        "url": {
+          "raw": "localhost:5000/upload",
+          "host": ["localhost"],
+          "port": "5000",
+          "path": ["upload"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "localhost:5000/eval",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"id\": \"c6897d94-0b70-4be3-98c1-97dac17d8f2a\",\n  \"street\": \"pre_flop\",\n  \"hand_initial_stack_bbs\": 24.32,\n  \"hand_rank\": 3,\n  \"is_suited\": false,\n  \"is_pair\": false,\n  \"blind\": 50,\n  \"tournament_progress\": 26,\n  \"occupied_seats\": 9,\n  \"pot_bbs\": 5.98,\n  \"position\": 8,\n  \"position_category\": 3,\n  \"total_players_bbs\": 341.84,\n  \"opponents_sitting_out\": 0,\n  \"round\": 1,\n  \"opponent_raise_count\": 1,\n  \"opponent_fold_count\": 3,\n  \"opponent_call_count\": 1,\n  \"street_pot_bbs\": 3.64\n}\n",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "localhost:5000/eval",
+          "host": ["localhost"],
+          "port": "5000",
+          "path": ["eval"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "localhost:5000/model",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"id\": \"c6897d94-0b70-4be3-98c1-97dac17d8f2a\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "localhost:5000/model",
+          "host": ["localhost"],
+          "port": "5000",
+          "path": ["model"]
+        }
+      },
+      "response": []
+    }
+  ]
+}
