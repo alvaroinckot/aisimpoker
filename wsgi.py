@@ -1,17 +1,34 @@
-import traceback
 from model.base import Session, engine, Base
 from model.predictor import Predictor
+
 from flask import Flask, request, jsonify
-import time
+
 from celery import Celery
 from celery.result import allow_join_result
+
+import traceback
+import time
 import tempfile
 import os
 import zipfile
+import pickle
+
+
 from ml.dsl.hands import read_all_tournaments
 from ml.dsl.parser import interpret
-from xgboost import XGBClassifier
+
+from ml.engine.multi_column_label_encoder import MultiColumnLabelEncoder
+
 import pandas as pd
+
+from sklearn import tree
+from sklearn import model_selection
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import confusion_matrix
+from sklearn.metrics import mean_absolute_error
+
+from xgboost import XGBClassifier
+
 app = Flask(__name__)
 
 app.config['CELERY_BROKER_URL'] = 'redis://localhost:6379/0'
@@ -19,6 +36,7 @@ app.config['CELERY_RESULT_BACKEND'] = 'redis://localhost:6379/0'
 
 LOGS_DIR = "./logs"
 PROCESSED_LOGS_FILE_NAME_FORMAT = LOGS_DIR + "/summary_{}_{}.csv"
+TRAINNED_MODEL_FILE_NAME_FORMAT = LOGS_DIR + "/{}_{}.dat"
 
 
 def make_celery(app):
@@ -46,16 +64,56 @@ session = Session()
 
 
 @celery.task
-def fit_models(id):
-    print("received id to fit: " + id)
-    # train
-    # set predictor status as finished
-    # fit model and save in the predictor class
-    # set predictor status as finished
+def fit_model(id, street):
+    worker_session = Session()
+
+    print("received id to fit: " + id + " for the street " + street)
+    X = pd.read_csv(PROCESSED_LOGS_FILE_NAME_FORMAT.format(street, id))
+    X = MultiColumnLabelEncoder(
+        columns=["action", "street", "position", "position_category"]).fit_transform(X)
+
+    y = X['action']
+    del X['action']
+    del X['street']
+
+    X = X.to_numpy()
+    y = y.to_numpy()
+
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=.3, random_state=42, stratify=y)
+
+    classifier = XGBClassifier()
+    classifier = classifier.fit(X_train, y_train)
+
+    pickle.dump(classifier, open(
+        TRAINNED_MODEL_FILE_NAME_FORMAT.format(street, id), "wb"))
+
+    predicted = classifier.predict(X_test)
+    score = classifier.score(X_test, y_test)
+
+    predictor = worker_session.query(
+        Predictor).filter(Predictor.id == id).first()
+
+    if(street == 'pre_flop'):
+        predictor.pre_flop_success_rate = score
+
+    if(street == 'flop'):
+        predictor.flop_success_rate = score
+
+    if(street == 'turn'):
+        predictor.turn_success_rate = score
+
+    if(street == 'river'):
+        predictor.river_success_rate = score
+
+    predictor.status = 'finished'
+
+    worker_session.commit()
 
 
 @celery.task
 def process_single_log_file(tournament_log):
+    print("started to process a new file")
     tournament = interpret(tournament_log.replace(u'\ufeff', ''))
     return [tournament.pre_flop_actions, tournament.flop_actions, tournament.turn_actions, tournament.river_actions]
 
@@ -115,7 +173,10 @@ def process_log_files(id):
     pd.DataFrame(river_actions).fillna(0).to_csv(
         PROCESSED_LOGS_FILE_NAME_FORMAT.format("river", id), index=None, header=True)
 
-    celery.send_task('wsgi.fit_models', kwargs={"id": str(predictor.id)})
+    streets = ['pre_flop', 'flop', 'turn', 'river']
+    for street in streets:
+        celery.send_task('wsgi.fit_model', kwargs={
+                         "id": str(predictor.id), "street": street})
 
 
 @app.route('/upload', methods=['POST'])
@@ -145,7 +206,7 @@ def model():
     return jsonify(p_dict)
 
 
-@ app.route('/eval', methods=['POST'])
+@app.route('/eval', methods=['POST'])
 def eval():
     return '/eval'
 
