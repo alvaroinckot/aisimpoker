@@ -48,7 +48,7 @@ def process_poker_logs():
 
     # save data
     path = "./compilations/summary_{}_v{}.csv"
-    version = '24'
+    version = os.getenv("FILE_COMPILATION_VERSION")
 
     if(len(pre_flop_actions) > 0):
 

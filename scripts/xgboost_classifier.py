@@ -6,10 +6,11 @@ from sklearn.metrics import confusion_matrix
 from xgboost import XGBClassifier
 from sklearn.metrics import mean_absolute_error
 import pandas as pd
+import os
 
 
 path = "./compilations/summary_{}_v{}.csv"
-version = '24'
+version = os.getenv("FILE_COMPILATION_VERSION")
 streets = ['pre_flop', 'flop', 'turn', 'river']
 
 
