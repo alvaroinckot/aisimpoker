@@ -38,13 +38,6 @@ LOGS_DIR = "./logs"
 PROCESSED_LOGS_FILE_NAME_FORMAT = LOGS_DIR + "/summary_{}_{}.csv"
 TRAINNED_MODEL_FILE_NAME_FORMAT = LOGS_DIR + "/{}_{}.dat"
 
-# features = {
-#     "pre_flop": ["hand_initial_stack_bbs", "hand_rank", "is_suited", "is_pair", "blind", "tournament_progress", "occupied_seats", "pot_bbs", "position", "position_category", "total_players_bbs", "opponents_sitting_out", "round", "opponent_raise_count", "opponent_fold_count", "opponent_call_count", "street_pot_bbs"],
-#     "flop": ["hand_initial_stack_bbs", "hand_rank", "is_suited", "is_pair", "blind", "tournament_progress", "occupied_seats", "pot_bbs", "position", "position_category", "total_players_bbs", "opponents_sitting_out", "round", "hand_with_board_rank", "opponent_raise_count", "opponent_fold_count", "opponent_call_count", "opponent_check_count", "street_pot_bbs"],
-#     "turn": ["hand_initial_stack_bbs", "hand_rank", "is_suited", "is_pair", "blind", "tournament_progress", "occupied_seats", "pot_bbs", "position", "position_category", "total_players_bbs", "opponents_sitting_out", "round", "hand_with_board_rank", "opponent_raise_count", "opponent_fold_count", "opponent_call_count", "opponent_check_count", "street_pot_bbs"],
-#     "river": ["hand_initial_stack_bbs", "hand_rank", "is_suited", "is_pair", "blind", "tournament_progress", "occupied_seats", "pot_bbs", "position", "position_category", "total_players_bbs", "opponents_sitting_out", "round", "hand_with_board_rank", "opponent_raise_count", "opponent_fold_count", "opponent_call_count", "opponent_check_count", "street_pot_bbs"]
-# }
-
 
 def make_celery(app):
     celery = Celery(
