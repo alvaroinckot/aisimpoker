@@ -1,17 +1,47 @@
 version: '3.8'
 
 services:
-  aisimpoker:
-    build: .
-    env_file: .env
+  api:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    env_file: [.env, docker-compose.env]
     ports:
       - 5000:5000
+    volumes:
+      - logs:/app/logs
+    depends_on:
+      - postgres
+      - redis
+
+  worker:
+    build:
+      context: ./
+      dockerfile: Dockerfile.worker
+    env_file: [.env, docker-compose.env]
+    volumes:
+      - logs:/app/logs
+    depends_on:
+      - postgres
+      - redis
+
   postgres:
-    image: postgres
+    image: postgres:alpine
     env_file: .env
+    environment:
+      - POSTGRES_USER=aisimpoker
+      - POSTGRES_PASSWORD=aisimpoker
+      - POSTGRES_DB=aisimpoker
+    volumes:
+      - pgdata:/var/lib/postgresql/data
     ports:
       - 5432:5432
+
   redis:
-    image: redis
+    image: redis:alpine
     ports:
       - "6379:6379"
+
+volumes:
+  pgdata:
+  logs:

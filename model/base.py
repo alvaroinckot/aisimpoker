@@ -1,9 +1,8 @@
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
+import os
 
-engine = create_engine(
-    'postgresql://aisimpoker:aisimpoker@localhost:5432/aisimpoker')
+engine = create_engine(os.getenv("PG_CONNECTION_STRING"))
 Session = sessionmaker(bind=engine)
-
 Base = declarative_base()

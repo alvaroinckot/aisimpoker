@@ -31,8 +31,8 @@ from xgboost import XGBClassifier
 
 app = Flask(__name__)
 
-app.config['CELERY_BROKER_URL'] = 'redis://localhost:6379/0'
-app.config['CELERY_RESULT_BACKEND'] = 'redis://localhost:6379/0'
+app.config['CELERY_BROKER_URL'] = os.getenv('REDIS_CONNECTION_STRING')
+app.config['CELERY_RESULT_BACKEND'] = os.getenv('REDIS_CONNECTION_STRING')
 
 LOGS_DIR = "./logs"
 PROCESSED_LOGS_FILE_NAME_FORMAT = LOGS_DIR + "/summary_{}_{}.csv"
@@ -186,7 +186,7 @@ def process_log_files(id):
 def upload():
     file = request.files.get("file")
     if(file == None):
-        return {message: 'file cannot be empty.'}
+        return {'message': 'file cannot be empty.'}
 
     predictor = Predictor()
     session.add(predictor)
@@ -206,7 +206,7 @@ def model():
         Predictor.id == request.get_json()["id"]).first()
 
     if(predictor == None):
-        return {message: 'model not found.'}
+        return {'message': 'model not found.'}
 
     predictor_dictionary = predictor.__dict__
     del predictor_dictionary['_sa_instance_state']
