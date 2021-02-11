@@ -29,6 +29,7 @@ from sklearn.metrics import mean_absolute_error
 
 from xgboost import XGBClassifier
 
+
 app = Flask(__name__)
 
 app.config['CELERY_BROKER_URL'] = os.getenv('REDIS_CONNECTION_STRING')
