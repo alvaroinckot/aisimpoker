@@ -184,6 +184,7 @@ def process_log_files(id):
 
 
 @app.route('/upload', methods=['POST'])
+@cross_origin()
 def upload():
     file = request.files.get("file")
     if(file == None):
@@ -202,6 +203,7 @@ def upload():
 
 
 @app.route('/model', methods=['POST'])
+@cross_origin()
 def model():
     predictor = session.query(Predictor).filter(
         Predictor.id == request.get_json()["id"]).first()
@@ -215,6 +217,7 @@ def model():
 
 
 @app.route('/eval', methods=['POST'])
+@cross_origin()
 def eval():
     request_data = request.get_json()
     predictor = session.query(Predictor).filter(

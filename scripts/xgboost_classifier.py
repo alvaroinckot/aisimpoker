@@ -44,7 +44,7 @@ def fit():
         matrix = confusion_matrix(y_test, predicted)
 
         print("\nResultados baseados em Holdout 70/30")
-        print("Taxa de acerto = %.2f " % score)
+        print("Taxa de acerto = %.4f " % score)
         print("Matriz de confusao:")
         print(matrix)
 
@@ -54,8 +54,8 @@ def fit():
 
         print("\nResultados baseados em Validacao Cruzada")
         print("Qtde folds: %d:" % folds)
-        print("Taxa de Acerto: %.2f" % result.mean())
-        print("Desvio padrao: %.2f" % result.std())
+        print("Taxa de Acerto: %.4f" % result.mean())
+        print("Desvio padrao: %.4f" % result.std())
 
         # matriz de confusÃ£o da validacao cruzada
         Z = model_selection.cross_val_predict(clfb, X, y, cv=folds)
