@@ -12,6 +12,7 @@ import tempfile
 import os
 import zipfile
 import pickle
+from flask_cors import CORS
 
 
 from ml.dsl.hands import read_all_tournaments
@@ -31,6 +32,7 @@ from xgboost import XGBClassifier
 
 
 app = Flask(__name__)
+CORS(app)
 
 app.config['CELERY_BROKER_URL'] = os.getenv('REDIS_CONNECTION_STRING')
 app.config['CELERY_RESULT_BACKEND'] = os.getenv('REDIS_CONNECTION_STRING')
@@ -184,7 +186,6 @@ def process_log_files(id):
 
 
 @app.route('/upload', methods=['POST'])
-@cross_origin()
 def upload():
     file = request.files.get("file")
     if(file == None):
@@ -203,7 +204,6 @@ def upload():
 
 
 @app.route('/model', methods=['POST'])
-@cross_origin()
 def model():
     predictor = session.query(Predictor).filter(
         Predictor.id == request.get_json()["id"]).first()
@@ -217,7 +217,6 @@ def model():
 
 
 @app.route('/eval', methods=['POST'])
-@cross_origin()
 def eval():
     request_data = request.get_json()
     predictor = session.query(Predictor).filter(
